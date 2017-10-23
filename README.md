@@ -1,2 +1,2 @@
 # kfangtech
-GoKenny Project
+Awesome GoKenny Project
