@@ -1,0 +1,114 @@
+<!DOCTYPE html >
+<html>
+<head>
+
+<title>JavaScript</title>
+
+<style type="text/css">
+#bodyStyle {
+	font-family: Comic Sans MS;
+}
+</style>
+</head>
+
+<body id=bodyStyle>
+	Basic
+	<hr>
+	<noscript>Sorry, your browser does not support JavaScript!</noscript>
+
+	<p id=kuinai>Will Be Changed</p>
+
+	<button type=button onclick=changeString()>Change String</button>
+	<button type=button onclick=changeColor()>Change Color</button>
+
+	<script>
+		function changeString() {
+			document.getElementById("kuinai").innerHTML = "Something";
+		}
+	</script>
+
+	<script>
+		function changeColor() {
+			kuinai = document.getElementById('kuinai') // Find the element
+			kuinai.style.color = '#ff0000';
+			window.open("http://google.com");
+		}
+	</script>
+
+
+	<br>
+	<br>
+	<br> Programming
+	<hr>
+
+	<p>What day is it ?.</p>
+	<button onclick="myFunction()">Check</button>
+	<p id="demo"></p>
+
+	<script>
+		function myFunction() {
+			var x;
+			var d = new Date().getDay();
+			switch (d) {
+			case 0:
+				x = "Today it's Sunday";
+				break;
+			case 1:
+				x = "Today it's Monday";
+				break;
+			case 2:
+				x = "Today it's Tuesday";
+				break;
+			case 3:
+				x = "Today it's Wednesday";
+				break;
+			case 4:
+				x = "Today it's Thursday";
+				break;
+			case 5:
+				x = "Today it's Friday";
+				break;
+			case 6:
+				x = "Today it's Saturday";
+				break;
+			}
+			document.getElementById("demo").innerHTML = x;
+		}
+	</script>
+
+	<br>
+	<br>
+	<br> Class Test
+	<hr>
+
+	<div class="theClass">Div 1</div>
+	<div class="theClass">Div 2</div>
+	<div class="theClass">Div 3</div>
+	<button id="theButton">Target Class Group</button>
+
+	<script type="text/javascript">
+	
+		document.getElementById("theButton").onclick = function kennyFunction() {
+			
+			var elemArray = document.getElementsByClassName('theClass');
+			
+			for ( var i = 0; i < elemArray.length; i++) {
+				
+				// 1. Change The Background Color
+				elemArray[i].style.background = "orange";
+				
+				// 2. Add Click Listener To Each Element Of The Class
+				elemArray[i].onclick = function (element) {
+					alert(this.innerHTML);
+					
+			}
+			
+			}
+			
+		};
+		
+	</script>
+
+
+</body>
+</html>

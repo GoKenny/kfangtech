@@ -1,0 +1,44 @@
+
+.centerIt {
+	
+	margin: auto;
+	
+	width: 700px;
+	padding: 5px;
+	
+	border: 1px solid silver;
+}
+
+div {
+	margin-top: 10px;
+}
+
+a {
+	display: inline-flex;
+	padding: 1px;
+	background: black;
+	width: 80px;
+	color: #4B9CE9;
+}
+
+.newClass{
+	font-size: 1.2em;
+	color: purple;
+}
+
+
+
+.fadeOut{
+	margin-left: 150px;
+    opacity: 0;
+    transition: margin-left 1200ms, opacity 1s;;
+    
+/*      transition-property: margin-left, opacity; */
+/*       transition-duration: 2s; */
+    
+}
+
+.fadeIn{
+    opacity: 1;
+    transition: opacity 1500ms;
+}

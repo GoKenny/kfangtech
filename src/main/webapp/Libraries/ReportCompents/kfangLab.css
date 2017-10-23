@@ -1,0 +1,59 @@
+
+/**********Tweet Box********/
+body {
+	font-family: "Segoe Print";
+}
+
+.hiddenURL{
+	display: none;
+}
+
+
+.tweetBox {
+	
+	float: left;
+	
+	margin-left: 40px;
+	
+	font-size: 9pt;
+	font-family: "Calibri";
+	
+	width: 250px; 
+	min-height: 100px; 
+	border: 1px solid grey;
+	
+/* 	margin: auto; */
+	
+	background: white; 
+	
+	zoom: 1.4;
+}
+
+.tweetAuthorRow{
+	
+	padding: 5px; 
+	height: 30px;
+	
+	border-bottom: solid silver 1px;
+	
+	background: white; 
+}
+
+
+.authorImage {
+	height: 30px;
+	width: 30px; 
+	padding: 0px; 
+	background: red; 
+}
+
+.authorText{
+	margin-left: 35px;
+	
+	background: ;
+}
+
+.authorID{
+	color: grey;
+}
+

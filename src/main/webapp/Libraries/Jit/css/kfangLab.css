@@ -1,0 +1,230 @@
+/**
+ * Personal Library
+ *
+ * Author: Kenny Fang
+ * 
+ * Email: kuinai.fang@gmail.com
+ * LinkedIn: https://ca.linkedin.com/in/kuinaifang
+ * 
+ * All Rights Reserved
+ * 
+ */
+
+html {
+	height: 100%;	
+}
+
+body {
+	
+	height: 100%;
+ 
+    margin:0;
+    padding:0;
+    font-family: "sans-serif";
+    font-size: 0.9em;
+    text-align: center;
+    background-color:#F2F2F2;
+    
+	background: #BCC0C4;
+}
+
+/*****Customized Scroll Bar*****/
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-button {
+/*     background: #ccc */
+}
+
+::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+    background: #005EBC;
+}
+
+::-webkit-scrollbar-track-piece {
+    background: #888
+}
+
+
+#leftSection {
+	
+	float: left;
+	
+	position: relative;
+	
+	width: 300px;
+	height: 100%;
+	
+	border-right: 1px solid black;	
+	
+	background: silver;
+}
+
+
+#container {
+	
+/* 	display: none; */
+    width: 100%;
+    height: 100%;
+    margin:0 auto;
+    position:relative;
+    
+    background: orange;
+}
+
+
+.theTable {
+    margin-top:-10px;
+    margin-left:7px;
+}
+
+
+#swithContainer {
+	
+	display: none;
+	
+	width: 120px;
+
+	font-size: 0.8em;
+
+	color: black;
+    text-align: left;
+	position: absolute;
+  	top: 0;
+
+	background: rgba(255, 255, 255, 0.3);
+    border-bottom:1px solid #ddd;
+    border-right:1px solid #ddd;
+    
+    z-index: 1000;
+}
+
+
+.selectionMode {
+/* 	display: none; */
+}
+
+
+#diagramContainer {
+	
+    width: 100%;
+    height: 100%;
+/*     left:200px; */
+    background: #1a1a1a;
+    
+    color:#ccc;
+}
+
+
+#inner-details {
+    font-size:0.8em;
+    list-style:none;
+    margin:7px;
+}
+
+#log {
+	
+    position:absolute;
+  
+    top: 40px;
+    left: 0;
+    right: 0;
+  
+    font-size:1.0em;
+    font-weight:bold;
+    color:#23A4FF;
+    
+    z-index: 10;
+}
+
+#theDiagram {
+	
+    position:relative;
+    width: 100%;
+    height: 80%;
+    margin:auto;
+    overflow:hidden;
+    
+/*     background: grey; */
+}
+
+/*TOOLTIPS*/
+.tip {
+    color: #111;
+    width: 139px;
+    background-color: white;
+    border:1px solid #ccc;
+    -moz-box-shadow:#555 2px 2px 8px;
+    -webkit-box-shadow:#555 2px 2px 8px;
+    -o-box-shadow:#555 2px 2px 8px;
+    box-shadow:#555 2px 2px 8px;
+    opacity:0.9;
+    filter:alpha(opacity=90);
+    font-size:10px;
+    font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+    padding:7px;
+}
+
+
+
+
+.jit-autoadjust-label {
+/*   padding: 15px; */
+}
+
+#update, #restore {
+  text-align: center;
+  width: 100px;
+  margin:0px 35px 10px 35px;
+}
+
+.button {
+  display: inline-block;
+  outline: none;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  font: 14px / 100% Arial, Helvetica, sans-serif;
+  padding: 0.5em 1em 0.55em;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.3);
+  -webkit-border-radius: 0.5em;
+  -moz-border-radius: 0.5em;
+  border-radius: 0.5em;
+  -webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.button:hover {
+  text-decoration: none;
+}
+
+.button:active {
+  position: relative;
+  top: 1px;
+}
+
+/* white */
+.white {
+  color: #606060;
+  border: solid 1px #b7b7b7;
+  background: #fff;
+  background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#ededed));
+  background: -moz-linear-gradient(top,  #fff,  #ededed);
+  filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ededed');
+}
+
+.white:hover {
+  background: #ededed;
+  background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#dcdcdc));
+  background: -moz-linear-gradient(top,  #fff,  #dcdcdc);
+  filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#dcdcdc');
+}
+
+.white:active {
+  color: #999;
+  background: -webkit-gradient(linear, left top, left bottom, from(#ededed), to(#fff));
+  background: -moz-linear-gradient(top,  #ededed,  #fff);
+  filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#ffffff');
+}

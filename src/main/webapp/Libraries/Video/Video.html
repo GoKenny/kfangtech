@@ -1,0 +1,98 @@
+<!DOCTYPE html >
+<html>
+<head>
+
+<title>Video</title>
+
+<style type="text/css">
+#bodyStyle {
+	font-family: Comic Sans MS;
+	text-align: center;
+}
+</style>
+</head>
+
+<body id=bodyStyle>
+
+
+	<video width=320 height=240 controls>
+		<source src=http://w3schools.com/html/movie.mp4 type=video/mp4></source>
+		<!-- >source src='G:\Nine\Movies\House of Cards\House.Of.Cards.2013.S01E06.480p.WEBRip.x264-BTN.mkv' type=video/ogg ></source -->
+	</video>
+
+	<br>
+	<br>
+	<br>
+	
+	Youtube<br>
+	<br>
+    <embed width=720 height=480
+			src=http://www.youtube.com/v/-hNrdtfchc8
+			type=application/x-shockwave-flash>
+	</embed>    
+
+    
+    <br>
+    <br>
+    <br>
+    With Javascript
+	<div style="text-align: center">
+		<video id="video1" width="420" controls >
+			<source src="http://w3schools.com/html/mov_bbb.mp4" type="video/mp4"></source>
+			<source src="http://w3schools.com/html/mov_bbb.ogg" type="video/ogg"></source>
+		</video>
+		<br>
+		<button onclick="playPause()">Play/Pause</button>
+		<button onclick="bigger()">Bigger</button>
+		<button onclick="smaller()">Smaller</button>
+		<button onclick="normal()">Normal</button>
+	</div>
+
+    <a id=hiddenInfo></a>
+
+	<script>
+		var kuinaiVideo = document.getElementById("video1");
+
+		function playPause() {
+			if (kuinaiVideo.paused)
+				kuinaiVideo.play();
+			else
+				kuinaiVideo.pause();
+		}
+
+		function bigger() {
+			kuinaiVideo.width = 560;
+			 document.getElementById("hiddenInfo").innerHTML="Width Now Is 560"
+		}
+
+		function smaller() {
+			kuinaiVideo.width = 320;
+			 document.getElementById("hiddenInfo").innerHTML="Width Now Is 320"
+		}
+
+		function normal() {
+			kuinaiVideo.width = 420;
+		}
+	</script>
+	
+	<br>
+	<br>
+	
+	Embeded<br>
+	<object type='application/x-shockwave-flash' 
+					data='http://c.brightcove.com/services/viewer/federated_f9?&amp;width=650&amp;height=630&amp;flashID=myExperience&amp;bgcolor=%23FFFFFF&amp;playerID=2031022045001&amp;playerKey=AQ~~%2CAAAAviOqv7k~%2CQQhe6-w6e4THA24R_ENfTgYYaGqidtwR&amp;isVid=true&amp;dynamicStreaming=true&amp;autoStart=true&amp;debuggerID=&amp;videoID=2680368833001&amp;%40videoPlayer=2680368833001&amp;startTime=1379640223177' 
+					width=650 height=630 
+					seamlesstabbing=undefined>
+		
+			<param name=allowScriptAccess value=always>
+			<param name=allowFullScreen value=true>
+			<param name=seamlessTabbing value=false>
+			<param name=swliveconnect value=true>
+			<param name=wmode value=window>
+			<param name=quality value=high>
+			<param name=bgcolor value=#FFFFFF>
+	</object>
+
+
+</body>
+</html>

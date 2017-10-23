@@ -1,0 +1,44 @@
+* {
+	margin: auto;
+	padding: 0;
+}
+
+a {	color: white; color: rgb(30, 193, 226); font-family: 'Segoe Script'}
+
+b { font-family: Segoe Print; font-size: 31pt; font-weight: bold; color: white;}
+
+.theWeather {
+	
+	position: relative !important; 
+	margin-right: 2% !important; 
+	margin-top: 150px !important; 
+	float: right !important; 
+	 
+}
+
+.myImage {
+	height: 50px; 
+}
+
+.myTitle{
+	
+	position: relative;
+	top: 100px;
+	
+	font-family: Segoe Script;
+	font-size: 9pt;
+	font-weight: ;
+	color: white;
+}
+
+/*****************Dialog****************/
+.ui-dialog-titlebar {
+	
+  background-color: grey;
+  background-image: none;
+  font-size: 11pt;
+}
+
+.ui-dialog {
+	font-size: 11pt;
+}

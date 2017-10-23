@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans 	xmlns="http://www.springframework.org/schema/beans" 
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+		xsi:schemaLocation=" 	http://www.springframework.org/schema/beans
+                            	http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+	<!-- 1. Point This Bean To That Class -->
+	<bean id="kuinai" class="Spring.Kuinai">
+
+		<!-- 2. Inject These Data To The Class Variables -->
+		<property name="name" value="Kuinai Fang"></property>
+		<property name="age" value="10"></property>
+
+	</bean>
+
+
+	<bean id="lebron" class="Spring.Lebron">
+
+		<property name="name" value="Lebron James"></property>
+		<property name="age" value="10"></property>
+
+	</bean>
+	
+	
+	<bean id="thePeople" class="Spring.SimpleSpring.People">
+
+		<!-- 2. Inject These Data To The Class Variables -->
+		<property name="name" value="Kuinai Fang"></property>
+		<property name="age" value="10"></property>
+
+	</bean>
+
+
+
+	<!-- 1. Point To That Class -->
+	<bean id="TeamA" class="Spring.TeamA">
+
+		<!-- 2. Point To That Variable List -->
+		<property name="players">
+		
+			<!-- 3. Inject List Of Objects To That List -->
+			<list>
+				<ref bean="kuinai" />
+				<ref bean="lebron" />
+			</list>
+			
+		</property>
+
+	</bean>
+
+</beans>  

@@ -1,0 +1,10 @@
+IDE
+	https://developers.openshift.com/getting-started/eclipse.html
+
+753951
+
+Force Stop
+	rhc app-stop -a kfangtech
+
+Clean Up Space
+	rhc app tidy kfangtech

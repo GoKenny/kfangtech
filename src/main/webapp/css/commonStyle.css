@@ -1,0 +1,266 @@
+/**
+ * 
+ * Author: Kenny Fang
+ * 
+ * Email: kuinai.fang@gmail.com
+ * LinkedIn: http://www.linkedin.com/profile/view?id=134048517
+ * 
+ * All Rights Reserved
+ * 
+ */
+
+html {
+	
+	min-height: 100%;
+	box-shadow: 0 0 100px rgba(0,0,0,.5) inset;
+	-moz-box-shadow: 0 0 100px rgba(0,0,0,.5) inset;
+	background: #1F1F1F;
+/* 	background-image: url("../images/textureDots.png");	 */
+}
+
+::-webkit-scrollbar {
+    width: 15px;
+}
+
+::-webkit-scrollbar-button {
+/*     background: #ccc; */
+}
+
+::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+    background: #4158BC;
+}
+
+::-webkit-scrollbar-track-piece {
+    background: #888;
+}
+ 
+#bodyStyle {
+	
+	height: 100%;
+	
+	text-align: center;
+	font-family: "segoe print";
+	font-size: 0.9em;
+	padding: 0px;
+	
+	margin: 0px; 
+
+	overflow: auto; 
+}
+
+a:hover {
+	color: white;
+}
+
+
+.pageLinks {
+	
+	float: left;
+	width: 115px;
+	height: 100%;
+	color: white;
+	font-size: 0.8em;
+/* 	margin-top: 2px; */
+	padding-top: 5px;
+	border-right: 1px solid silver;
+}
+
+#currentPage {
+	
+	color: white;
+	font-weight: bold; 
+	background: black; 
+}
+
+#theLink {
+	color: white;
+	padding: 8px;
+}
+
+#logout {
+	
+	float: right;
+	width: 55px;
+	margin-right: 20px;
+    margin-top: 2px;
+	border-bottom: 1px solid;
+	height: 21px;
+	color: silver;
+	cursor: pointer;
+	
+	font-family: "segoe script";
+	font-size: 1em;
+	font-weight: bold;
+}
+
+.theUserContainer{
+	
+	float: right;
+	width: 150px;
+	border-right: 1px solid silver;	
+	margin-right: 20px;
+	margin-top: 2px;
+	
+	color: #DCDCDC;
+	font-size: 1em;
+	font-family: Segoe Print;
+}
+
+#theUserRole{
+	color: yellow;
+}
+
+
+
+#logout:hover {
+	color: white;
+}
+
+.centerStyle {
+	
+	color: white;
+	
+	padding-bottom: 10px;
+	
+	font-family: comic sans ms;
+	text-align: center;
+
+	max-width: 1050px;
+/* 	width: 800px; */
+	min-height: 700px;
+	margin: auto;
+	
+	/**Border*/
+	border-left-color: grey;
+	border-left-style: solid;
+	border-left-width: 1px;
+	
+	border-right-color: grey;
+	border-right-style: solid;
+	border-right-width: 1px;
+	
+	border-bottom-color: grey;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	
+	background: black;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	
+	box-shadow: oldlace 0px 2px 60px -17px;
+
+/* 	padding-bottom: 240px; */
+
+	overflow: hidden;
+}
+
+.centerStyle:HOVER {
+/* 	//background-image: url("../Images/takeAbr1.jpg"); */
+/* 	//background-size: 100% 960px ; */
+/* 	//background-repeat: repeat; */
+}
+
+
+.fixedBanner {
+	
+	position: fixed;
+	overflow: hidden;
+
+	width: 100%;
+	height: 30px;
+	
+	//background-image: url("../Images/banner.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	
+	z-index: 1000;
+/* 	background: rgba(0, 0, 0, 0.7);			half transparent color */
+}
+
+.imageContainer{
+	
+	margin: auto;
+	max-width: 1050px;
+	height: 100%;
+	
+	border-left-color: grey;
+	border-left-style: solid;
+	border-left-width: 1px;
+	
+	border-right-color: grey;
+	border-right-style: solid;
+	border-right-width: 1px;
+	
+	background: linear-gradient(black,grey);
+/* 	background: #708090; */
+}
+
+.imageConfig{
+	
+	width: 100%;
+	height: 100%;
+	background: orange;
+}
+
+
+.centerSection{
+	margin: auto; 
+	width: 350px;
+}
+
+
+
+.weatherConfig{
+	
+	border: 0;
+	
+	width: 280px;
+	height: 250px;
+	overflow: hidden;
+}
+
+.ui-selectmenu-menu, .ui-front {
+	display: none;
+}
+
+.ui-loader h1 {
+	display: none;
+}
+
+.developedBy {
+	float: right; 
+	text-align: right; 
+	margin-right: 30px; 
+	margin-top: 280px;
+	
+	color: white; 
+	font-family: "segoe script";
+	font-size: 7pt;
+}
+
+@media all and (max-width:400px) {
+	
+	.fixedBanner {
+	  height: 35px;
+  }
+	
+	.centerStyle {
+		border: none;
+	}
+	
+	
+	.pageLinks {
+		margin-top: 3px;
+		width: 120px;
+	}
+	
+	#logout {
+	  margin-right: 35px;
+	  padding-top: 10px;
+	  font-size: 0.8em;
+	  height: 15px;
+	}
+	
+	
+}

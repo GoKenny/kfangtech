@@ -1,0 +1,58 @@
+* {
+	margin: auto;
+	padding: 0;
+}
+
+.centerStyle {
+	
+	font-family: comic sans ms;
+	text-align: center;
+	background: black;
+
+	overflow: hidden;
+}
+
+
+.inputSection {
+	
+	background: silver; 
+
+	min-height: 120px;
+	width: 400px; 
+	
+	overflow: auto;
+}
+
+
+#button {
+	
+	font-family: "Segoe Print";
+	font-weight: bold;
+	font-size: 8pt;
+	
+	float: right;
+	margin-right: 5px;
+	
+	padding: 2px;
+	width: 70px;
+}
+
+
+.outputSection {
+	
+	background: silver; 
+	
+	min-height: 120px;
+	width: 400px; 
+	
+	text-align: center;
+	
+	overflow: auto;
+}
+
+.theResult {
+	
+	margin-top: 45px;
+	
+}
+

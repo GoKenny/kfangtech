@@ -1,0 +1,169 @@
+XP系统服务启动项优化设置2006-12-08 17:46XP系统服务启动项优化设置 让你的电脑跑得更快
+限xp系统
+很多服务基本上是垃圾 但很多服务却又是必不可少的   一时让人难以取舍终于搜到这个 还有祥细解析   试用无误 还真觉着自已的电脑是清爽了不少拿出来给大伙分享   有兴趣有一定基础的值得一试....
+
+　　众所周知，Windows XP集成了许多功能和服务，所以在很多领域得以应用；但是有很多服务是我们个人用户所用不到的，开启只会浪费内存和资源，而且，还影响启动速度和运行速度。经我参考了众多的文章和微软的技术资料，在试验关掉大部分没用的服务以后，系统的资源占用率有了大幅度的下降，系统运行当然也就更加顺畅了。
+       关闭服务的方法：我的电脑-控制面板-管理工具-服务。
+        
+        如果调整后电脑出了问题，重新开启那个服务就可以了。设定时右击一个服务，可以选择关闭，手动，还是自动(自动为跟Windows一起启动)。手动为需要时它自行启动。禁止为永远不启动。以下是每个服务的详细说明。
+
+注意：只要开头带*的服务不要关闭！！不然，后悔别怪我。
+
+alerter—错误警报器，垃圾。(你绝对要关的，不然，非烦死你不可) 
+
+application layer gateway service—给与第三者网络共享/防火墙支持的服务，有些防火墙/网络共享软件需要。(例如瑞星某版本的防火墙等) 
+
+application management—用于设定，发布和删除软件服务。 (不要改动它)
+
+automatic updates—windows自动更新，滚！ (不管是哪个版本的XP，都关了吧。留着也没用了)
+
+background intelligent transfer service—这个服务原是用来实现http1.1服务器之间的信息传输，微软称支持windows更新时断点续传 。(就是V5的断点续传，既然都不更新了，也关闭吧)
+
+clipbook—用与局域网电脑来共享/粘贴/剪贴的内容。(等于打开你电脑中的后门让黑客和木马程序攻击你的电脑)
+
+com+Event system—一些 COM+软件需要，检查你的 c:\\programfiles\\ComPlus Applications 目录，没东西可以把这个服务关闭。(先看看那个文件夹再决定)
+
+COM+Event system application—同上(不说了) 
+
+Computer browser—用来浏览局域网电脑的服务，但关了也不影响浏览！(就是提前把局域网中的信息cache，没什么用处，有点消耗内存)
+
+cryptographic services—windows更新时用来确认Windows文件指纹的。 (一般可设置为手动或自动，免得在安装某些软件时出现莫名其妙的提示)
+
+DHCP client—静态IP者需要(xDSL等)，小猫就不用了。 (开着吧，省的出现莫名其妙的问题)
+
+Distributed link tracking client—用于局域网更新连接信息，比如在电脑A有个文件，在B做了个连接，如果文件移动了，这个服务将会更新信息。占用4兆内存。 (一般用户用不到，可以关闭；但企业用户就别关闭了)
+
+Distributed Transaction coordinator—无聊的东西。 (还是一般用户用不到)
+
+DNS Client—DNS解析服务。 (还是一般用户用不到；前提是你的电脑不做DNS服务器)
+
+Error reporting service—错误报告器，把windows中错误报告给微软。(关，及其让人反感的东东)
+
+＊Event Log—系统日志纪录服务，很有用于查找系统毛病。(你要是强行关闭了，你别后悔.....)
+
+Fast user switching compatibility—多用户快速切换服务。 (就是开始-注消中的用户切换，自己决定)
+
+help and support—帮助。(就是开始-帮助；一般可以设置为手动) 
+
+Human interface device   access—支持“弱智“电脑配件的。比如键盘上调音量的按钮等等(一般不要关闭)
+
+IMAPI CD-burning COM service—XP刻牒服务，用软件就不用了。(关了吧，没什么用处) 
+
+Indexing service—恐怖的xp减速的东东！！(具体资料没有，非关它不可！)
+
+Internet Connection Firewall(ICF)—xp防火墙。(就是XP自带的网络防火墙，关了吧，不如其他杀软的网络防火墙)
+
+IPSEC Services—大众用户连边都沾不上。(具体资料没有，但我是关了的) 
+
+Logical Disk manager—磁盘管理服务。(建议设置为手动)
+
+Logical Disk manager administrative service—同上。 (不说了)
+
+messenger—不是msn；不想被骚扰的话就关。(注：妖X就是利用这个) 
+
+MS software shadow copy provider—无用。(是系统自带的备份工具的服务，我看没什么用) 
+
+Net Logon—登陆Domain Controller用的。(大众用户快关！ )
+
+Netmeeting remote desktop sharing—用Netmeeting实现电脑共享。(谁还用它？一个很土的软件，关！) 
+
+Network Connections—上网/局域网要用的东东！(别关，共享功能就靠它)
+
+Network DDE—和Clipbook一起用的。(关不关，自己决定)
+
+Network DDE DSDM—同上(不说了)
+
+Network Location Awareness—如有网络共享或ICS/ICF可能需要。(比如：网吧的服务器必须设置为自动)
+
+NT LM Security support provider—telnet服务用的东东。(关了吧~) 
+
+NVIDIA Driver Helper service—nvidia显卡帮助。(关了它，可减少2MB内存使用空间)
+
+PDEngine—perfectdisk引擎 (一般不要动)
+
+PDScheduler—perfectdisk计划服务 (同上)
+
+PerFORMance logs and   alerts—记录机器运行状况而且定时写入日志或发警告。(内容可能过于专业，所以~~自己决定) 
+
+＊Plug and Play—自动查测新装硬件，(就是即插即用)
+
+Portable media serial number—绝对无用。(关了吧~)
+
+Print Spooler—打印机用(就是把准备打印的东东先cache，一般可以关了；但网络打印机就不要关闭了)
+
+Protected Storage—储存本地密码和网上服务密码的服务。(常见的有：填表时的“自动完成”功能 )
+
+Remote access auto connection manager—宽带者/网络共享可能需要！(关了它？除非你是用电话线上网) 
+
+Remote desktop help session manager—远程帮助服务。(安全(关闭)与方便(自动或手动)，你选择哪个？)
+
+＊Remote Procedure Call (RPC)—系统核心服务！(你敢关它？！) 
+
+Remote Procedure Call   LOCATOR—管理RPC数据库服务。(这个倒没什么用)
+
+remote registry—远程注册表运行/修改。(大漏洞，还不快关！) 
+
+removable storage—一般情况下不用。(磁带备份用的) 
+
+routing and remote access—不知者关！(绝对没有坏处) 
+
+secondary logon—给与administrator以外的用户分配指定操作权。(默认吧)
+
+security accounts manager—像Protected Storage，IIS Admin 才需要。(不要修改) 
+
+server—局域网文件/打印共享需要的。(网络打印机的必须品)
+
+shell hardware detection—给有些配置自动启动。(例如：U盘和有些cd驱动器等) 
+
+smart card—关。(你还用N年前的设备么？) 
+
+smart card helper—关！ (同上)
+
+SSDP Discovery service—没有什么硬件利用这个服务。(XP的核心果然是N年前的产物）
+
+system event notification—记录用户登录/注销/重起/关机信息。(产生的LOG文件足以让你头痛，关了吧)
+
+system restore service—系统还原服务，吃资源和内存的怪兽。(不说了，自己决定)
+
+task scheduler—windows计划服务。(某些杀软升级必须依赖的服务，你自己决定)
+
+TCP/IP NetBIOS helper—如果你的网络不用Netbios 或WINS。(你只有在安全(关闭)与方便(自动或手动)中选择)
+
+Telephony—拨号服务。(如果你的宽带不用拨号，那么关了它) 
+
+telnet—大漏洞。(系统的大漏洞，这跟dos中telnet命令没关系)
+
+terminal services—实现远程登录本地电脑，快速用户切换和远程桌面功能需要。(不用这些功能就关了吧) 
+
+themes—支持xp华丽的外表。(一般不要关) 
+
+uninterruptible power supply—支持UPS的服务。(没有UPS的就关) 
+
+universal plug and play device host—同SSDP Discovery Service ，没用。(关了吧，垃圾就是垃圾)
+
+upload manager—用来实现服务器和客户端输送文件的服务。(简单文件传输不需要这个)
+
+volume shadow copy—同MS Software Shadow Copy Provider一样无用。(一个字：关)
+
+webclient—可能和以后的.net技术有联系。(安全起见，我关得实实的) 
+
+＊Windows Audio—控制着你听到的声音。(关了就没声音了)
+
+Windows Installer—windows的MSI安装服务。(建议设成手动) 
+
+windows image acquisition (WIA)—有些数码相机和扫描器用的。(开着吧，不然，MM通过摄像头就看不到你了，呵呵) 
+
+＊Windows Management Instrumentation—满重要的服务，是管＂服务依靠＂的。(跟RPC服务是同一个等级)
+
+windows management instrumentation driver    extensions—没上面的重要。(建议设成手动)
+
+windows time—网上时间校对。(就是屏幕右下角的时间自动校对，没用，关)
+
+wireless zero configuration—无线网络设置服务。(你在无线局域网中么？)
+
+WMI performance adapter—关！(跟上面的WMI不是同一路服务)
+
+＊Workstation—很多服务都依靠这个服务。(支持联网和打印/文件共享的) 
+
+ 
+

@@ -1,0 +1,37 @@
+<!DOCTYPE html >
+<html>
+<head>
+
+<title> JavaScript </title>
+
+<style type="text/css">
+#bodyStyle {font-family: Comic Sans MS;}
+</style>
+</head>
+
+<body id=bodyStyle >
+<br><br><br>
+<noscript>Sorry, your browser does not support JavaScript!</noscript>
+
+<a onclick=showHidden()>ShowMessage </a><br><br>
+<a id=hiddenA></a>
+
+<br>
+This is a JavaScript Test
+
+<script>
+function showHidden(){
+	message='My Name Is <br> Something<br>';
+	hiddenA=document.getElementById('hiddenA');
+	
+	if (hiddenA.innerHTML=='') {
+		hiddenA.innerHTML=message;
+	}
+	else {
+		hiddenA.innerHTML='';
+	}
+}
+</script>
+
+</body>
+</html>

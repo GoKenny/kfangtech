@@ -1,0 +1,898 @@
+{ "year" : 2012 , "month" : 7 , "dateNumb" : 20 , "amount" : 450.0 , "comment" : "Road Bike" , "type" : 2}
+{ "amount" : 340.0 , "comment" : "The Average" , "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "type" : 1}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 22 , "amount" : 52.2 , "comment" : "Linning + Anta Shoes" , "type" : 2}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 22 , "amount" : 28.13 , "comment" : "Contacts x 3(sets) x 2" , "type" : 2}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 22 , "amount" : 29.83 , "comment" : "Shirts: white x 3 + black x 4 + grey x 3" , "type" : 2}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 22 , "amount" : 22.37 , "comment" : "Pants: Black x 5 + Grey x 5 + Silver x 5" , "type" : 2}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 22 , "amount" : 17.01 , "comment" : "Sports Socks: Black x 8 + White x 5 + Both x 3" , "type" : 2}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 23 , "amount" : 50.0 , "comment" : "Tungsten & Blue Stone Watch " , "type" : 2}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 23 , "amount" : 140.5 , "comment" : "Sony S Series MP3 " , "type" : 2}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 23 , "amount" : 22.6 , "comment" : "Basketball Trousers x 2 " , "type" : 2}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 23 , "amount" : 46.61 , "comment" : "2.1 Stereo " , "type" : 2}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 23 , "amount" : 23.05 , "comment" : "Jeans x 2" , "type" : 2}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 25 , "amount" : 15.59 , "comment" : "Basketball Shirts x 2" , "type" : 2}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 25 , "amount" : 32.14 , "comment" : "Ear-buds: Sony x 4 + UE220 " , "type" : 2}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 29 , "amount" : 236.44 , "comment" : "EMS International Freight by Air" , "type" : 2}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 31 , "amount" : 325.08 , "comment" : "Thinkpad x61" , "type" : 2}
+{ "amount" : 341.0 , "comment" : "The Average" , "year" : 2013 , "month" : 2 , "dateNumb" : 1 , "type" : 1}
+{ "year" : 2013 , "month" : 2 , "dateNumb" : 2 , "amount" : 25.4 , "comment" : "Ocean Fish Oil" , "type" : 2}
+{ "year" : 2013 , "month" : 3 , "dateNumb" : 1 , "amount" : 12.85 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 3 , "dateNumb" : 4 , "amount" : 16.61 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 3 , "dateNumb" : 7 , "amount" : 25.45 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 3 , "dateNumb" : 7 , "amount" : 57.63 , "comment" : "Gospel Radio x 4" , "type" : 2}
+{ "year" : 2013 , "month" : 3 , "dateNumb" : 8 , "amount" : 35.85 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 3 , "dateNumb" : 8 , "amount" : 12.2 , "comment" : "Wireless Mouse x 2" , "type" : 2}
+{ "year" : 2013 , "month" : 3 , "dateNumb" : 9 , "amount" : 26.53 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 3 , "dateNumb" : 10 , "amount" : 26.78 , "comment" : "Sony Teaching Speaker" , "type" : 2}
+{ "year" : 2013 , "month" : 3 , "dateNumb" : 15 , "amount" : 27.18 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 3 , "dateNumb" : 17 , "amount" : 29.14 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 3 , "dateNumb" : 22 , "amount" : 35.75 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 3 , "dateNumb" : 27 , "amount" : 23.33 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 4 , "dateNumb" : 1 , "amount" : 19.63 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 4 , "dateNumb" : 5 , "amount" : 20.86 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 4 , "dateNumb" : 10 , "amount" : 29.5 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 4 , "dateNumb" : 10 , "amount" : 28.53 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 4 , "dateNumb" : 12 , "amount" : 38.93 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 4 , "dateNumb" : 14 , "amount" : 21.7 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 4 , "dateNumb" : 19 , "amount" : 15.32 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 4 , "dateNumb" : 22 , "amount" : 17.18 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 4 , "dateNumb" : 26 , "amount" : 20.28 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 5 , "dateNumb" : 1 , "amount" : 32.79 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 5 , "dateNumb" : 6 , "amount" : 32.2 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 5 , "dateNumb" : 8 , "amount" : 5.98 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 5 , "dateNumb" : 10 , "amount" : 35.01 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 5 , "dateNumb" : 10 , "amount" : 11.15 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 5 , "dateNumb" : 13 , "amount" : 24.12 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 5 , "dateNumb" : 14 , "amount" : 27.13 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 5 , "dateNumb" : 19 , "amount" : 16.08 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 5 , "dateNumb" : 21 , "amount" : 17.72 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 5 , "dateNumb" : 28 , "amount" : 19.43 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 6 , "dateNumb" : 1 , "amount" : 20.49 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 6 , "dateNumb" : 1 , "amount" : 23.35 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 6 , "dateNumb" : 3 , "amount" : 34.9 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 6 , "dateNumb" : 6 , "amount" : 15.92 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 6 , "dateNumb" : 7 , "amount" : 23.44 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 6 , "dateNumb" : 14 , "amount" : 28.28 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 6 , "dateNumb" : 15 , "amount" : 31.28 , "comment" : "Coffee Beans" , "type" : 1}
+{ "year" : 2013 , "month" : 6 , "dateNumb" : 17 , "amount" : 14.32 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 6 , "dateNumb" : 19 , "amount" : 15.94 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 6 , "dateNumb" : 21 , "amount" : 10.97 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 6 , "dateNumb" : 26 , "amount" : 16.9 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 6 , "dateNumb" : 28 , "amount" : 36.05 , "comment" : "Restaurant " , "type" : 1}
+{ "year" : 2013 , "month" : 6 , "dateNumb" : 28 , "amount" : 45.18 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 6 , "dateNumb" : 29 , "amount" : 27.41 , "comment" : "Restaurant " , "type" : 1}
+{ "year" : 2013 , "month" : 6 , "dateNumb" : 29 , "amount" : 5.5 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 1 , "amount" : 28.78 , "comment" : "Restaurant " , "type" : 1}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 2 , "amount" : 5.07 , "comment" : "McDonalds" , "type" : 1}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 5 , "amount" : 25.55 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 5 , "amount" : 22.65 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 11 , "amount" : 25.5 , "comment" : "Restaurant " , "type" : 1}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 11 , "amount" : 6.0 , "comment" : "Subway" , "type" : 1}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 12 , "amount" : 26.45 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 12 , "amount" : 30.9 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 13 , "amount" : 11.8 , "comment" : "Thai Express" , "type" : 1}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 13 , "amount" : 160.0 , "comment" : "23 Inch Mornitor" , "type" : 2}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 16 , "amount" : 22.07 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 19 , "amount" : 11.59 , "comment" : "M&T Deli" , "type" : 1}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 19 , "amount" : 18.34 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 22 , "amount" : 24.86 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 25 , "amount" : 80.19 , "comment" : "Lamps x 9" , "type" : 2}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 25 , "amount" : 55.24 , "comment" : "Illuminated Keyboard x 2 + USB x 2 " , "type" : 2}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 26 , "amount" : 11.03 , "comment" : "M&T Deli" , "type" : 1}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 26 , "amount" : 22.07 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 27 , "amount" : 47.32 , "comment" : "Wireless Mouse & Headset" , "type" : 2}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 27 , "amount" : 16.13 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 29 , "amount" : 7.99 , "comment" : "Ice Cream" , "type" : 1}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 29 , "amount" : 28.85 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 31 , "amount" : 6.99 , "comment" : "Ice Cream" , "type" : 1}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 3 , "amount" : 20.75 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 3 , "amount" : 27.21 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 4 , "amount" : 10.0 , "comment" : "Lunch +Delivery" , "type" : 1}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 6 , "amount" : 10.03 , "comment" : "M&T Deli" , "type" : 1}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 6 , "amount" : 26.66 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 6 , "amount" : 134.43 , "comment" : "International Freight By Air" , "type" : 2}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 7 , "amount" : 12.0 , "comment" : "Lunch + Delivery" , "type" : 1}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 10 , "amount" : 27.45 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 10 , "amount" : 14.69 , "comment" : "Dollarama" , "type" : 1}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 15 , "amount" : 24.35 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 15 , "amount" : 282.49 , "comment" : "Nexus 7 Tablet" , "type" : 2}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 15 , "amount" : 10.0 , "comment" : "Lunch + Delvery" , "type" : 1}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 16 , "amount" : 9.03 , "comment" : "M&T Deli" , "type" : 1}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 17 , "amount" : 43.14 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 18 , "amount" : 8.83 , "comment" : "Case of Coke" , "type" : 1}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 19 , "amount" : 17.69 , "comment" : "Sushi" , "type" : 1}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 20 , "amount" : 3.0 , "comment" : "Cheap Pizza Day" , "type" : 1}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 23 , "amount" : 22.59 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 23 , "amount" : 150.0 , "comment" : "BlackBerry 10" , "type" : 2}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 26 , "amount" : 10.57 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 26 , "amount" : 17.89 , "comment" : "Snacks & 2 Bottles of Olive Oil" , "type" : 1}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 27 , "amount" : 18.66 , "comment" : "Snooty Fox" , "type" : 1}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 29 , "amount" : 9.03 , "comment" : "Teriyaki " , "type" : 1}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 29 , "amount" : 50.0 , "comment" : "Gift Card" , "type" : 2}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 1 , "amount" : 23.97 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 2 , "amount" : 10.0 , "comment" : "Dinner with Delivery" , "type" : 1}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 3 , "amount" : 19.5 , "comment" : "Mandarin Palace " , "type" : 1}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 5 , "amount" : 13.88 , "comment" : "Walmart" , "type" : 1}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 5 , "amount" : 12.96 , "comment" : "Bulk Barn" , "type" : 1}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 6 , "amount" : 34.71 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 6 , "amount" : 31.03 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 9 , "amount" : 28.6 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 13 , "amount" : 24.18 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 19 , "amount" : 49.51 , "comment" : "Mid-Autumn Supper" , "type" : 1}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 20 , "amount" : 46.58 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 21 , "amount" : 40.01 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 27 , "amount" : 12.53 , "comment" : "Snacks" , "type" : 1}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 27 , "amount" : 36.13 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 28 , "amount" : 15.56 , "comment" : "Sushi" , "type" : 1}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 28 , "amount" : 30.23 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 29 , "amount" : 40.65 , "comment" : "Stainless Steel Blender" , "type" : 2}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 4 , "amount" : 38.24 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 4 , "amount" : 14.5 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 5 , "amount" : 34.5 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 8 , "amount" : 25.23 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 10 , "amount" : 225.99 , "comment" : "SSD 240G" , "type" : 2}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 11 , "amount" : 30.67 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 11 , "amount" : 12.71 , "comment" : "Dorllarama" , "type" : 1}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 11 , "amount" : 39.68 , "comment" : "Bulk Barn" , "type" : 1}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 11 , "amount" : 13.28 , "comment" : "Dollarama" , "type" : 1}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 12 , "amount" : 16.92 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 12 , "amount" : 29.07 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 14 , "amount" : 22.89 , "comment" : "Diplomat " , "type" : 1}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 15 , "amount" : 9.82 , "comment" : "KFC" , "type" : 1}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 15 , "amount" : 72.58 , "comment" : "Whey Protein & Multivitamin " , "type" : 2}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 15 , "amount" : 22.55 , "comment" : "Mirror" , "type" : 2}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 17 , "amount" : 43.68 , "comment" : "Jubilee" , "type" : 1}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 18 , "amount" : 15.36 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 18 , "amount" : 39.41 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 23 , "amount" : 200.0 , "comment" : "Car Seat For Esme" , "type" : 2}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 24 , "amount" : 41.3 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 24 , "amount" : 40.19 , "comment" : "Mandarin Palace " , "type" : 1}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 25 , "amount" : 15.23 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 31 , "amount" : 38.49 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 1 , "amount" : 45.82 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 1 , "amount" : 35.59 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 5 , "amount" : 35.25 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 8 , "amount" : 32.5 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 8 , "amount" : 54.15 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 10 , "amount" : 43.5 , "comment" : "Snacks & Hot Pot" , "type" : 1}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 12 , "amount" : 160.0 , "comment" : "Application of U.S. visa" , "type" : 2}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 13 , "amount" : 37.03 , "comment" : "Snacks" , "type" : 1}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 13 , "amount" : 80.89 , "comment" : "Bus To Halifax" , "type" : 2}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 15 , "amount" : 27.03 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 15 , "amount" : 401.57 , "comment" : "Flight To New York" , "type" : 2}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 15 , "amount" : 50.0 , "comment" : "Taxi to the U.S. Embassy" , "type" : 2}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 16 , "amount" : 8.0 , "comment" : "Liberian Lunch " , "type" : 1}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 16 , "amount" : 6.0 , "comment" : "Indian Supper" , "type" : 1}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 16 , "amount" : 78.75 , "comment" : "Missed The Flight" , "type" : 2}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 16 , "amount" : 11.83 , "comment" : "New York MetroCard" , "type" : 2}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 17 , "amount" : 50.0 , "comment" : "Hotel" , "type" : 2}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 17 , "amount" : 16.0 , "comment" : "New York MetroCard" , "type" : 2}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 17 , "amount" : 28.0 , "comment" : "Ferry To Statue of Liberty" , "type" : 2}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 17 , "amount" : 16.0 , "comment" : "Supper in China Town" , "type" : 2}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 17 , "amount" : 60.0 , "comment" : "Bus To Cincinnati" , "type" : 2}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 17 , "amount" : 5.36 , "comment" : "Refill MetroCard" , "type" : 2}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 17 , "amount" : 20.0 , "comment" : "Tips to Time Square " , "type" : 2}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 19 , "amount" : 16.0 , "comment" : "Chinese Restaurant " , "type" : 1}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 19 , "amount" : 3.0 , "comment" : "New York Hotdog" , "type" : 2}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 20 , "amount" : 21.46 , "comment" : "Clean The Teeth In Cincinnati" , "type" : 2}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 23 , "amount" : 29.14 , "comment" : "Snacks" , "type" : 1}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 24 , "amount" : 247.0 , "comment" : "Flight to Fredericton" , "type" : 2}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 24 , "amount" : 110.0 , "comment" : "Hotels" , "type" : 2}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 24 , "amount" : 83.16 , "comment" : "Groceries for Barbecue" , "type" : 2}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 24 , "amount" : 15.74 , "comment" : "Barbecue Tools" , "type" : 2}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 26 , "amount" : 10.0 , "comment" : "Lunch at UC" , "type" : 1}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 27 , "amount" : 27.0 , "comment" : "Sushi" , "type" : 1}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 1 , "amount" : 300.0 , "comment" : "Flushing Club " , "type" : 2}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 3 , "amount" : 39.5 , "comment" : "KFC" , "type" : 1}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 3 , "amount" : 27.21 , "comment" : "Skull Candy " , "type" : 2}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 5 , "amount" : 40.8 , "comment" : "Costco" , "type" : 1}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 5 , "amount" : 89.87 , "comment" : "Walmart" , "type" : 1}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 5 , "amount" : 30.35 , "comment" : "SuperStore" , "type" : 1}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 6 , "amount" : 174.97 , "comment" : "Taobao (1:5.39)" , "type" : 2}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 6 , "amount" : 39.08 , "comment" : "Friendship" , "type" : 1}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 9 , "amount" : 174.3 , "comment" : "DHL Shipping (1:5.39)" , "type" : 2}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 11 , "amount" : 25.0 , "comment" : "Gifts to Esme" , "type" : 2}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 13 , "amount" : 11.55 , "comment" : "Friendship " , "type" : 1}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 17 , "amount" : 38.46 , "comment" : "" , "type" : 1}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 22 , "amount" : 30.0 , "comment" : "Tim Hortons Gift Cards" , "type" : 2}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 22 , "amount" : 22.0 , "comment" : "McDonalds" , "type" : 1}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 23 , "amount" : 99.15 , "comment" : "Cosctco" , "type" : 1}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 26 , "amount" : 22.3 , "comment" : "Hot pot" , "type" : 1}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 7 , "amount" : 26.04 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 9 , "amount" : 14.57 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 10 , "amount" : 14.15 , "comment" : "Snacks" , "type" : 1}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 12 , "amount" : 18.65 , "comment" : "Snacks" , "type" : 1}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 12 , "amount" : 45.19 , "comment" : "Sports Multivitamine " , "type" : 2}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 12 , "amount" : 45.19 , "comment" : "Sports Multivitamine " , "type" : 2}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 14 , "amount" : 30.34 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 15 , "amount" : 14.75 , "comment" : "Snacks" , "type" : 1}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 21 , "amount" : 34.88 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 22 , "amount" : 52.2 , "comment" : "Linning + Anta Shoes" , "type" : 2}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 22 , "amount" : 28.13 , "comment" : "Contacts x 3(sets) x 2" , "type" : 2}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 22 , "amount" : 29.83 , "comment" : "Shirts: white x 3 + black x 4 + grey x 3" , "type" : 2}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 22 , "amount" : 22.37 , "comment" : "Pants: Black x 5 + Grey x 5 + Silver x 5" , "type" : 2}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 22 , "amount" : 17.01 , "comment" : "Sports Socks: Black x 8 + White x 5 + Both x 3" , "type" : 2}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 23 , "amount" : 50.0 , "comment" : "Tungsten & Blue Stone Watch " , "type" : 2}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 23 , "amount" : 140.5 , "comment" : "Sony S Series MP3 " , "type" : 2}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 23 , "amount" : 22.6 , "comment" : "Basketball Trousers x 2 " , "type" : 2}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 23 , "amount" : 46.61 , "comment" : "2.1 Stereo " , "type" : 2}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 23 , "amount" : 23.05 , "comment" : "Jeans x 2" , "type" : 2}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 25 , "amount" : 29.95 , "comment" : "Snacks" , "type" : 1}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 25 , "amount" : 15.59 , "comment" : "Basketball Shirts x 2" , "type" : 2}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 25 , "amount" : 32.14 , "comment" : "Ear-buds: Sony x 4 + UE220 " , "type" : 2}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 25 , "amount" : 9.98 , "comment" : "KFC" , "type" : 1}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 25 , "amount" : 29.95 , "comment" : "Snacks" , "type" : 1}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 25 , "amount" : 15.0 , "comment" : "Buffe in Bangor" , "type" : 1}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 25 , "amount" : 24.93 , "comment" : "Customs on Wine" , "type" : 1}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 25 , "amount" : 15.0 , "comment" : "Buffe in Bangor" , "type" : 1}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 25 , "amount" : 35.97 , "comment" : "Wine &  Snacks" , "type" : 1}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 25 , "amount" : 24.93 , "comment" : "Customs on Wine" , "type" : 1}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 28 , "amount" : 31.07 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 29 , "amount" : 15.16 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 29 , "amount" : 236.44 , "comment" : "EMS International Freight by Air" , "type" : 2}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 30 , "amount" : 30.0 , "comment" : "Mandarin Palace" , "type" : 1}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 31 , "amount" : 325.08 , "comment" : "Thinkpad x61" , "type" : 2}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 2 , "amount" : 25.4 , "comment" : "Ocean Fish Oil" , "type" : 2}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 4 , "amount" : 32.65 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 4 , "amount" : 72.65 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 11 , "amount" : 34.73 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 11 , "amount" : 34.73 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 13 , "amount" : 87.87 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 13 , "amount" : 50.5 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 3 , "dateNumb" : 1 , "amount" : 52.85 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 3 , "dateNumb" : 4 , "amount" : 16.61 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 3 , "dateNumb" : 7 , "amount" : 25.45 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 3 , "dateNumb" : 7 , "amount" : 57.63 , "comment" : "Gospel Radio x 4" , "type" : 2}
+{ "year" : 2014 , "month" : 3 , "dateNumb" : 8 , "amount" : 35.85 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 3 , "dateNumb" : 8 , "amount" : 12.2 , "comment" : "Wireless Mouse x 2" , "type" : 2}
+{ "year" : 2014 , "month" : 3 , "dateNumb" : 9 , "amount" : 46.53 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 3 , "dateNumb" : 10 , "amount" : 26.78 , "comment" : "Sony Teaching Speaker" , "type" : 2}
+{ "year" : 2014 , "month" : 3 , "dateNumb" : 15 , "amount" : 27.18 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 3 , "dateNumb" : 17 , "amount" : 59.14 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 3 , "dateNumb" : 22 , "amount" : 35.75 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 3 , "dateNumb" : 27 , "amount" : 23.33 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 4 , "dateNumb" : 1 , "amount" : 59.63 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 4 , "dateNumb" : 5 , "amount" : 20.86 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 4 , "dateNumb" : 10 , "amount" : 29.5 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 4 , "dateNumb" : 10 , "amount" : 28.53 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 4 , "dateNumb" : 12 , "amount" : 38.93 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 4 , "dateNumb" : 14 , "amount" : 21.7 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 4 , "dateNumb" : 19 , "amount" : 55.32 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 4 , "dateNumb" : 22 , "amount" : 17.18 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 4 , "dateNumb" : 26 , "amount" : 20.28 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 5 , "dateNumb" : 1 , "amount" : 32.79 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 5 , "dateNumb" : 6 , "amount" : 32.2 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 5 , "dateNumb" : 8 , "amount" : 55.98 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 5 , "dateNumb" : 10 , "amount" : 35.01 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 5 , "dateNumb" : 10 , "amount" : 51.15 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 5 , "dateNumb" : 13 , "amount" : 24.12 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 5 , "dateNumb" : 14 , "amount" : 27.13 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 5 , "dateNumb" : 19 , "amount" : 16.08 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 5 , "dateNumb" : 21 , "amount" : 57.72 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 5 , "dateNumb" : 28 , "amount" : 19.43 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 6 , "dateNumb" : 1 , "amount" : 20.49 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 6 , "dateNumb" : 1 , "amount" : 23.35 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 6 , "dateNumb" : 3 , "amount" : 34.9 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 6 , "dateNumb" : 6 , "amount" : 15.92 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 6 , "dateNumb" : 7 , "amount" : 23.44 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 6 , "dateNumb" : 14 , "amount" : 28.28 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 6 , "dateNumb" : 15 , "amount" : 31.28 , "comment" : "Coffee Beans" , "type" : 1}
+{ "year" : 2014 , "month" : 6 , "dateNumb" : 17 , "amount" : 14.32 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 6 , "dateNumb" : 19 , "amount" : 15.94 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 6 , "dateNumb" : 21 , "amount" : 10.97 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 6 , "dateNumb" : 26 , "amount" : 16.9 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 6 , "dateNumb" : 28 , "amount" : 36.05 , "comment" : "Restaurant " , "type" : 1}
+{ "year" : 2014 , "month" : 6 , "dateNumb" : 28 , "amount" : 45.18 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 6 , "dateNumb" : 29 , "amount" : 5.5 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 6 , "dateNumb" : 29 , "amount" : 27.41 , "comment" : "Restaurant " , "type" : 1}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 1 , "amount" : 28.78 , "comment" : "Restaurant " , "type" : 1}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 2 , "amount" : 5.07 , "comment" : "McDonalds" , "type" : 1}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 5 , "amount" : 25.55 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 5 , "amount" : 22.65 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 11 , "amount" : 25.5 , "comment" : "Restaurant " , "type" : 1}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 11 , "amount" : 6.0 , "comment" : "Subway" , "type" : 1}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 12 , "amount" : 26.45 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 12 , "amount" : 30.9 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 13 , "amount" : 11.8 , "comment" : "Thai Express" , "type" : 1}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 13 , "amount" : 160.0 , "comment" : "23 Inch Mornitor" , "type" : 2}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 16 , "amount" : 22.07 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 19 , "amount" : 11.59 , "comment" : "M&T Deli" , "type" : 1}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 19 , "amount" : 18.34 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 20 , "amount" : 450.0 , "comment" : "Road Bike" , "type" : 2}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 22 , "amount" : 24.86 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 25 , "amount" : 80.19 , "comment" : "Lamps x 9" , "type" : 2}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 25 , "amount" : 55.24 , "comment" : "Illuminated Keyboard x 2 + USB x 2 " , "type" : 2}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 26 , "amount" : 11.03 , "comment" : "M&T Deli" , "type" : 1}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 26 , "amount" : 22.07 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 27 , "amount" : 16.13 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 27 , "amount" : 47.32 , "comment" : "Wireless Mouse & Headset" , "type" : 2}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 29 , "amount" : 7.99 , "comment" : "Ice Cream" , "type" : 1}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 29 , "amount" : 28.85 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 7 , "dateNumb" : 31 , "amount" : 6.99 , "comment" : "Ice Cream" , "type" : 1}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 3 , "amount" : 20.75 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 3 , "amount" : 27.21 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 4 , "amount" : 10.0 , "comment" : "Lunch +Delivery" , "type" : 1}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 6 , "amount" : 10.03 , "comment" : "M&T Deli" , "type" : 1}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 6 , "amount" : 26.66 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 6 , "amount" : 134.43 , "comment" : "International Freight By Air" , "type" : 2}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 7 , "amount" : 12.0 , "comment" : "Lunch + Delivery" , "type" : 1}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 10 , "amount" : 27.45 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 10 , "amount" : 14.69 , "comment" : "Dollarama" , "type" : 1}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 15 , "amount" : 24.35 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 15 , "amount" : 10.0 , "comment" : "Lunch + Delvery" , "type" : 1}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 15 , "amount" : 282.49 , "comment" : "Nexus 7 Tablet" , "type" : 2}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 16 , "amount" : 9.03 , "comment" : "M&T Deli" , "type" : 1}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 17 , "amount" : 43.14 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 18 , "amount" : 8.83 , "comment" : "Case of Coke" , "type" : 1}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 19 , "amount" : 17.69 , "comment" : "Sushi" , "type" : 1}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 20 , "amount" : 3.0 , "comment" : "Cheap Pizza Day" , "type" : 1}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 23 , "amount" : 22.59 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 23 , "amount" : 150.0 , "comment" : "BlackBerry 10" , "type" : 2}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 26 , "amount" : 10.57 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 26 , "amount" : 17.89 , "comment" : "Snacks & 2 Bottles of Olive Oil" , "type" : 1}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 27 , "amount" : 18.66 , "comment" : "Snooty Fox" , "type" : 1}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 29 , "amount" : 9.03 , "comment" : "Teriyaki " , "type" : 1}
+{ "year" : 2014 , "month" : 8 , "dateNumb" : 29 , "amount" : 50.0 , "comment" : "Gift Card" , "type" : 2}
+{ "year" : 2014 , "month" : 9 , "dateNumb" : 1 , "amount" : 23.97 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 9 , "dateNumb" : 2 , "amount" : 10.0 , "comment" : "Dinner with Delivery" , "type" : 1}
+{ "year" : 2014 , "month" : 9 , "dateNumb" : 3 , "amount" : 19.5 , "comment" : "Mandarin Palace " , "type" : 1}
+{ "year" : 2014 , "month" : 9 , "dateNumb" : 5 , "amount" : 13.88 , "comment" : "Walmart" , "type" : 1}
+{ "year" : 2014 , "month" : 9 , "dateNumb" : 5 , "amount" : 12.96 , "comment" : "Bulk Barn" , "type" : 1}
+{ "year" : 2014 , "month" : 9 , "dateNumb" : 6 , "amount" : 34.71 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 9 , "dateNumb" : 6 , "amount" : 31.03 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 9 , "dateNumb" : 9 , "amount" : 28.6 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 9 , "dateNumb" : 13 , "amount" : 24.18 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 9 , "dateNumb" : 19 , "amount" : 49.51 , "comment" : "Mid-Autumn Supper" , "type" : 1}
+{ "year" : 2014 , "month" : 9 , "dateNumb" : 20 , "amount" : 46.58 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 9 , "dateNumb" : 21 , "amount" : 40.01 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 9 , "dateNumb" : 27 , "amount" : 12.53 , "comment" : "Snacks" , "type" : 1}
+{ "year" : 2014 , "month" : 9 , "dateNumb" : 27 , "amount" : 36.13 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 9 , "dateNumb" : 28 , "amount" : 15.56 , "comment" : "Sushi" , "type" : 1}
+{ "year" : 2014 , "month" : 9 , "dateNumb" : 28 , "amount" : 30.23 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 9 , "dateNumb" : 29 , "amount" : 40.65 , "comment" : "Stainless Steel Blender" , "type" : 2}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 4 , "amount" : 38.24 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 4 , "amount" : 14.5 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 5 , "amount" : 34.5 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 8 , "amount" : 25.23 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 10 , "amount" : 225.99 , "comment" : "SSD 240G" , "type" : 2}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 11 , "amount" : 30.67 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 11 , "amount" : 12.71 , "comment" : "Dorllarama" , "type" : 1}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 11 , "amount" : 39.68 , "comment" : "Bulk Barn" , "type" : 1}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 11 , "amount" : 13.28 , "comment" : "Dollarama" , "type" : 1}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 12 , "amount" : 16.92 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 12 , "amount" : 29.07 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 14 , "amount" : 22.89 , "comment" : "Diplomat " , "type" : 1}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 15 , "amount" : 9.82 , "comment" : "KFC" , "type" : 1}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 15 , "amount" : 72.58 , "comment" : "Whey Protein & Multivitamin " , "type" : 2}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 15 , "amount" : 22.55 , "comment" : "Mirror" , "type" : 2}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 17 , "amount" : 43.68 , "comment" : "Jubilee" , "type" : 1}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 18 , "amount" : 15.36 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 18 , "amount" : 39.41 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 23 , "amount" : 200.0 , "comment" : "Car Seat For Esme" , "type" : 2}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 24 , "amount" : 41.3 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 24 , "amount" : 40.19 , "comment" : "Mandarin Palace " , "type" : 1}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 25 , "amount" : 15.23 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 31 , "amount" : 38.49 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 1 , "amount" : 45.82 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 1 , "amount" : 35.59 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 5 , "amount" : 35.25 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 8 , "amount" : 32.5 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 8 , "amount" : 54.15 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 10 , "amount" : 43.5 , "comment" : "Snacks & Hot Pot" , "type" : 1}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 12 , "amount" : 160.0 , "comment" : "Application of U.S. visa" , "type" : 2}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 13 , "amount" : 37.03 , "comment" : "Snacks" , "type" : 1}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 13 , "amount" : 80.89 , "comment" : "Bus To Halifax" , "type" : 2}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 15 , "amount" : 27.03 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 15 , "amount" : 401.57 , "comment" : "Flight To New York" , "type" : 2}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 15 , "amount" : 50.0 , "comment" : "Taxi to the U.S. Embassy" , "type" : 2}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 16 , "amount" : 8.0 , "comment" : "Liberian Lunch " , "type" : 1}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 16 , "amount" : 6.0 , "comment" : "Indian Supper" , "type" : 1}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 16 , "amount" : 78.75 , "comment" : "Missed The Flight" , "type" : 2}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 16 , "amount" : 11.83 , "comment" : "New York MetroCard" , "type" : 2}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 17 , "amount" : 50.0 , "comment" : "Hotel" , "type" : 2}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 17 , "amount" : 16.0 , "comment" : "New York MetroCard" , "type" : 2}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 17 , "amount" : 28.0 , "comment" : "Ferry To Statue of Liberty" , "type" : 2}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 17 , "amount" : 16.0 , "comment" : "Supper in China Town" , "type" : 2}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 17 , "amount" : 60.0 , "comment" : "Bus To Cincinnati" , "type" : 2}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 17 , "amount" : 5.36 , "comment" : "Refill MetroCard" , "type" : 2}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 17 , "amount" : 20.0 , "comment" : "Tips to Time Square " , "type" : 2}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 19 , "amount" : 16.0 , "comment" : "Chinese Restaurant " , "type" : 1}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 19 , "amount" : 3.0 , "comment" : "New York Hotdog" , "type" : 2}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 20 , "amount" : 21.46 , "comment" : "Clean The Teeth In Cincinnati" , "type" : 2}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 23 , "amount" : 29.14 , "comment" : "Snacks" , "type" : 1}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 24 , "amount" : 15.74 , "comment" : "Barbecue Tools" , "type" : 2}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 24 , "amount" : 247.0 , "comment" : "Flight to Fredericton" , "type" : 2}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 24 , "amount" : 110.0 , "comment" : "Hotels" , "type" : 2}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 24 , "amount" : 83.16 , "comment" : "Groceries for Barbecue" , "type" : 2}
+{ "amount" : 0.0 , "comment" : "lol :D <- No Hakcing" , "year" : 2014 , "month" : 11 , "dateNumb" : 25 , "type" : 1}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 26 , "amount" : 10.0 , "comment" : "Lunch at UC" , "type" : 1}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 27 , "amount" : 27.0 , "comment" : "Sushi" , "type" : 1}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 1 , "amount" : 300.0 , "comment" : "Flushing Club " , "type" : 2}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 3 , "amount" : 27.21 , "comment" : "Skull Candy " , "type" : 2}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 3 , "amount" : 39.5 , "comment" : "KFC" , "type" : 1}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 5 , "amount" : 40.8 , "comment" : "Costco" , "type" : 1}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 5 , "amount" : 89.87 , "comment" : "Walmart" , "type" : 1}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 5 , "amount" : 30.35 , "comment" : "SuperStore" , "type" : 1}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 6 , "amount" : 174.97 , "comment" : "Taobao (1:5.39)" , "type" : 2}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 6 , "amount" : 39.08 , "comment" : "Friendship" , "type" : 1}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 9 , "amount" : 174.3 , "comment" : "DHL Shipping (1:5.39)" , "type" : 2}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 11 , "amount" : 25.0 , "comment" : "Gifts to Esme" , "type" : 2}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 13 , "amount" : 11.55 , "comment" : "Friendship " , "type" : 1}
+{ "amount" : 10.0 , "comment" : "test " , "year" : 2014 , "month" : 12 , "dateNumb" : 16 , "type" : 1}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 17 , "amount" : 38.46 , "comment" : "" , "type" : 1}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 22 , "amount" : 22.0 , "comment" : "McDonalds" , "type" : 1}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 22 , "amount" : 30.0 , "comment" : "Tim Hortons Gift Cards" , "type" : 2}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 23 , "amount" : 99.15 , "comment" : "Cosctco" , "type" : 1}
+{ "amount" : 10.0 , "comment" : "Present for Josh <3" , "year" : 2014 , "month" : 12 , "dateNumb" : 25 , "type" : 1}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 26 , "amount" : 22.3 , "comment" : "Hot Pot" , "type" : 1}
+{ "amount" : 500.0 , "comment" : "Rent" , "year" : 2015 , "month" : 1 , "dateNumb" : 1 , "type" : 1}
+{ "amount" : 198.0 , "comment" : "Shoes" , "year" : 2015 , "month" : 1 , "dateNumb" : 6 , "type" : 1}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 7 , "amount" : 26.04 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 9 , "amount" : 14.57 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 10 , "amount" : 14.15 , "comment" : "Snacks" , "type" : 1}
+{ "amount" : 16.99 , "comment" : "Mobile Gloves" , "year" : 2015 , "month" : 1 , "dateNumb" : 11 , "type" : 1}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 12 , "amount" : 45.19 , "comment" : "Sports Multivitamine " , "type" : 2}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 12 , "amount" : 18.65 , "comment" : "Snacks" , "type" : 1}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 14 , "amount" : 30.34 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 15 , "amount" : 14.75 , "comment" : "Snacks" , "type" : 1}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 21 , "amount" : 34.88 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 25 , "amount" : 15.0 , "comment" : "Buffe in Bangor" , "type" : 1}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 25 , "amount" : 29.95 , "comment" : "Snacks" , "type" : 1}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 25 , "amount" : 24.93 , "comment" : "Customs on Wine" , "type" : 1}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 25 , "amount" : 35.97 , "comment" : "Wine &  Snacks" , "type" : 1}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 25 , "amount" : 9.98 , "comment" : "KFC" , "type" : 1}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 28 , "amount" : 31.07 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 29 , "amount" : 15.16 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 30 , "amount" : 30.0 , "comment" : "Mandarin Palace" , "type" : 1}
+{ "amount" : 500.0 , "comment" : "Rent" , "year" : 2015 , "month" : 2 , "dateNumb" : 1 , "type" : 3}
+{ "year" : 2015 , "month" : 2 , "dateNumb" : 4 , "amount" : 99.99 , "comment" : "BlackBerry z10" , "type" : 2}
+{ "amount" : 255.45 , "comment" : "Monitor" , "year" : 2015 , "month" : 2 , "dateNumb" : 10 , "type" : 1}
+{ "year" : 2015 , "month" : 2 , "dateNumb" : 11 , "amount" : 34.73 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 2 , "dateNumb" : 13 , "amount" : 17.87 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 2 , "dateNumb" : 18 , "amount" : 18.36 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 2 , "dateNumb" : 25 , "amount" : 46.31 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 2 , "dateNumb" : 26 , "amount" : 15.99 , "comment" : "" , "type" : 1}
+{ "amount" : 500.0 , "comment" : "Rent" , "year" : 2015 , "month" : 3 , "dateNumb" : 1 , "type" : 3}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 3 , "amount" : 2.77 , "comment" : "Tim Hortons" , "type" : 1}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 3 , "amount" : 4.4 , "comment" : "Lunch At SuperStore" , "type" : 1}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 4 , "amount" : 33.61 , "comment" : "" , "type" : 1}
+{ "amount" : 121.5 , "comment" : "Nike" , "year" : 2015 , "month" : 3 , "dateNumb" : 5 , "type" : 1}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 7 , "amount" : 21.46 , "comment" : "Walmart" , "type" : 1}
+{ "amount" : 215.14 , "comment" : "Desk" , "year" : 2015 , "month" : 3 , "dateNumb" : 10 , "type" : 2}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 12 , "amount" : 18.6 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 18 , "amount" : 42.82 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 19 , "amount" : 13.56 , "comment" : "Target" , "type" : 1}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 19 , "amount" : 1.42 , "comment" : "Envolope" , "type" : 1}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 19 , "amount" : 25.12 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 20 , "amount" : 18.05 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 26 , "amount" : 10.0 , "comment" : "Ucard" , "type" : 1}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 1 , "amount" : 52.7 , "comment" : "" , "type" : 1}
+{ "amount" : 50.0 , "comment" : "Wifi" , "year" : 2015 , "month" : 4 , "dateNumb" : 1 , "type" : 3}
+{ "amount" : 500.0 , "comment" : "Rent" , "year" : 2015 , "month" : 4 , "dateNumb" : 1 , "type" : 3}
+{ "amount" : 270.8 , "comment" : "TV" , "year" : 2015 , "month" : 4 , "dateNumb" : 6 , "type" : 2}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 7 , "amount" : 37.84 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 10 , "amount" : 33.98 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 13 , "amount" : 48.0 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 16 , "amount" : 48.84 , "comment" : "" , "type" : 1}
+{ "amount" : 23.0 , "comment" : "Screen Protector" , "year" : 2015 , "month" : 4 , "dateNumb" : 18 , "type" : 2}
+{ "amount" : 80.0 , "comment" : "Mobile" , "year" : 2015 , "month" : 4 , "dateNumb" : 18 , "type" : 3}
+{ "amount" : 40.57 , "comment" : "Dinner" , "year" : 2015 , "month" : 4 , "dateNumb" : 21 , "type" : 2}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 22 , "amount" : 47.78 , "comment" : "" , "type" : 1}
+{ "amount" : 30.2 , "comment" : "Some Drinks" , "year" : 2015 , "month" : 4 , "dateNumb" : 23 , "type" : 2}
+{ "amount" : 15.0 , "comment" : "Movie" , "year" : 2015 , "month" : 4 , "dateNumb" : 23 , "type" : 2}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 25 , "amount" : 23.62 , "comment" : "" , "type" : 1}
+{ "amount" : 11.0 , "comment" : "2" , "year" : 2015 , "month" : 4 , "dateNumb" : 26 , "type" : 1}
+{ "amount" : 500.0 , "comment" : "Rent" , "year" : 2015 , "month" : 5 , "dateNumb" : 1 , "type" : 3}
+{ "amount" : 50.0 , "comment" : "Wifi" , "year" : 2015 , "month" : 5 , "dateNumb" : 1 , "type" : 3}
+{ "amount" : 100.0 , "comment" : "Buss Pass" , "year" : 2015 , "month" : 5 , "dateNumb" : 1 , "type" : 3}
+{ "amount" : 50.0 , "comment" : "Mobile" , "year" : 2015 , "month" : 5 , "dateNumb" : 1 , "type" : 3}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 2 , "amount" : 20.3 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 2 , "amount" : 35.83 , "comment" : "" , "type" : 1}
+{ "amount" : 50.0 , "comment" : "Gift Card" , "year" : 2015 , "month" : 5 , "dateNumb" : 6 , "type" : 2}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 8 , "amount" : 32.94 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 9 , "amount" : 7.33 , "comment" : "Thunb" , "type" : 1}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 9 , "amount" : 7.85 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 10 , "amount" : 100.0 , "comment" : "Driving Test" , "type" : 2}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 13 , "amount" : 29.91 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 16 , "amount" : 19.23 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 17 , "amount" : 5.64 , "comment" : "Harveys" , "type" : 1}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 20 , "amount" : 28.76 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 23 , "amount" : 22.02 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 27 , "amount" : 44.61 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 30 , "amount" : 3.99 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 30 , "amount" : 36.66 , "comment" : "" , "type" : 1}
+{ "amount" : 500.0 , "comment" : "Rent" , "year" : 2015 , "month" : 6 , "dateNumb" : 1 , "type" : 3}
+{ "amount" : 100.0 , "comment" : "buss pass" , "year" : 2015 , "month" : 6 , "dateNumb" : 1 , "type" : 3}
+{ "amount" : 50.0 , "comment" : "Mobile" , "year" : 2015 , "month" : 6 , "dateNumb" : 1 , "type" : 3}
+{ "amount" : 50.0 , "comment" : "Wifi" , "year" : 2015 , "month" : 6 , "dateNumb" : 1 , "type" : 3}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 3 , "amount" : 31.08 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 3 , "amount" : 64.17 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 8 , "amount" : 54.14 , "comment" : "Walmart" , "type" : 1}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 11 , "amount" : 41.98 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 11 , "amount" : 58.88 , "comment" : "" , "type" : 1}
+{ "amount" : 85.5 , "comment" : "Shirts" , "year" : 2015 , "month" : 6 , "dateNumb" : 12 , "type" : 1}
+{ "amount" : 457.88 , "comment" : "TV" , "year" : 2015 , "month" : 6 , "dateNumb" : 12 , "type" : 2}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 20 , "amount" : 18.1 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 22 , "amount" : 13.05 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 27 , "amount" : 2.26 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 27 , "amount" : 29.73 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 29 , "amount" : 17.64 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 30 , "amount" : 10.14 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 30 , "amount" : 43.57 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 1 , "amount" : 6.99 , "comment" : "Transformer " , "type" : 1}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 1 , "amount" : 23.46 , "comment" : "Pop Corn" , "type" : 1}
+{ "amount" : 700.0 , "comment" : "Rent" , "year" : 2015 , "month" : 7 , "dateNumb" : 1 , "type" : 3}
+{ "amount" : 100.0 , "comment" : "Internet" , "year" : 2015 , "month" : 7 , "dateNumb" : 1 , "type" : 3}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 4 , "amount" : 35.86 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 7 , "amount" : 27.18 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 8 , "amount" : 8.12 , "comment" : "Shan" , "type" : 1}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 13 , "amount" : 35.3 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 13 , "amount" : 18.9 , "comment" : "Walmart Online" , "type" : 2}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 16 , "amount" : 18.75 , "comment" : "Palate " , "type" : 1}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 18 , "amount" : 18.75 , "comment" : "Walmart Online" , "type" : 2}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 18 , "amount" : 23.48 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 21 , "amount" : 37.73 , "comment" : "Walmart Online" , "type" : 2}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 23 , "amount" : 25.57 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 25 , "amount" : 47.17 , "comment" : "" , "type" : 2}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 27 , "amount" : 51.84 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 30 , "amount" : 33.15 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 1 , "amount" : 26.33 , "comment" : "" , "type" : 1}
+{ "amount" : 700.0 , "comment" : "Rentabc" , "year" : 2015 , "month" : 8 , "dateNumb" : 1 , "type" : 1}
+{ "amount" : 50.0 , "comment" : "Wifi" , "year" : 2015 , "month" : 8 , "dateNumb" : 1 , "type" : 3}
+{ "amount" : 100.0 , "comment" : "mobile" , "year" : 2015 , "month" : 8 , "dateNumb" : 4 , "type" : 3}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 7 , "amount" : 20.0 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 7 , "amount" : 7.0 , "comment" : "Taxi" , "type" : 1}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 8 , "amount" : 7.5 , "comment" : "Taxi" , "type" : 1}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 8 , "amount" : 8.5 , "comment" : "Taxi" , "type" : 1}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 8 , "amount" : 55.29 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 10 , "amount" : 28.1 , "comment" : "Walmart Online" , "type" : 1}
+{ "amount" : 830.75 , "comment" : "Futon Mattress" , "year" : 2015 , "month" : 8 , "dateNumb" : 13 , "type" : 2}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 17 , "amount" : 57.04 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 18 , "amount" : 12.2 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 18 , "amount" : 122.46 , "comment" : "Nike Shoes" , "type" : 1}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 22 , "amount" : 27.96 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 22 , "amount" : 59.86 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 24 , "amount" : 41.09 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 26 , "amount" : 48.58 , "comment" : "Whey Protein" , "type" : 1}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 27 , "amount" : 5.62 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 27 , "amount" : 19.25 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 29 , "amount" : 29.85 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 31 , "amount" : 23.0 , "comment" : "Walmart Online" , "type" : 1}
+{ "amount" : 700.0 , "comment" : "Rent" , "year" : 2015 , "month" : 9 , "dateNumb" : 1 , "type" : 3}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 2 , "amount" : 43.17 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 3 , "amount" : 48.62 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 4 , "amount" : 111.61 , "comment" : "AMMUNITION" , "type" : 2}
+{ "amount" : 100.0 , "comment" : "Mobile" , "year" : 2015 , "month" : 9 , "dateNumb" : 4 , "type" : 3}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 7 , "amount" : 57.48 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 12 , "amount" : 46.35 , "comment" : "" , "type" : 1}
+{ "amount" : 50.0 , "comment" : "Wifi" , "year" : 2015 , "month" : 9 , "dateNumb" : 13 , "type" : 3}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 17 , "amount" : 19.46 , "comment" : "DHL Custom" , "type" : 2}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 19 , "amount" : 49.86 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 19 , "amount" : 74.91 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 23 , "amount" : 20.36 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 26 , "amount" : 37.86 , "comment" : "Rite" , "type" : 1}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 28 , "amount" : 53.14 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 30 , "amount" : 37.42 , "comment" : "" , "type" : 1}
+{ "amount" : 700.0 , "comment" : "Rent" , "year" : 2015 , "month" : 10 , "dateNumb" : 1 , "type" : 3}
+{ "amount" : 100.0 , "comment" : "Bus Pass" , "year" : 2015 , "month" : 10 , "dateNumb" : 1 , "type" : 3}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 2 , "amount" : 5.16 , "comment" : "3D Glasses" , "type" :  null }
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 2 , "amount" : 5.16 , "comment" : "3D Glasses" , "type" : 2}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 2 , "amount" : 114.82 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 2 , "amount" : 17.87 , "comment" : "Fish Oil And Vitamin D" , "type" : 2}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 2 , "amount" : 38.89 , "comment" : "Diplomat (Hammed)" , "type" : 2}
+{ "amount" : 50.0 , "comment" : "Wifi" , "year" : 2015 , "month" : 10 , "dateNumb" : 3 , "type" : 3}
+{ "amount" : 47.0 , "comment" : "Landsdown" , "year" : 2015 , "month" : 10 , "dateNumb" : 3 , "type" : 2}
+{ "amount" : 50.0 , "comment" : "data" , "year" : 2015 , "month" : 10 , "dateNumb" : 3 , "type" : 2}
+{ "amount" : 20.0 , "comment" : "Landsdown" , "year" : 2015 , "month" : 10 , "dateNumb" : 3 , "type" : 2}
+{ "amount" : 20.0 , "comment" : "parking" , "year" : 2015 , "month" : 10 , "dateNumb" : 3 , "type" : 2}
+{ "amount" : 20.0 , "comment" : "" , "year" : 2015 , "month" : 10 , "dateNumb" : 3 , "type" : 2}
+{ "amount" : 30.0 , "comment" : "beer" , "year" : 2015 , "month" : 10 , "dateNumb" : 3 , "type" : 2}
+{ "amount" : 20.8 , "comment" : "" , "year" : 2015 , "month" : 10 , "dateNumb" : 4 , "type" : 2}
+{ "amount" : 14.5 , "comment" : "" , "year" : 2015 , "month" : 10 , "dateNumb" : 4 , "type" : 2}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 5 , "amount" : 40.97 , "comment" : "" , "type" : 1}
+{ "amount" : 50.0 , "comment" : "Mobile" , "year" : 2015 , "month" : 10 , "dateNumb" : 9 , "type" : 3}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 10 , "amount" : 35.66 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 12 , "amount" : 12.99 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 15 , "amount" : 37.25 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 16 , "amount" : 5.0 , "comment" : "Glasses" , "type" :  null }
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 16 , "amount" : 5.16 , "comment" : "3D Glasses" , "type" :  null }
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 16 , "amount" : 5.16 , "comment" : "3D Glasses" , "type" :  null }
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 16 , "amount" : 5.16 , "comment" : "3D Glasses" , "type" :  null }
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 16 , "amount" : 5.16 , "comment" : "3D Glasses" , "type" :  null }
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 16 , "amount" : 5.16 , "comment" : "3D Glasses" , "type" :  null }
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 16 , "amount" : 5.16 , "comment" : "3D Glasses" , "type" :  null }
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 16 , "amount" : 5.16 , "comment" : "3D Glasses" , "type" :  null }
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 17 , "amount" : 49.47 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 19 , "amount" : 45.4 , "comment" : "Walmart Online" , "type" : 2}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 23 , "amount" : 39.52 , "comment" : "Plush Blanket" , "type" : 2}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 23 , "amount" : 38.89 , "comment" : "Diplomat (Josh)" , "type" : 2}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 24 , "amount" : 24.86 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 27 , "amount" : 63.93 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 27 , "amount" : 24.48 , "comment" : "Walmart Online" , "type" : 2}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 30 , "amount" : 23.85 , "comment" : "" , "type" : 1}
+{ "amount" : 700.0 , "comment" : "Rent" , "year" : 2015 , "month" : 11 , "dateNumb" : 1 , "type" : 3}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 5 , "amount" : 20.61 , "comment" : "Walmart Online" , "type" : 2}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 5 , "amount" : 16.95 , "comment" : "Mobile" , "type" : 1}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 6 , "amount" : 45.96 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 7 , "amount" : 45.12 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 7 , "amount" : 15.0 , "comment" : "UCard" , "type" : 2}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 9 , "amount" : 44.4 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 10 , "amount" : 50.0 , "comment" : "Mobile" , "type" : 3}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 14 , "amount" : 73.65 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 14 , "amount" : 30.0 , "comment" : "Grad Pictures" , "type" : 2}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 14 , "amount" : 60.07 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 15 , "amount" : 11.5 , "comment" : "Fury" , "type" : 2}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 16 , "amount" : 24.47 , "comment" : "Rite Stop" , "type" : 2}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 16 , "amount" : 21.94 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 16 , "amount" : 16.47 , "comment" : "Coffee Beans" , "type" : 1}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 18 , "amount" : 16.95 , "comment" : "Mobile" , "type" : 1}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 20 , "amount" : 100.0 , "comment" : "Driving Lesson" , "type" : 2}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 21 , "amount" : 50.99 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 23 , "amount" : 42.9 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 26 , "amount" : 9.7 , "comment" : "Sandwich Soup" , "type" : 1}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 28 , "amount" : 6.44 , "comment" : "Engineering Cafe" , "type" : 2}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 28 , "amount" : 28.87 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 28 , "amount" : 17.71 , "comment" : "Walmart Online" , "type" : 2}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 1 , "amount" : 5.15 , "comment" : "Engineering Sandwich " , "type" : 1}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 1 , "amount" : 50.0 , "comment" : "Mobile" , "type" : 3}
+{ "amount" : 800.0 , "comment" : "Rent" , "year" : 2015 , "month" : 12 , "dateNumb" : 1 , "type" : 3}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 2 , "amount" : 42.75 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 3 , "amount" : 5.5 , "comment" : "Engineering Sandwich" , "type" : 1}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 3 , "amount" : 43.0 , "comment" : "Wifi" , "type" : 1}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 4 , "amount" : 8.91 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 5 , "amount" : 19.65 , "comment" : "U.S. Customs" , "type" : 1}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 5 , "amount" : 10.19 , "comment" : "kfangtech Domain Name" , "type" : 2}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 9 , "amount" : 11.38 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 9 , "amount" : 56.5 , "comment" : "Taxi" , "type" : 2}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 10 , "amount" : 265.34 , "comment" : "Hotel Reservation" , "type" : 2}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 10 , "amount" : 16.95 , "comment" : "taxi" , "type" : 2}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 11 , "amount" : 11.5 , "comment" : "Lunch" , "type" : 1}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 11 , "amount" : 24.15 , "comment" : "Taxi To YFC" , "type" : 2}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 11 , "amount" : 46.0 , "comment" : "Taxi From Montreal Airport To Hotel" , "type" : 1}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 11 , "amount" : 9.5 , "comment" : "Hotel To Intercontinental Montreal" , "type" : 1}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 12 , "amount" : 6.16 , "comment" : "Sub" , "type" : 1}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 12 , "amount" : 12.65 , "comment" : "Supper" , "type" : 1}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 12 , "amount" : 65.34 , "comment" : "Hotel" , "type" : 2}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 13 , "amount" : 55.09 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 13 , "amount" : 40.0 , "comment" : "Taxi To Montreal Airport" , "type" : 2}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 13 , "amount" : 24.15 , "comment" : "Airport To Apartment" , "type" : 2}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 18 , "amount" : 34.67 , "comment" : "Mandarin Palace" , "type" : 1}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 19 , "amount" : 28.25 , "comment" : "Road Test Fees" , "type" : 2}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 20 , "amount" : 40.25 , "comment" : "" , "type" : 1}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 22 , "amount" : 11.96 , "comment" : "" , "type" : 1}
+{ "amount" : 500.0 , "comment" : "Rent" , "year" : 2016 , "month" : 1 , "dateNumb" : 1 , "type" : 1}
+{ "amount" : 198.0 , "comment" : "Shoes" , "year" : 2016 , "month" : 1 , "dateNumb" : 6 , "type" : 1}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 7 , "amount" : 26.04 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 9 , "amount" : 14.57 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 10 , "amount" : 14.15 , "comment" : "Snacks" , "type" : 1}
+{ "amount" : 16.99 , "comment" : "Mobile Gloves" , "year" : 2016 , "month" : 1 , "dateNumb" : 11 , "type" : 1}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 12 , "amount" : 45.19 , "comment" : "Sports Multivitamine " , "type" : 2}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 12 , "amount" : 18.65 , "comment" : "Snacks" , "type" : 1}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 14 , "amount" : 30.34 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 15 , "amount" : 14.75 , "comment" : "Snacks" , "type" : 1}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 21 , "amount" : 34.88 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 25 , "amount" : 15.0 , "comment" : "Buffe in Bangor" , "type" : 1}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 25 , "amount" : 29.95 , "comment" : "Snacks" , "type" : 1}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 25 , "amount" : 24.93 , "comment" : "Customs on Wine" , "type" : 1}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 25 , "amount" : 35.97 , "comment" : "Wine &  Snacks" , "type" : 1}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 25 , "amount" : 9.98 , "comment" : "KFC" , "type" : 1}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 28 , "amount" : 31.07 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 29 , "amount" : 15.16 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 30 , "amount" : 30.0 , "comment" : "Mandarin Palace" , "type" : 1}
+{ "amount" : 500.0 , "comment" : "Rent" , "year" : 2016 , "month" : 2 , "dateNumb" : 1 , "type" : 3}
+{ "year" : 2016 , "month" : 2 , "dateNumb" : 4 , "amount" : 99.99 , "comment" : "BlackBerry z10" , "type" : 2}
+{ "amount" : -1.0 , "comment" : "" , "year" : 2016 , "month" : 2 , "dateNumb" : 8 , "type" : 2}
+{ "amount" : 255.45 , "comment" : "Monitor" , "year" : 2016 , "month" : 2 , "dateNumb" : 10 , "type" : 1}
+{ "year" : 2016 , "month" : 2 , "dateNumb" : 11 , "amount" : 34.73 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 2 , "dateNumb" : 13 , "amount" : 17.87 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 2 , "dateNumb" : 18 , "amount" : 18.36 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 2 , "dateNumb" : 25 , "amount" : 46.31 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 2 , "dateNumb" : 26 , "amount" : 15.99 , "comment" : "" , "type" : 1}
+{ "amount" : 500.0 , "comment" : "Rent" , "year" : 2016 , "month" : 3 , "dateNumb" : 1 , "type" : 3}
+{ "year" : 2016 , "month" : 3 , "dateNumb" : 3 , "amount" : 2.77 , "comment" : "Tim Hortons" , "type" : 1}
+{ "year" : 2016 , "month" : 3 , "dateNumb" : 3 , "amount" : 4.4 , "comment" : "Lunch At SuperStore" , "type" : 1}
+{ "year" : 2016 , "month" : 3 , "dateNumb" : 4 , "amount" : 33.61 , "comment" : "" , "type" : 1}
+{ "amount" : 121.5 , "comment" : "Nike" , "year" : 2016 , "month" : 3 , "dateNumb" : 5 , "type" : 1}
+{ "year" : 2016 , "month" : 3 , "dateNumb" : 7 , "amount" : 21.46 , "comment" : "Walmart" , "type" : 1}
+{ "amount" : 215.14 , "comment" : "Desk" , "year" : 2016 , "month" : 3 , "dateNumb" : 10 , "type" : 2}
+{ "year" : 2016 , "month" : 3 , "dateNumb" : 12 , "amount" : 18.6 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 3 , "dateNumb" : 18 , "amount" : 42.82 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 3 , "dateNumb" : 19 , "amount" : 13.56 , "comment" : "Target" , "type" : 1}
+{ "year" : 2016 , "month" : 3 , "dateNumb" : 19 , "amount" : 1.42 , "comment" : "Envolope" , "type" : 1}
+{ "year" : 2016 , "month" : 3 , "dateNumb" : 19 , "amount" : 25.12 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 3 , "dateNumb" : 20 , "amount" : 18.05 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 3 , "dateNumb" : 26 , "amount" : 10.0 , "comment" : "Ucard" , "type" : 1}
+{ "year" : 2016 , "month" : 4 , "dateNumb" : 1 , "amount" : 52.7 , "comment" : "" , "type" : 1}
+{ "amount" : 50.0 , "comment" : "Wifi" , "year" : 2016 , "month" : 4 , "dateNumb" : 1 , "type" : 3}
+{ "amount" : 500.0 , "comment" : "Rent" , "year" : 2016 , "month" : 4 , "dateNumb" : 1 , "type" : 3}
+{ "amount" : 270.8 , "comment" : "TV" , "year" : 2016 , "month" : 4 , "dateNumb" : 6 , "type" : 2}
+{ "year" : 2016 , "month" : 4 , "dateNumb" : 7 , "amount" : 37.84 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 4 , "dateNumb" : 10 , "amount" : 33.98 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 4 , "dateNumb" : 13 , "amount" : 48.0 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 4 , "dateNumb" : 16 , "amount" : 48.84 , "comment" : "" , "type" : 1}
+{ "amount" : 23.0 , "comment" : "Screen Protector" , "year" : 2016 , "month" : 4 , "dateNumb" : 18 , "type" : 2}
+{ "amount" : 80.0 , "comment" : "Mobile" , "year" : 2016 , "month" : 4 , "dateNumb" : 18 , "type" : 3}
+{ "amount" : 40.57 , "comment" : "Dinner" , "year" : 2016 , "month" : 4 , "dateNumb" : 21 , "type" : 2}
+{ "year" : 2016 , "month" : 4 , "dateNumb" : 22 , "amount" : 47.78 , "comment" : "" , "type" : 1}
+{ "amount" : 30.2 , "comment" : "Some Drinks" , "year" : 2016 , "month" : 4 , "dateNumb" : 23 , "type" : 2}
+{ "amount" : 15.0 , "comment" : "Movie" , "year" : 2016 , "month" : 4 , "dateNumb" : 23 , "type" : 2}
+{ "year" : 2016 , "month" : 4 , "dateNumb" : 25 , "amount" : 23.62 , "comment" : "" , "type" : 1}
+{ "amount" : 11.0 , "comment" : "2" , "year" : 2016 , "month" : 4 , "dateNumb" : 26 , "type" : 1}
+{ "amount" : 500.0 , "comment" : "Rent" , "year" : 2016 , "month" : 5 , "dateNumb" : 1 , "type" : 3}
+{ "amount" : 50.0 , "comment" : "Wifi" , "year" : 2016 , "month" : 5 , "dateNumb" : 1 , "type" : 3}
+{ "amount" : 100.0 , "comment" : "Buss Pass" , "year" : 2016 , "month" : 5 , "dateNumb" : 1 , "type" : 3}
+{ "amount" : 50.0 , "comment" : "Mobile" , "year" : 2016 , "month" : 5 , "dateNumb" : 1 , "type" : 3}
+{ "year" : 2016 , "month" : 5 , "dateNumb" : 2 , "amount" : 20.3 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 5 , "dateNumb" : 2 , "amount" : 35.83 , "comment" : "" , "type" : 1}
+{ "amount" : 50.0 , "comment" : "Gift Card" , "year" : 2016 , "month" : 5 , "dateNumb" : 6 , "type" : 2}
+{ "year" : 2016 , "month" : 5 , "dateNumb" : 8 , "amount" : 32.94 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 5 , "dateNumb" : 9 , "amount" : 7.33 , "comment" : "Thunb" , "type" : 1}
+{ "year" : 2016 , "month" : 5 , "dateNumb" : 9 , "amount" : 7.85 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 5 , "dateNumb" : 10 , "amount" : 100.0 , "comment" : "Driving Test" , "type" : 2}
+{ "year" : 2016 , "month" : 5 , "dateNumb" : 13 , "amount" : 29.91 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 5 , "dateNumb" : 16 , "amount" : 19.23 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 5 , "dateNumb" : 17 , "amount" : 5.64 , "comment" : "Harveys" , "type" : 1}
+{ "year" : 2016 , "month" : 5 , "dateNumb" : 20 , "amount" : 28.76 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 5 , "dateNumb" : 23 , "amount" : 22.02 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 5 , "dateNumb" : 27 , "amount" : 44.61 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 5 , "dateNumb" : 30 , "amount" : 3.99 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 5 , "dateNumb" : 30 , "amount" : 36.66 , "comment" : "" , "type" : 1}
+{ "amount" : 500.0 , "comment" : "Rent" , "year" : 2016 , "month" : 6 , "dateNumb" : 1 , "type" : 3}
+{ "amount" : 100.0 , "comment" : "buss pass" , "year" : 2016 , "month" : 6 , "dateNumb" : 1 , "type" : 3}
+{ "amount" : 50.0 , "comment" : "Mobile" , "year" : 2016 , "month" : 6 , "dateNumb" : 1 , "type" : 3}
+{ "amount" : 50.0 , "comment" : "Wifi" , "year" : 2016 , "month" : 6 , "dateNumb" : 1 , "type" : 3}
+{ "year" : 2016 , "month" : 6 , "dateNumb" : 3 , "amount" : 31.08 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 6 , "dateNumb" : 3 , "amount" : 64.17 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2016 , "month" : 6 , "dateNumb" : 8 , "amount" : 54.14 , "comment" : "Walmart" , "type" : 1}
+{ "year" : 2016 , "month" : 6 , "dateNumb" : 11 , "amount" : 41.98 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 6 , "dateNumb" : 11 , "amount" : 58.88 , "comment" : "" , "type" : 1}
+{ "amount" : 85.5 , "comment" : "Shirts" , "year" : 2016 , "month" : 6 , "dateNumb" : 12 , "type" : 1}
+{ "amount" : 457.88 , "comment" : "TV" , "year" : 2016 , "month" : 6 , "dateNumb" : 12 , "type" : 2}
+{ "year" : 2016 , "month" : 6 , "dateNumb" : 20 , "amount" : 18.1 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 6 , "dateNumb" : 22 , "amount" : 13.05 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 6 , "dateNumb" : 27 , "amount" : 2.26 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2016 , "month" : 6 , "dateNumb" : 27 , "amount" : 29.73 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2016 , "month" : 6 , "dateNumb" : 29 , "amount" : 17.64 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 6 , "dateNumb" : 30 , "amount" : 10.14 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2016 , "month" : 6 , "dateNumb" : 30 , "amount" : 43.57 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 7 , "dateNumb" : 1 , "amount" : 6.99 , "comment" : "Transformer " , "type" : 1}
+{ "year" : 2016 , "month" : 7 , "dateNumb" : 1 , "amount" : 23.46 , "comment" : "Pop Corn" , "type" : 1}
+{ "amount" : 700.0 , "comment" : "Rent" , "year" : 2016 , "month" : 7 , "dateNumb" : 1 , "type" : 3}
+{ "amount" : 100.0 , "comment" : "Internet" , "year" : 2016 , "month" : 7 , "dateNumb" : 1 , "type" : 3}
+{ "year" : 2016 , "month" : 7 , "dateNumb" : 4 , "amount" : 35.86 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 7 , "dateNumb" : 7 , "amount" : 27.18 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 7 , "dateNumb" : 8 , "amount" : 8.12 , "comment" : "Shan" , "type" : 1}
+{ "year" : 2016 , "month" : 7 , "dateNumb" : 13 , "amount" : 35.3 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 7 , "dateNumb" : 13 , "amount" : 18.9 , "comment" : "Walmart Online" , "type" : 2}
+{ "year" : 2016 , "month" : 7 , "dateNumb" : 16 , "amount" : 18.75 , "comment" : "Palate " , "type" : 1}
+{ "year" : 2016 , "month" : 7 , "dateNumb" : 18 , "amount" : 18.75 , "comment" : "Walmart Online" , "type" : 2}
+{ "year" : 2016 , "month" : 7 , "dateNumb" : 18 , "amount" : 23.48 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 7 , "dateNumb" : 21 , "amount" : 37.73 , "comment" : "Walmart Online" , "type" : 2}
+{ "year" : 2016 , "month" : 7 , "dateNumb" : 23 , "amount" : 25.57 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 7 , "dateNumb" : 25 , "amount" : 47.17 , "comment" : "" , "type" : 2}
+{ "year" : 2016 , "month" : 7 , "dateNumb" : 27 , "amount" : 51.84 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 7 , "dateNumb" : 30 , "amount" : 33.15 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 8 , "dateNumb" : 1 , "amount" : 26.33 , "comment" : "" , "type" : 1}
+{ "amount" : 700.0 , "comment" : "Rentabc" , "year" : 2016 , "month" : 8 , "dateNumb" : 1 , "type" : 1}
+{ "amount" : 50.0 , "comment" : "Wifi" , "year" : 2016 , "month" : 8 , "dateNumb" : 1 , "type" : 3}
+{ "amount" : 100.0 , "comment" : "mobile" , "year" : 2016 , "month" : 8 , "dateNumb" : 4 , "type" : 3}
+{ "year" : 2016 , "month" : 8 , "dateNumb" : 7 , "amount" : 20.0 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 8 , "dateNumb" : 7 , "amount" : 7.0 , "comment" : "Taxi" , "type" : 1}
+{ "year" : 2016 , "month" : 8 , "dateNumb" : 8 , "amount" : 7.5 , "comment" : "Taxi" , "type" : 1}
+{ "year" : 2016 , "month" : 8 , "dateNumb" : 8 , "amount" : 8.5 , "comment" : "Taxi" , "type" : 1}
+{ "year" : 2016 , "month" : 8 , "dateNumb" : 8 , "amount" : 55.29 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 8 , "dateNumb" : 10 , "amount" : 28.1 , "comment" : "Walmart Online" , "type" : 1}
+{ "amount" : 830.75 , "comment" : "Futon Mattress" , "year" : 2016 , "month" : 8 , "dateNumb" : 13 , "type" : 2}
+{ "year" : 2016 , "month" : 8 , "dateNumb" : 17 , "amount" : 57.04 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 8 , "dateNumb" : 18 , "amount" : 12.2 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2016 , "month" : 8 , "dateNumb" : 18 , "amount" : 122.46 , "comment" : "Nike Shoes" , "type" : 1}
+{ "year" : 2016 , "month" : 8 , "dateNumb" : 22 , "amount" : 27.96 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 8 , "dateNumb" : 22 , "amount" : 59.86 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 8 , "dateNumb" : 24 , "amount" : 41.09 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 8 , "dateNumb" : 26 , "amount" : 48.58 , "comment" : "Whey Protein" , "type" : 1}
+{ "year" : 2016 , "month" : 8 , "dateNumb" : 27 , "amount" : 5.62 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2016 , "month" : 8 , "dateNumb" : 27 , "amount" : 19.25 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2016 , "month" : 8 , "dateNumb" : 29 , "amount" : 29.85 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 8 , "dateNumb" : 31 , "amount" : 23.0 , "comment" : "Walmart Online" , "type" : 1}
+{ "amount" : 700.0 , "comment" : "Rent" , "year" : 2016 , "month" : 9 , "dateNumb" : 1 , "type" : 3}
+{ "year" : 2016 , "month" : 9 , "dateNumb" : 2 , "amount" : 43.17 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2016 , "month" : 9 , "dateNumb" : 3 , "amount" : 48.62 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 9 , "dateNumb" : 4 , "amount" : 111.61 , "comment" : "AMMUNITION" , "type" : 2}
+{ "amount" : 100.0 , "comment" : "Mobile" , "year" : 2016 , "month" : 9 , "dateNumb" : 4 , "type" : 3}
+{ "year" : 2016 , "month" : 9 , "dateNumb" : 7 , "amount" : 57.48 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 9 , "dateNumb" : 12 , "amount" : 46.35 , "comment" : "" , "type" : 1}
+{ "amount" : 50.0 , "comment" : "Wifi" , "year" : 2016 , "month" : 9 , "dateNumb" : 13 , "type" : 3}
+{ "year" : 2016 , "month" : 9 , "dateNumb" : 17 , "amount" : 19.46 , "comment" : "DHL Custom" , "type" : 2}
+{ "year" : 2016 , "month" : 9 , "dateNumb" : 19 , "amount" : 49.86 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2016 , "month" : 9 , "dateNumb" : 19 , "amount" : 74.91 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 9 , "dateNumb" : 23 , "amount" : 20.36 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 9 , "dateNumb" : 26 , "amount" : 37.86 , "comment" : "Rite" , "type" : 1}
+{ "year" : 2016 , "month" : 9 , "dateNumb" : 28 , "amount" : 53.14 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 9 , "dateNumb" : 30 , "amount" : 37.42 , "comment" : "" , "type" : 1}
+{ "amount" : 700.0 , "comment" : "Rent" , "year" : 2016 , "month" : 10 , "dateNumb" : 1 , "type" : 3}
+{ "amount" : 100.0 , "comment" : "Bus Pass" , "year" : 2016 , "month" : 10 , "dateNumb" : 1 , "type" : 3}
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 2 , "amount" : 5.16 , "comment" : "3D Glasses" , "type" :  null }
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 2 , "amount" : 5.16 , "comment" : "3D Glasses" , "type" : 2}
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 2 , "amount" : 114.82 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 2 , "amount" : 17.87 , "comment" : "Fish Oil And Vitamin D" , "type" : 2}
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 2 , "amount" : 38.89 , "comment" : "Diplomat (Hammed)" , "type" : 2}
+{ "amount" : 50.0 , "comment" : "Wifi" , "year" : 2016 , "month" : 10 , "dateNumb" : 3 , "type" : 3}
+{ "amount" : 47.0 , "comment" : "Landsdown" , "year" : 2016 , "month" : 10 , "dateNumb" : 3 , "type" : 2}
+{ "amount" : 50.0 , "comment" : "data" , "year" : 2016 , "month" : 10 , "dateNumb" : 3 , "type" : 2}
+{ "amount" : 20.0 , "comment" : "Landsdown" , "year" : 2016 , "month" : 10 , "dateNumb" : 3 , "type" : 2}
+{ "amount" : 20.0 , "comment" : "parking" , "year" : 2016 , "month" : 10 , "dateNumb" : 3 , "type" : 2}
+{ "amount" : 20.0 , "comment" : "" , "year" : 2016 , "month" : 10 , "dateNumb" : 3 , "type" : 2}
+{ "amount" : 30.0 , "comment" : "beer" , "year" : 2016 , "month" : 10 , "dateNumb" : 3 , "type" : 2}
+{ "amount" : 20.8 , "comment" : "" , "year" : 2016 , "month" : 10 , "dateNumb" : 4 , "type" : 2}
+{ "amount" : 14.5 , "comment" : "" , "year" : 2016 , "month" : 10 , "dateNumb" : 4 , "type" : 2}
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 5 , "amount" : 40.97 , "comment" : "" , "type" : 1}
+{ "amount" : 50.0 , "comment" : "Mobile" , "year" : 2016 , "month" : 10 , "dateNumb" : 9 , "type" : 3}
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 10 , "amount" : 35.66 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 12 , "amount" : 12.99 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 15 , "amount" : 37.25 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 16 , "amount" : 5.0 , "comment" : "Glasses" , "type" :  null }
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 16 , "amount" : 5.16 , "comment" : "3D Glasses" , "type" :  null }
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 16 , "amount" : 5.16 , "comment" : "3D Glasses" , "type" :  null }
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 16 , "amount" : 5.16 , "comment" : "3D Glasses" , "type" :  null }
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 16 , "amount" : 5.16 , "comment" : "3D Glasses" , "type" :  null }
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 16 , "amount" : 5.16 , "comment" : "3D Glasses" , "type" :  null }
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 16 , "amount" : 5.16 , "comment" : "3D Glasses" , "type" :  null }
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 16 , "amount" : 5.16 , "comment" : "3D Glasses" , "type" :  null }
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 17 , "amount" : 49.47 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 19 , "amount" : 45.4 , "comment" : "Walmart Online" , "type" : 2}
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 23 , "amount" : 39.52 , "comment" : "Plush Blanket" , "type" : 2}
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 23 , "amount" : 38.89 , "comment" : "Diplomat (Josh)" , "type" : 2}
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 24 , "amount" : 24.86 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 27 , "amount" : 63.93 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 27 , "amount" : 24.48 , "comment" : "Walmart Online" , "type" : 2}
+{ "year" : 2016 , "month" : 10 , "dateNumb" : 30 , "amount" : 23.85 , "comment" : "" , "type" : 1}
+{ "amount" : 700.0 , "comment" : "Rent" , "year" : 2016 , "month" : 11 , "dateNumb" : 1 , "type" : 3}
+{ "year" : 2016 , "month" : 11 , "dateNumb" : 5 , "amount" : 20.61 , "comment" : "Walmart Online" , "type" : 2}
+{ "year" : 2016 , "month" : 11 , "dateNumb" : 5 , "amount" : 16.95 , "comment" : "Mobile" , "type" : 1}
+{ "year" : 2016 , "month" : 11 , "dateNumb" : 6 , "amount" : 45.96 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 11 , "dateNumb" : 7 , "amount" : 45.12 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 11 , "dateNumb" : 7 , "amount" : 15.0 , "comment" : "UCard" , "type" : 2}
+{ "year" : 2016 , "month" : 11 , "dateNumb" : 9 , "amount" : 44.4 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 11 , "dateNumb" : 10 , "amount" : 50.0 , "comment" : "Mobile" , "type" : 3}
+{ "year" : 2016 , "month" : 11 , "dateNumb" : 14 , "amount" : 73.65 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 11 , "dateNumb" : 14 , "amount" : 30.0 , "comment" : "Grad Pictures" , "type" : 2}
+{ "year" : 2016 , "month" : 11 , "dateNumb" : 14 , "amount" : 60.07 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 11 , "dateNumb" : 15 , "amount" : 11.5 , "comment" : "Fury" , "type" : 2}
+{ "year" : 2016 , "month" : 11 , "dateNumb" : 16 , "amount" : 24.47 , "comment" : "Rite Stop" , "type" : 2}
+{ "year" : 2016 , "month" : 11 , "dateNumb" : 16 , "amount" : 21.94 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2016 , "month" : 11 , "dateNumb" : 16 , "amount" : 16.47 , "comment" : "Coffee Beans" , "type" : 1}
+{ "year" : 2016 , "month" : 11 , "dateNumb" : 18 , "amount" : 16.95 , "comment" : "Mobile" , "type" : 1}
+{ "year" : 2016 , "month" : 11 , "dateNumb" : 20 , "amount" : 100.0 , "comment" : "Driving Lesson" , "type" : 2}
+{ "year" : 2016 , "month" : 11 , "dateNumb" : 21 , "amount" : 50.99 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 11 , "dateNumb" : 23 , "amount" : 42.9 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 11 , "dateNumb" : 26 , "amount" : 9.7 , "comment" : "Sandwich Soup" , "type" : 1}
+{ "year" : 2016 , "month" : 11 , "dateNumb" : 28 , "amount" : 6.44 , "comment" : "Engineering Cafe" , "type" : 2}
+{ "year" : 2016 , "month" : 11 , "dateNumb" : 28 , "amount" : 28.87 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 11 , "dateNumb" : 28 , "amount" : 17.71 , "comment" : "Walmart Online" , "type" : 2}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 1 , "amount" : 5.15 , "comment" : "Engineering Sandwich " , "type" : 1}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 1 , "amount" : 50.0 , "comment" : "Mobile" , "type" : 3}
+{ "amount" : 800.0 , "comment" : "Rent" , "year" : 2016 , "month" : 12 , "dateNumb" : 1 , "type" : 3}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 2 , "amount" : 42.75 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 3 , "amount" : 5.5 , "comment" : "Engineering Sandwich" , "type" : 1}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 3 , "amount" : 43.0 , "comment" : "Wifi" , "type" : 1}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 4 , "amount" : 8.91 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 5 , "amount" : 19.65 , "comment" : "U.S. Customs" , "type" : 1}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 5 , "amount" : 10.19 , "comment" : "kfangtech Domain Name" , "type" : 2}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 9 , "amount" : 11.38 , "comment" : "Walmart Online" , "type" : 1}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 9 , "amount" : 56.5 , "comment" : "Taxi" , "type" : 2}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 10 , "amount" : 265.34 , "comment" : "Hotel Reservation" , "type" : 2}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 10 , "amount" : 16.95 , "comment" : "taxi" , "type" : 2}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 11 , "amount" : 11.5 , "comment" : "Lunch" , "type" : 1}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 11 , "amount" : 24.15 , "comment" : "Taxi To YFC" , "type" : 2}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 11 , "amount" : 46.0 , "comment" : "Taxi From Montreal Airport To Hotel" , "type" : 1}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 11 , "amount" : 9.5 , "comment" : "Hotel To Intercontinental Montreal" , "type" : 1}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 12 , "amount" : 6.16 , "comment" : "Sub" , "type" : 1}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 12 , "amount" : 12.65 , "comment" : "Supper" , "type" : 1}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 12 , "amount" : 65.34 , "comment" : "Hotel" , "type" : 2}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 13 , "amount" : 55.09 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 13 , "amount" : 40.0 , "comment" : "Taxi To Montreal Airport" , "type" : 2}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 13 , "amount" : 24.15 , "comment" : "Airport To Apartment" , "type" : 2}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 18 , "amount" : 34.67 , "comment" : "Mandarin Palace" , "type" : 1}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 19 , "amount" : 28.25 , "comment" : "Road Test Fees" , "type" : 2}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 20 , "amount" : 40.25 , "comment" : "" , "type" : 1}
+{ "year" : 2016 , "month" : 12 , "dateNumb" : 22 , "amount" : 11.96 , "comment" : "" , "type" : 1}

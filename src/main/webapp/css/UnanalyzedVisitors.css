@@ -1,0 +1,114 @@
+/**
+ * 
+ * Author: Kenny Fang
+ * 
+ * Email: kuinai.fang@gmail.com
+ * LinkedIn: http://www.linkedin.com/profile/view?id=134048517
+ * 
+ * All Rights Reserved
+ * 
+ */
+
+
+@font-face {
+  font-family: 'segoe print';
+  src:  url('fonts/segoepr.ttf');
+}
+
+@font-face {
+  font-family: 'segoe script';
+  src:  url('fonts/segoesc.ttf');
+}
+
+#theBody {
+	
+	background: black;
+	font-family: "segoe print";
+	font-size: 1em;
+	color: white;
+}
+
+#centerContainer {
+	
+	width: 70%;
+	margin: auto;
+/* 	border: 1px dotted silver; */
+}
+
+#middle {
+	width: 70%;
+	margin: auto;
+}
+
+#loadingGif {
+	
+	position: absolute;
+	
+	width: 80px;
+	height: 80px;
+	
+	margin-top: 50px;
+	margin-left: 330px;
+	
+	background: url("../images/gif/loadingFast.gif") no-repeat;
+	background-size: contain;
+}
+
+#unanalyzedBrowsingTitle {
+	width: 100%;
+	font-weight: bold;
+}
+
+#unanalyzedLoginTitle {
+	
+	width: 100%;
+	margin-top: 50px;
+	font-weight: bold;
+}
+
+.row {
+	display: table;
+	font-size: 0.8em;
+	margin-left: 20px;
+	width: auto;
+}
+
+
+.loginTime {
+	float: left;
+	width: 220px;
+    margin-top: 2px;
+}
+
+.ipAddress {
+	float: left;
+	min-width: 150px;
+    margin-top: 2px;
+}
+
+.delete {
+	margin-left: 5px;
+	float: left;
+}
+
+.buttonStyle {
+	cursor: pointer;
+	border-radius: 5px;
+	background: #4682B4;
+	color: white;
+	font-family: "segoe script";
+	font-size: 0.8em;
+	padding: 0px 10px;
+}
+
+
+
+
+
+
+/** Mobile */
+@media all and (max-width: 550px){
+
+	
+}
+

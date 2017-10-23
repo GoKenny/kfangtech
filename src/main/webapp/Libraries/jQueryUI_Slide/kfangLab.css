@@ -1,0 +1,33 @@
+
+
+
+
+
+
+
+
+#theContainer {
+	
+	
+	width: 450px;
+	height: 300px;
+	
+	background: orange;
+	
+	
+}
+
+
+#theData1 {
+	display: none;
+	background: grey;
+}
+
+
+#theData2 {
+	
+	display: none;
+	background: green;
+}
+
+

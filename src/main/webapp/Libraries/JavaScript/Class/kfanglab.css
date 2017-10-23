@@ -1,0 +1,36 @@
+
+
+#theContainer {
+	
+	width: 300px;
+	height: 120px;
+	
+	margin: auto;
+	
+	background: orange;
+	
+	
+	
+}
+
+#theButton {
+	
+	margin-left: 100px;
+	margin-top: 20px;
+	
+	cursor: pointer;
+}
+
+.theClass {
+	
+	width: 150px;
+	height: 20px;
+	
+	margin: auto;
+}
+
+
+
+
+
+

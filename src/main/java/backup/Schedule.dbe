@@ -1,0 +1,531 @@
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : 1.0 , "endTime" : 1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : 1.0 , "endTime" : 1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : 1.0 , "endTime" : 1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "completed"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : 1.0 , "endTime" : 1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "completed"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : 1.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "completed"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "completed"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 6 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "First day of classes" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 6 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "First day of classes" , "status" : "pending"}
+{ "year" : 2013 , "month" : 6 , "dateNumb" : 30 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "U.N.B." , "activity" : "Pay Co-op Fees" , "status" : "completed"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 0 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "BMO" , "activity" : "Deposit Cash & Exchange Quarters" , "status" : "completed"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 0 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Blackmores Watch Store" , "activity" : "Repair The Watch Belt" , "status" : "completed"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Canada" , "activity" : "Canada Day" , "status" : "completed"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 2 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Sobeys" , "activity" : "Get some groceries" , "status" : "completed"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 2 , "startTime" : 9.0 , "endTime" : 17.0 , "place" : "BlackBerry Office" , "activity" : "Back to work" , "status" : "completed"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 4 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "BlackBerry Office" , "activity" : "Ice cream day" , "status" : "completed"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 8 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "U.N.B email" , "activity" : "Last day for application" , "status" : "completed"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 9 , "startTime" : 13.0 , "endTime" : -1.0 , "place" : "Marshall da??Avray Hall room 244" , "activity" : "Interview With Mr. Bev" , "status" : "completed"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 12 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Empire Theatre" , "activity" : "Date Night" , "status" : "completed"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 15 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Office" , "activity" : "Reply The Email" , "status" : "completed"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 18 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Aitken Pool" , "activity" : "swim" , "status" : "completed"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 19 , "startTime" : 13.0 , "endTime" : -1.0 , "place" : "Marshall d''Avray Hall 124" , "activity" : "Do Paper Work With Susan" , "status" : "completed"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 20 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Home" , "activity" : "Prepare TD1 & Questions For Monday" , "status" : "completed"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 22 , "startTime" : 9.3 , "endTime" : -1.0 , "place" : "BlackBerry Office" , "activity" : "Co-op Visit" , "status" : "completed"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 22 , "startTime" : 13.0 , "endTime" : -1.0 , "place" : "Marshall d''Avray Hall room 244." , "activity" : "Meeting With Bev" , "status" : "completed"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 23 , "startTime" : 13.0 , "endTime" : -1.0 , "place" : "Marshall d Avray Hall room 244." , "activity" : "Meeting With Bev" , "status" : "completed"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Taobao" , "activity" : "Order Shipment For Products" , "status" : "completed"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 6 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "BlackBerry Office" , "activity" : "Submit Evaluation Form" , "status" : "completed"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 14 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Marshall da??Avray Hall room 244." , "activity" : "Meeting" , "status" : "completed"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 15 , "startTime" : 12.2 , "endTime" : -1.0 , "place" : "Light House" , "activity" : "Have Lunch" , "status" : "completed"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 16 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Isaac Way" , "activity" : "Have Lunch" , "status" : "completed"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 17 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Apartment" , "activity" : "Refine My Webapp" , "status" : "completed"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 17 , "startTime" : 14.0 , "endTime" : 17.0 , "place" : "Apartment" , "activity" : "Study The Bible" , "status" : "completed"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 18 , "startTime" : 14.0 , "endTime" : 17.0 , "place" : "My Apartment" , "activity" : "Study The Bible" , "status" : "completed"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 18 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Apartment" , "activity" : "Work On The ''Technical Report''" , "status" : "completed"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 19 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Email" , "activity" : "Reply Andrew For Course Selections" , "status" : "completed"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 19 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Email" , "activity" : "Setup Appointment With Tim For Laptop" , "status" : "completed"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 19 , "startTime" : 12.0 , "endTime" : 14.3 , "place" : "Downtown" , "activity" : "Have Lunch" , "status" : "completed"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 27 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Office" , "activity" : "Ask Ian For Student Evaluation Form" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 0 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "BMO" , "activity" : "Continue Student Plan With ID" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 0 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Regent Mall" , "activity" : "Buy Gift Card at ''Dynamite''" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 0 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Email" , "activity" : "Send An Email To Andrew About Course Selections" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 0 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "BMO" , "activity" : "Ask For Transfer Banking Info & Tuition Cheque" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 0 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Post Office" , "activity" : "Send A Mail To New York" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 2 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Email finserv@unb.ca" , "activity" : "Ask For The Extra International Student Insurance" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 3 , "startTime" : 12.0 , "endTime" : -1.0 , "place" : "Downtown" , "activity" : "BMO & Lunch" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 3 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "BMO" , "activity" : "Continue Student Plan & Ask For Transfer Info" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 3 , "startTime" : 9.3 , "endTime" : -1.0 , "place" : "U.N.B. Financial Service" , "activity" : "Query The International Insurance" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 4 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "U.N.B." , "activity" : "Print Out My Course Schedule" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 5 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "Unknown" , "activity" : "Have First INFO4900 Meeting" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 5 , "startTime" : 9.0 , "endTime" : -1.0 , "place" : "Car Insurance" , "activity" : "Check The Insurance For Peter" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 6 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "WebAdviser" , "activity" : "Fill In Online Time Sheet" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 6 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Email" , "activity" : "Email Rick About The Washer & Dryer" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 6 , "startTime" : 2.3 , "endTime" : -1.0 , "place" : "Marshall da??Avray Hall room 244." , "activity" : "Have Meeting" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 7 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Message" , "activity" : "Ask For OB Textbook" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 9 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Engineering Library" , "activity" : "Check Textbooks" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 9 , "startTime" : 13.3 , "endTime" : -1.0 , "place" : "Cafe Shop" , "activity" : "Teach JavaScript" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 9 , "startTime" : 12.3 , "endTime" : -1.0 , "place" : "Head Hall" , "activity" : "Meet up for the book" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 10 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "GWD 120" , "activity" : "Have IS Project Meeting" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 10 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "ITC 319" , "activity" : "BackToSchool Meeting" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 10 , "startTime" : 16.0 , "endTime" : -1.0 , "place" : "Marshall da??''Avray Hall room 244." , "activity" : "Have Meeting" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 11 , "startTime" : 9.0 , "endTime" : 17.0 , "place" : "SUB Ballroom" , "activity" : "Buy Textbook" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 11 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Marshall da??''Avray Hall" , "activity" : "Work" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 13 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Online Course" , "activity" : "Refine Interface & Dynamic Themes & Contents" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 14 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "My Account" , "activity" : "Submitted T2202A With Confirmation Code of 2235R7S" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 17 , "startTime" : 20.0 , "endTime" : -1.0 , "place" : "Library" , "activity" : "Meet up for INFO1003 assignment" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 17 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Student Affairs at C.C. Jones" , "activity" : "Drop off the tutor form" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 19 , "startTime" : 11.0 , "endTime" : -1.0 , "place" : "Apartment" , "activity" : "Finish INFO Assignments" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 19 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Email" , "activity" : "Ask Rick About The Washer & Dryer" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 19 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Mary''''s Vil" , "activity" : "Have Supper" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 20 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Email" , "activity" : "(Last Day) Submit Technical Reports" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 20 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "www.wespeakstudent.com" , "activity" : "Opt Out Healthcare" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 20 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Holly''s Office" , "activity" : "Hand in Employer Evaluation Form" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 20 , "startTime" : 16.0 , "endTime" : -1.0 , "place" : "E level of Head Hall" , "activity" : "Submit INFO1003 Assignment 1" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 20 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "WebAdviser" , "activity" : "Make Online Entries" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 20 , "startTime" : 23.59 , "endTime" : -1.0 , "place" : "UNB Server" , "activity" : "INFO 3103 Assignment 1 Due" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 20 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Lab" , "activity" : "Read Case Study Before The Lab" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 21 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "HIL Room 105" , "activity" : "Meeting For INFO 3103 Project" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 24 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "E level of Head Hall" , "activity" : "Submit INFO1003 Assignment 2" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 26 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "ITD414" , "activity" : "Tutoring" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 26 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "ITD414" , "activity" : "Meeting For Tutoring" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 27 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "INFO 3103" , "activity" : "Assignment02 Due" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 28 , "startTime" : 10.3 , "endTime" : -1.0 , "place" : "GWD 120" , "activity" : "Have Info 4900 Meeting" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 29 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Cafeteria" , "activity" : "Have Tutoring" , "status" : "completed"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 30 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Taobao" , "activity" : "Pay For The Order" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 0 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Kfang Workshop" , "activity" : "Email Andrew About Course Selection" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "ITD414" , "activity" : "No Lab" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 1 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "Fredericton" , "activity" : "Ride the Bicycle" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 2 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "RSS2023" , "activity" : "Have Term Quiz #1" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 2 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Organizational Behaviour" , "activity" : "Due for class discussion quetions" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 2 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "ADM2513" , "activity" : "Test#1: Chapters 1 2 3" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 2 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Info 1003" , "activity" : "Test#1" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 2 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "Tilley Lab" , "activity" : "Do The Paperwork" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 3 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "Cafe Shop" , "activity" : "Tutoring" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 3 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "U.N.B. HR" , "activity" : "Submit The Tax Form" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 3 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "Head Hall 135" , "activity" : "Info 1003 Tutorial" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 4 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "WebAdviser" , "activity" : "Make Online Entries" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 4 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "INFO 3103" , "activity" : "Assignment02 Due" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 4 , "startTime" : 10.3 , "endTime" : 11.3 , "place" : "Info 1003" , "activity" : "Test#1" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 4 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "GWD 120" , "activity" : "Info 4900 Meeting" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 5 , "startTime" : 9.3 , "endTime" : 10.3 , "place" : "Kfang Workshop" , "activity" : "ADM Discussion Article" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 5 , "startTime" : 16.0 , "endTime" : 0.0 , "place" : "Cafeteria" , "activity" : "Tutoring (Cancelled)" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 5 , "startTime" : 10.3 , "endTime" : 12.0 , "place" : "Kfang Workshop" , "activity" : "Upgrade My Webapp" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 6 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "Mike''s House" , "activity" : "Thanksgiving Dinner" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 7 , "startTime" : 10.48 , "endTime" : -1.0 , "place" : "ADM2513" , "activity" : "Chapter 1 Discussion Article" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 10 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "Cafeteria" , "activity" : "Tutoring" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 11 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "ITC 414" , "activity" : "Info 3303 No Lab" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 11 , "startTime" : 9.0 , "endTime" : -1.0 , "place" : "ITD414" , "activity" : "Print Out RSS Assignment" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 11 , "startTime" : 11.3 , "endTime" : -1.0 , "place" : "RSS2023" , "activity" : "Due For Optional Assignment" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 13 , "startTime" : 16.0 , "endTime" : 18.0 , "place" : "SUB Ballroom" , "activity" : "Free Thanksgiving Dinner" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 14 , "startTime" : 12.0 , "endTime" : -1.0 , "place" : "Fredericton" , "activity" : "Lunch & Shopping" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 14 , "startTime" : 22.0 , "endTime" : -1.0 , "place" : "Peter" , "activity" : "The Money" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 15 , "startTime" : 17.3 , "endTime" : -1.0 , "place" : "Tilley Lab" , "activity" : "Info 4900 Documentation Meeting" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 15 , "startTime" : 16.0 , "endTime" : -1.0 , "place" : "Classroom" , "activity" : "Info 3303 Mid-Term (Chapter 1-6) 25%;" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 16 , "startTime" : 18.0 , "endTime" : -1.0 , "place" : "ITC" , "activity" : "Information System Management Speech" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 17 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Kfang Workshop" , "activity" : "Info 4900 Documentation Due" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 17 , "startTime" : 11.3 , "endTime" : 13.0 , "place" : "SUB Cafeteria" , "activity" : "Bible Study" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 17 , "startTime" : 17.3 , "endTime" : -1.0 , "place" : "Fredericton" , "activity" : "Birthday Dinner" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 18 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Financial Service" , "activity" : "Fill Out the International Health Insurance" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 18 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "WebAdviser" , "activity" : "Make Online Entries" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 21 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "Windows Lab" , "activity" : "Info 3103 Meeting" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 23 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Kfang Workshop" , "activity" : "Money For Esme" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 23 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "ADM2513" , "activity" : "Test#2: Chapter 4 5 6" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 24 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "Cafeteria" , "activity" : "Tutoring" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 25 , "startTime" : 18.3 , "endTime" : -1.0 , "place" : "Evangel Church" , "activity" : "Pizza" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 25 , "startTime" : 11.3 , "endTime" : -1.0 , "place" : "Classroom" , "activity" : "RSS 2023 1st Observation Assignment Due" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 25 , "startTime" : 10.3 , "endTime" : -1.0 , "place" : "Classroom" , "activity" : "Info 1003 test 2 (5 6 7)" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 25 , "startTime" : 8.3 , "endTime" : -1.0 , "place" : "Class Room" , "activity" : "Info 3103 Mid-Term" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 26 , "startTime" : 2.4 , "endTime" : -1.0 , "place" : "SWE Lab" , "activity" : "Info 4900 Meeting" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 28 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Linux Lab" , "activity" : "Info 31 03 Meeting" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 28 , "startTime" : 9.3 , "endTime" : -1.0 , "place" : "Classroom" , "activity" : "Info 3303 Mid-Term (1 - 6)" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 29 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Superstore" , "activity" : "Pick up The Delivery" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 30 , "startTime" : 8.0 , "endTime" : -1.0 , "place" : "Classroom" , "activity" : "Java EE Presentation" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 30 , "startTime" : 18.0 , "endTime" : 21.0 , "place" : "Alumni Memorial Building" , "activity" : "ISAO Halloween Party" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 30 , "startTime" : 11.3 , "endTime" : -1.0 , "place" : "Classroom" , "activity" : "RSS 2023 test # 2" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 30 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "CETL" , "activity" : "Meeting With Partners" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 31 , "startTime" : 11.45 , "endTime" : -1.0 , "place" : "SUB Cafeteria" , "activity" : "Bible Study" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 31 , "startTime" : 19.3 , "endTime" : -1.0 , "place" : "Cafeteria" , "activity" : "Tutoring" , "status" : "completed"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 31 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "Fredericton" , "activity" : "Pick up The Delivery" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 1 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Kfang Workshop" , "activity" : "ADM 2513 Due For Discussion Question" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 1 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Kfang Workshop" , "activity" : "Replay Gmails" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 1 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Kfang Workshop" , "activity" : "Fill in Online Time Sheet" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 1 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Kfang Workshop" , "activity" : "INFO 3103 Assignment 3 Due" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 2 , "startTime" : 22.0 , "endTime" : -1.0 , "place" : "Kfang Workshop" , "activity" : "Complete 6.0 and 6.2 Modules" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 2 , "startTime" : 22.0 , "endTime" : -1.0 , "place" : "Kfang Workshop" , "activity" : "List of hours short by week" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 3 , "startTime" : 19.3 , "endTime" : -1.0 , "place" : "Currie Center" , "activity" : "Basketball" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 6 , "startTime" : 2.3 , "endTime" : -1.0 , "place" : "Marshall d''Avray Hall" , "activity" : "Meeting With Bev and Richard" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 6 , "startTime" : 3.3 , "endTime" : -1.0 , "place" : "Marshall d''Avray Hall Rm 138" , "activity" : "Meeting With Heather and Bev" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 7 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Cafeteria" , "activity" : "Tutoring" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 8 , "startTime" : 16.0 , "endTime" : -1.0 , "place" : "CC Jones Room 113" , "activity" : "Consult For The U.S. VISA" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 12 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "CC Jones Room 113" , "activity" : "Apply For The U.S. visa" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 13 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "Classroom" , "activity" : "ADM2513 Test#3  (Chapter " , "status" : ""}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 14 , "startTime" : 13.0 , "endTime" : -1.0 , "place" : "GWD 120" , "activity" : "Info 3103 Meeting" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 14 , "startTime" : 18.0 , "endTime" : -1.0 , "place" : "Superstore" , "activity" : "Take the bus to Halifax" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 15 , "startTime" : 16.0 , "endTime" : -1.0 , "place" : "Kfang Workshop" , "activity" : "Online Time Sheet" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 15 , "startTime" : 9.1 , "endTime" : -1.0 , "place" : "U.S. Embassy" , "activity" : "Interview for the visa" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 15 , "startTime" : 13.0 , "endTime" : -1.0 , "place" : "U.S. Embassy" , "activity" : "Receive My visa" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 15 , "startTime" : 11.3 , "endTime" : -1.0 , "place" : "RSS2023" , "activity" : "2nd Observation Assignment" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 16 , "startTime" : 12.0 , "endTime" : -1.0 , "place" : "Web Advisor" , "activity" : "Add Time Entry" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 16 , "startTime" : 15.15 , "endTime" : -1.0 , "place" : "Halifax Airport" , "activity" : "Take The Flight To New York" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 17 , "startTime" : 21.0 , "endTime" : -1.0 , "place" : "103 Canal Stree" , "activity" : "NY" , "status" : "take a bus to cincinna"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 18 , "startTime" : 10.3 , "endTime" : -1.0 , "place" : "Classroom" , "activity" : "Info 1003 Test 3" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 19 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Cincinnati" , "activity" : "Eat Dinner" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 23 , "startTime" : 13.0 , "endTime" : -1.0 , "place" : "Skype" , "activity" : "Info 3103 Meeting" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 27 , "startTime" : 8.3 , "endTime" : -1.0 , "place" : "Classroom" , "activity" : "Radian 6 Demo" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 28 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Cellphone" , "activity" : "Make Hotel Reservation in New York" , "status" : "completed"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 29 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Web Adviser" , "activity" : "Online Time Sheet" , "status" : "completed"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 3 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "New York" , "activity" : "Fly to Fredericton" , "status" : "completed"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 4 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "Marshall A''davray" , "activity" : "Meeting" , "status" : "completed"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 5 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "Software Engineering Lab" , "activity" : "Info 4900 Meeting" , "status" : "completed"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 5 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "Walmart" , "activity" : "Shopping" , "status" : "completed"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 7 , "startTime" : 9.0 , "endTime" : -1.0 , "place" : "Head Hall Room 110" , "activity" : "Info 3303 Final" , "status" : "completed"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 7 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Web Advisor" , "activity" : "Enter Entries for this week then next week ahead" , "status" : "completed"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 11 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Urec room 4-02A rows 4&B 6-7" , "activity" : "Info 3103 Final" , "status" : "completed"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 12 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "South Gym rows A 10-14" , "activity" : "ADM 2513 Final" , "status" : "completed"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 15 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Web Advisor" , "activity" : "Enter Entries Until 3rd Jan" , "status" : "completed"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 16 , "startTime" : 9.0 , "endTime" : -1.0 , "place" : "Urec room 4-02A rows A&B 15-22" , "activity" : "RSS 2023 Final" , "status" : "completed"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 18 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "Head Hall room C11" , "activity" : "Info 1003 final" , "status" : "completed"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 20 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Kfang Workshop" , "activity" : "Clean the teeth & Cavity" , "status" : "pending"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 22 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Peter''s House" , "activity" : "Supper" , "status" : "completed"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 23 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "Marshall A''davray" , "activity" : "Meeting" , "status" : "completed"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 6 , "startTime" : 10.3 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "First Day of Classes" , "status" : "completed"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 6 , "startTime" : 15.45 , "endTime" : -1.0 , "place" : "ITC" , "activity" : "Meeting With Trish" , "status" : "completed"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 7 , "startTime" : 18.0 , "endTime" : -1.0 , "place" : "Sobeys" , "activity" : "Do The Groceries" , "status" : "completed"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 10 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Web Advisor" , "activity" : "Online Time Sheet" , "status" : "completed"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 10 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "Info 4900" , "activity" : "Meeting with Yevgen" , "status" : "completed"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 10 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Info 4900" , "activity" : "Requirement Analysis Document" , "status" : "completed"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 14 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Info 4997" , "activity" : "Assignment 1: Code Academy" , "status" : "completed"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 14 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "SUB" , "activity" : "Drop Off Books To Sell" , "status" : "completed"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 15 , "startTime" : 9.0 , "endTime" : -1.0 , "place" : "SUB" , "activity" : "Buy Books" , "status" : "completed"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 15 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "FWD120" , "activity" : "Info 4900 Meeting" , "status" : "completed"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 17 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "Last Day for Payment of Tuition Fees" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 17 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "Last Day To Add/Drop Courses" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 17 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "SUB" , "activity" : "Pick up unsold books" , "status" : "completed"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 18 , "startTime" : 4.0 , "endTime" : -1.0 , "place" : "INFO 3403" , "activity" : "Assignment 1: Relational Algebra" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 18 , "startTime" : 4.0 , "endTime" : -1.0 , "place" : "INFO 3403" , "activity" : "Lab1: SQL queries" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 20 , "startTime" : 12.0 , "endTime" : -1.0 , "place" : "Co-op" , "activity" : "Positions Online" , "status" : "completed"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 20 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "SUB" , "activity" : "Pickup Payment" , "status" : "completed"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 24 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Student Union" , "activity" : "Opt out Health Plans" , "status" : "completed"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 24 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "HTML" , "activity" : "Online Time Sheet" , "status" : "completed"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 30 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "GWD 120" , "activity" : "Info 4900 Meeting" , "status" : "completed"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 3 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "Tax Return Form" , "activity" : "Submit the Form" , "status" : "completed"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 3 , "startTime" : 11.3 , "endTime" : -1.0 , "place" : "Co-op" , "activity" : "Application Deadline" , "status" : "completed"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 5 , "startTime" : 17.0 , "endTime" : 18.3 , "place" : "Milhan Roo" , "activity" : "Harriet Irving Library" , "status" : "learn about tax basi"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 5 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Financial Services" , "activity" : "Query About Payments" , "status" : "completed"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 5 , "startTime" : 16.0 , "endTime" : -1.0 , "place" : "GWD 120" , "activity" : "Info 4900 Meeting" , "status" : "completed"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 7 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Singer Hall" , "activity" : "Copy of the SIN card" , "status" : "completed"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 7 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "GWD 120" , "activity" : "Meeting with Darrell" , "status" : "completed"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 7 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Part-Time" , "activity" : "Online Time Sheet" , "status" : "completed"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 10 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Co-op" , "activity" : "Interview Starts" , "status" : "completed"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 10 , "startTime" : 23.59 , "endTime" : -1.0 , "place" : "CS3503" , "activity" : "Test 1 Due" , "status" : "completed"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 11 , "startTime" : 16.0 , "endTime" : -1.0 , "place" : "Info 3403" , "activity" : "Assignment 1 Due" , "status" : "completed"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 14 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "GWD 120" , "activity" : "Info 4900 Meeting" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 14 , "startTime" : 23.0 , "endTime" : -1.0 , "place" : "CS3997" , "activity" : "Assignment 2" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 18 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "CS 4995" , "activity" : "Lab 2 Due" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 21 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Financial Service" , "activity" : "Pay Tuition" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 21 , "startTime" : 10.3 , "endTime" : -1.0 , "place" : "ITC 307 (Co-op)" , "activity" : "Interview With UNB" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 21 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Part-time" , "activity" : "Online Time Sheet" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 24 , "startTime" : 10.3 , "endTime" : -1.0 , "place" : "CS3503" , "activity" : "Group Assignment 1 Due" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 24 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Co-op" , "activity" : "Interview Ends" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 24 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "CS 3503" , "activity" : "Group Assignment" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 27 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "WCS 2021" , "activity" : "Phenomenon Assignment" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 28 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Part-time" , "activity" : "Clean Workstation" , "status" : "pending"}
+{ "year" : 2014 , "month" : 3 , "dateNumb" : 24 , "startTime" : 12.3 , "endTime" : -1.0 , "place" : "INFO3403" , "activity" : "Mid - Term" , "status" : "pending"}
+{ "activity" : "Josh's Birthday" , "dateNumb" : 21 , "endTime" : -1.0 , "month" : 10 , "place" : "Fredericton" , "startTime" : -1.0 , "status" : "completed" , "year" : 2014}
+{ "activity" : "Exam 2" , "dateNumb" : 22 , "endTime" : -1.0 , "month" : 10 , "place" : "Psychology" , "startTime" : 13.3 , "status" : "completed" , "year" : 2014}
+{ "activity" : "Exam 3" , "dateNumb" : 23 , "endTime" : -1.0 , "month" : 10 , "place" : "Sports" , "startTime" : 10.0 , "status" : "completed" , "year" : 2014}
+{ "activity" : "information session" , "dateNumb" : 24 , "endTime" : -1.0 , "month" : 10 , "place" : "c-9" , "startTime" : 16.0 , "status" : "completed" , "year" : 2014}
+{ "activity" : "Learn Driving" , "dateNumb" : 26 , "endTime" : 17.3 , "month" : 10 , "place" : "Fredericton" , "startTime" : 16.3 , "status" : "completed" , "year" : 2014}
+{ "activity" : "Sign up for graduate photo" , "dateNumb" : 1 , "endTime" : -1.0 , "month" : 11 , "place" : "Lobby of Head Hall" , "startTime" : -1.0 , "status" : "completed" , "year" : 2014}
+{ "activity" : "Learn Driving (100)" , "dateNumb" : 2 , "endTime" : 17.3 , "month" : 11 , "place" : "Fredericton" , "startTime" : 16.3 , "status" : "completed" , "year" : 2014}
+{ "activity" : "Job Affair" , "dateNumb" : 5 , "endTime" : 16.0 , "month" : 11 , "place" : "Sub Ballroom" , "startTime" : 14.0 , "status" : "completed" , "year" : 2014}
+{ "activity" : "Awards Ceremony" , "dateNumb" : 5 , "endTime" : -1.0 , "month" : 11 , "place" : "SUB" , "startTime" : 17.3 , "status" : "completed" , "year" : 2014}
+{ "activity" : "Make Up Student ID" , "dateNumb" : 7 , "endTime" : -1.0 , "month" : 11 , "place" : "SUB" , "startTime" : 14.3 , "status" : "completed" , "year" : 2014}
+{ "activity" : "Potantial Phone Call" , "dateNumb" : 10 , "endTime" : -1.0 , "month" : 11 , "place" : "Home" , "startTime" : 12.0 , "status" : "completed" , "year" : 2014}
+{ "activity" : "Email Sean" , "dateNumb" : 12 , "endTime" : -1.0 , "month" : 11 , "place" : "Home" , "startTime" : -1.0 , "status" : "completed" , "year" : 2014}
+{ "activity" : "Exam 4" , "dateNumb" : 13 , "endTime" : -1.0 , "month" : 11 , "place" : "Sports" , "startTime" : 10.0 , "status" : "completed" , "year" : 2014}
+{ "activity" : "Learn Driving" , "dateNumb" : 13 , "endTime" : -1.0 , "month" : 11 , "place" : "Fredericton" , "startTime" : 8.0 , "status" : "completed" , "year" : 2014}
+{ "activity" : "Exam 3" , "dateNumb" : 14 , "endTime" : -1.0 , "month" : 11 , "place" : "Psychology" , "startTime" : 13.3 , "status" : "completed" , "year" : 2014}
+{ "activity" : "Grad Pictures" , "dateNumb" : 14 , "endTime" : -1.0 , "month" : 11 , "place" : "C24" , "startTime" : 10.0 , "status" : "completed" , "year" : 2014}
+{ "activity" : "Learn Driving (100)" , "dateNumb" : 18 , "endTime" : 9.0 , "month" : 11 , "place" : "Fredericton" , "startTime" : 8.0 , "status" : "completed" , "year" : 2014}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 20 , "startTime" : 8.0 , "endTime" : 9.0 , "place" : "Fredericton" , "activity" : "Learn Driving" , "status" : "completed"}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 25 , "startTime" : 8.0 , "endTime" : 9.0 , "place" : "Fredericton" , "activity" : "Learn Driving" , "status" : "completed"}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 28 , "startTime" : 8.0 , "endTime" : -1.0 , "place" : "Online Shopping" , "activity" : "Black Friday" , "status" : "completed"}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 28 , "startTime" : 18.3 , "endTime" : -1.0 , "place" : "Home" , "activity" : "Show The Room" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 1 , "startTime" : 20.0 , "endTime" : -1.0 , "place" : "Home" , "activity" : "The Rent And Prepare For Car Training Fees" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Godaddy" , "activity" : "Buy The Domain Name" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 2 , "startTime" : 7.3 , "endTime" : -1.0 , "place" : "Fredericton" , "activity" : "Learn Driving (100)" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 2 , "startTime" : 13.3 , "endTime" : -1.0 , "place" : "Phone" , "activity" : "Phone Interview With Amazon" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 3 , "startTime" : 8.0 , "endTime" : -1.0 , "place" : "Fredericton" , "activity" : "Learn Driving" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 5 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Godday" , "activity" : "Bought Domain kfangtech.com" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 9 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Mobile" , "activity" : "Top Up The Balance" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 9 , "startTime" : 8.0 , "endTime" : -1.0 , "place" : "First Rate" , "activity" : "Learn Driving (100)" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 10 , "startTime" : 20.0 , "endTime" : -1.0 , "place" : "ITC" , "activity" : "Print Resumes and References" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 10 , "startTime" : 20.0 , "endTime" : -1.0 , "place" : "ATM" , "activity" : "Get Some Changes" , "status" : "completed"}
+{ "activity" : "Sports Psychologist Appointment" , "dateNumb" : 10 , "endTime" : -1.0 , "month" : 12 , "place" : "Tilley 102" , "startTime" : 19.0 , "status" : "completed" , "year" : 2014}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 11 , "startTime" : 11.0 , "endTime" : -1.0 , "place" : "Aircraft DH3 at YFC" , "activity" : "Fly to Montreal (AC7669)" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 12 , "startTime" : 13.3 , "endTime" : 17.0 , "place" : "Intercontinental Montreal" , "activity" : "Interview With Amazon" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 13 , "startTime" : 8.0 , "endTime" : -1.0 , "place" : "Aircraft DH3 at YUL" , "activity" : "Fly to Fredericton (AC7666)" , "status" : "completed"}
+{ "activity" : "Psychology Final" , "dateNumb" : 15 , "endTime" : -1.0 , "month" : 12 , "place" : "Currie Center" , "startTime" : 19.0 , "status" : "completed" , "year" : 2014}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 16 , "startTime" : 8.0 , "endTime" : -1.0 , "place" : "FirstRate" , "activity" : "Learn Driving" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 16 , "startTime" : 21.0 , "endTime" : -1.0 , "place" : "Home" , "activity" : "Show The Room" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 18 , "startTime" : 8.0 , "endTime" : -1.0 , "place" : "Mandarin Palace" , "activity" : "Order In Advance" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 18 , "startTime" : 11.3 , "endTime" : -1.0 , "place" : "Mandarin Palace" , "activity" : "Lunch" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 19 , "startTime" : 8.0 , "endTime" : -1.0 , "place" : "FirstRate" , "activity" : "Learn Driving" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 19 , "startTime" : 16.0 , "endTime" : -1.0 , "place" : "Service New Brunswick" , "activity" : "Pay The Road Test Fees" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 19 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "CC Jones" , "activity" : "Post Graduate Work Permit" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 19 , "startTime" : 16.3 , "endTime" : -1.0 , "place" : "Post Office" , "activity" : "Form of Tax Return" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 19 , "startTime" : 13.0 , "endTime" : -1.0 , "place" : "Eyesover" , "activity" : "(Clean Workspace)Last Day of Work" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 22 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Email" , "activity" : "Email Tania" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 22 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "Rob Morrison" , "activity" : "Phone Call" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 23 , "startTime" : 9.0 , "endTime" : -1.0 , "place" : "First Rate" , "activity" : "Road Test" , "status" : "completed"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 29 , "startTime" : 11.0 , "endTime" : 11.3 , "place" : "John Riddle" , "activity" : "(Estern Time) Phone Chat" , "status" : "completed"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 1 , "startTime" : 6.0 , "endTime" : -1.0 , "place" : "YFC" , "activity" : "Fly To Ottawa" , "status" : "completed"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 2 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Ottawa" , "activity" : "Buy Bus Pass" , "status" : "completed"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 2 , "startTime" : 11.3 , "endTime" : -1.0 , "place" : "Virgin Mobile" , "activity" : "Upgrade Mobile" , "status" : "completed"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 5 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "LinkedIn" , "activity" : "Premium Account" , "status" : "completed"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 5 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "BMO" , "activity" : "GST / HST Credit of $80.09" , "status" : "completed"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 5 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "340 Albert Street, Suit 1210" , "activity" : "Meet With Joey" , "status" : "completed"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 5 , "startTime" : 16.3 , "endTime" : -1.0 , "place" : "Ottawa" , "activity" : "Take Passport Photo" , "status" : "completed"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 6 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "1740 Comstock Road" , "activity" : "Drop off application package" , "status" : "completed"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 7 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "490 Sussex Drive" , "activity" : "U.S. Business or Pleasure visa Interview" , "status" : "completed"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 8 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Skype & Mobile" , "activity" : "Interview With Fusion Alliance" , "status" : "completed"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 11 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "Parliament Hill" , "activity" : "Sightseeing" , "status" : "completed"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 13 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "170 Laurier Avenue West, Suite 902" , "activity" : "Meet With Marika" , "status" : "completed"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 14 , "startTime" : 10.0 , "endTime" : 12.0 , "place" : "Apartment" , "activity" : "IT Support Team" , "status" : "completed"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 24 , "startTime" : 21.0 , "endTime" : -1.0 , "place" : "Skype" , "activity" : "Video Chat" , "status" : "completed"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 31 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Pub" , "activity" : "Watch UFC" , "status" : "completed"}
+{ "year" : 2015 , "month" : 2 , "dateNumb" : 5 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "LinkedIn" , "activity" : "Premium Account" , "status" : "completed"}
+{ "year" : 2015 , "month" : 2 , "dateNumb" : 10 , "startTime" : 12.3 , "endTime" : -1.0 , "place" : "Lync" , "activity" : "Meeting" , "status" : "completed"}
+{ "year" : 2015 , "month" : 2 , "dateNumb" : 11 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "Lync" , "activity" : "Meeting" , "status" : "completed"}
+{ "year" : 2015 , "month" : 2 , "dateNumb" : 12 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "TD" , "activity" : "Application" , "status" : "completed"}
+{ "year" : 2015 , "month" : 2 , "dateNumb" : 13 , "startTime" : 12.3 , "endTime" : -1.0 , "place" : "200 Isabella Street" , "activity" : "Monitor" , "status" : "completed"}
+{ "year" : 2015 , "month" : 2 , "dateNumb" : 18 , "startTime" : 10.0 , "endTime" : 11.0 , "place" : "Mobile" , "activity" : "Phone Chat With Stephen" , "status" : "completed"}
+{ "year" : 2015 , "month" : 2 , "dateNumb" : 22 , "startTime" : 8.0 , "endTime" : -1.0 , "place" : "Amazon" , "activity" : "Prime Due Date" , "status" : "completed"}
+{ "year" : 2015 , "month" : 2 , "dateNumb" : 23 , "startTime" : 13.0 , "endTime" : -1.0 , "place" : "D299 Loeb Building" , "activity" : "Final Exam" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 2 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Mobile" , "activity" : "Possible Call From John" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 4 , "startTime" : 18.3 , "endTime" : -1.0 , "place" : "603 Cumberland St" , "activity" : "Web Project Night" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 7 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "601 Sumerset St" , "activity" : "Weekend Coffee House" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 7 , "startTime" : 21.3 , "endTime" : -1.0 , "place" : "156 Sparks St" , "activity" : "KarmaCode Live" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 9 , "startTime" : 15.45 , "endTime" : -1.0 , "place" : "299 Bank Street" , "activity" : "Interview With Gymtrack" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 10 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "Skype" , "activity" : "Chat with Stephaniew" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 11 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "350 Sparks St, Suite 910" , "activity" : "Meet With Victoria" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 11 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "Mobile" , "activity" : "Chat With Carolyn For Web Developer" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 12 , "startTime" : 11.3 , "endTime" : -1.0 , "place" : "Mobile" , "activity" : "Chat with Carolyn For Web Developer" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 12 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Skype" , "activity" : "Chat With Lisa" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 13 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "Apartment" , "activity" : "Showing" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 13 , "startTime" : 11.15 , "endTime" : -1.0 , "place" : "770 Broadview, Suite 103" , "activity" : "Medical Exam" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 16 , "startTime" : 13.0 , "endTime" : 17.0 , "place" : "11 Colonel By Drive" , "activity" : "Job Fair" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 20 , "startTime" : 14.0 , "endTime" : 14.3 , "place" : "Phone" , "activity" : "Chat with Gilles Duchesne (Sr Developer)" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 20 , "startTime" : 9.3 , "endTime" : -1.0 , "place" : "Phone" , "activity" : "Speak to Tavarare About 2 Roles" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 23 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "350 Sparks Street, 910" , "activity" : "Meet With Alex" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 23 , "startTime" : 18.0 , "endTime" : -1.0 , "place" : "2477-C Kaladar Avenue" , "activity" : "Property Stars" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 24 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Mobile" , "activity" : "Interview with Angie about Java Developer" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 25 , "startTime" : 11.0 , "endTime" : 12.0 , "place" : "343 Preston Street, 10th Floor" , "activity" : "Technical Interview With Michael Petrescu" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 26 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Mobile" , "activity" : "Chat With Joshua" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 26 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "350 Sparks Street" , "activity" : "Meet With Alex" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 27 , "startTime" : 10.0 , "endTime" : 12.0 , "place" : "6 Gurdwara Cres, Suite 202" , "activity" : "Interview With MyGroceriesDeals" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 27 , "startTime" : 15.0 , "endTime" : 15.3 , "place" : "490, boul. Saint-Joseph Gatineau" , "activity" : "Interview With RR Donnelley (cancelled)" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 29 , "startTime" : 9.0 , "endTime" : -1.0 , "place" : "2725 Equus Way" , "activity" : "See The Room" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 29 , "startTime" : 11.0 , "endTime" : -1.0 , "place" : "3866 Albion Road" , "activity" : "See The Room" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 29 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "6 Southview Crescent" , "activity" : "See The Room" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 29 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "2713 Farriers Lane" , "activity" : "See The Room" , "status" : "completed"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 30 , "startTime" : 6.3 , "endTime" : -1.0 , "place" : "Greyhound (123)" , "activity" : "Move to Toronto (28002176)" , "status" : "completed"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 2 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "BMO Account" , "activity" : "GST / HST Credit of $80.08" , "status" : "completed"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 4 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "Starbucks, 1350 Baseline" , "activity" : "Chat With Alex" , "status" : "completed"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 8 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Mazda Dealer (2575 Bank St)" , "activity" : "Learn About Financing" , "status" : "completed"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 9 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Canada Post (2515 Bank St)" , "activity" : "ID Verification" , "status" : "completed"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 11 , "startTime" : 9.3 , "endTime" : 15.3 , "place" : "Jim's Driving School (4-1729 Bank Street)" , "activity" : "Take In-Class Lessons" , "status" : "completed"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 12 , "startTime" : 20.3 , "endTime" : 21.37 , "place" : "Ottawa Airport" , "activity" : "Fly To Toronto" , "status" : "completed"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 12 , "startTime" : 9.3 , "endTime" : 15.3 , "place" : "Jim's Driving School" , "activity" : "Take In-Class Lessons" , "status" : "completed"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 12 , "startTime" : 22.0 , "endTime" : -1.0 , "place" : "Airport" , "activity" : "Taxi To Courtyard Hotel (475 Yonge St)" , "status" : "completed"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 13 , "startTime" : 8.45 , "endTime" : -1.0 , "place" : "Ceridian Office (4110 Yonge Street, 5th Floor)" , "activity" : "Breakfast" , "status" : "completed"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 17 , "startTime" : 8.1 , "endTime" : -1.0 , "place" : "Toronto Airport" , "activity" : "Fly To Ottawa" , "status" : "completed"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 18 , "startTime" : 9.3 , "endTime" : 15.3 , "place" : "Jim's Driving School" , "activity" : "Take In-Class Lessons" , "status" : "completed"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 19 , "startTime" : 9.3 , "endTime" : 15.3 , "place" : "Jim's Driving School" , "activity" : "Take In-Class Lessons" , "status" : "completed"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 19 , "startTime" : 20.3 , "endTime" : -1.0 , "place" : "airport" , "activity" : "Fly to Toronto" , "status" : "completed"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 23 , "startTime" : 11.3 , "endTime" : -1.0 , "place" : "Dragon Pearl Buffet" , "activity" : "Lunch With Toronto Team" , "status" : "completed"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 24 , "startTime" : 20.0 , "endTime" : -1.0 , "place" : "Airport" , "activity" : "Fly Back to Ottawa" , "status" : "completed"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 24 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "N/A" , "activity" : "Timesheet For MyDayforce" , "status" : "completed"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 24 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "N/A" , "activity" : "Reimbursement Question" , "status" : "completed"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 25 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Mazda Dealer" , "activity" : "Speak witg Mike" , "status" : "completed"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 27 , "startTime" : 9.0 , "endTime" : -1.0 , "place" : "343 Preston, 10th Floor" , "activity" : "Work" , "status" : "completed"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 29 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "1(888)999-2321 or dial 611" , "activity" : "Troubleshoot the mobile signal" , "status" : "completed"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 30 , "startTime" : 13.0 , "endTime" : 14.0 , "place" : "GTM" , "activity" : "MyDashboard Demo" , "status" : "completed"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "1-877-207-8833" , "activity" : "Call them if don't hear back" , "status" : "completed"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 2 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "Ottawa" , "activity" : "In-Car Practices" , "status" : "completed"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 2 , "startTime" : 13.0 , "endTime" : 14.0 , "place" : "1811 Bank Street" , "activity" : "Meet With Russell" , "status" : "completed"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 5 , "startTime" : 18.3 , "endTime" : 20.0 , "place" : "Home" , "activity" : "In-Car Practises" , "status" : "completed"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 8 , "startTime" : 11.3 , "endTime" : 12.0 , "place" : "Big Easy's" , "activity" : "Gilles' Birthday" , "status" : "completed"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 8 , "startTime" : 15.0 , "endTime" : 16.0 , "place" : "GTM" , "activity" : "DataDictionary Branstorming" , "status" : "completed"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 9 , "startTime" : 11.3 , "endTime" : -1.0 , "place" : "Toyota Dealer" , "activity" : "Deposit" , "status" : "completed"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 10 , "startTime" : 10.0 , "endTime" : 11.3 , "place" : "Home" , "activity" : "In-Car Practise" , "status" : "completed"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 12 , "startTime" : 18.0 , "endTime" : 19.0 , "place" : "Work" , "activity" : "In-Car Practice" , "status" : "completed"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 13 , "startTime" : 12.0 , "endTime" : -1.0 , "place" : "Work" , "activity" : "Lunch With The Team" , "status" : "completed"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 14 , "startTime" : 13.0 , "endTime" : 14.0 , "place" : "Work" , "activity" : "Scavenger Hunt" , "status" : "completed"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 14 , "startTime" : 17.0 , "endTime" : 18.0 , "place" : "Work" , "activity" : "In-Car Practise" , "status" : "completed"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 17 , "startTime" : 13.0 , "endTime" : 15.0 , "place" : "Home" , "activity" : "In-Car Practise" , "status" : "completed"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 22 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "250 Russell Avenue" , "activity" : "See The Room" , "status" : "completed"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 22 , "startTime" : 18.1 , "endTime" : -1.0 , "place" : "1785 Riverside Dr" , "activity" : "See The Room" , "status" : "completed"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 24 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "1785 Riverside" , "activity" : "Pay Rent" , "status" : "completed"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 25 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Mobile" , "activity" : "Call Fakery For Deposit" , "status" : "pending"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 27 , "startTime" : 14.0 , "endTime" : 15.0 , "place" : "GTM" , "activity" : "Getting \"Social\" @ Ceridian" , "status" : "completed"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 30 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "1785 Riverside" , "activity" : "Move" , "status" : "completed"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Phone" , "activity" : "Call CIC To Change Address" , "status" : "completed"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 2 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Mobile" , "activity" : "Call Jim's Driving" , "status" : "completed"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 10 , "startTime" : 18.0 , "endTime" : -1.0 , "place" : "Home" , "activity" : "Practice Driving" , "status" : "completed"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 10 , "startTime" : 13.0 , "endTime" : 13.3 , "place" : "Work" , "activity" : "Diagramming Library For Data Dictionary" , "status" : "completed"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 12 , "startTime" : 20.0 , "endTime" : 23.0 , "place" : "400 A Dalhousie Street" , "activity" : "Party" , "status" : "completed"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 14 , "startTime" : 8.0 , "endTime" : 14.0 , "place" : "Mont Rigaud Ski Resort" , "activity" : "Rock Climbing And Rappelling" , "status" : "completed"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 14 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "527 Bank" , "activity" : "pick up the mails" , "status" : "completed"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 15 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Work" , "activity" : "Integration Buddy For Nardos Erque" , "status" : "completed"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 17 , "startTime" : 8.25 , "endTime" : -1.0 , "place" : "Drive Test Walkley" , "activity" : "G2 Road Test" , "status" : "completed"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 17 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Phone" , "activity" : "Call Ali For The Credit Card" , "status" : "completed"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 18 , "startTime" : 19.0 , "endTime" : 9.3 , "place" : "249 Richmond Road" , "activity" : "Party" , "status" : "completed"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 18 , "startTime" : 11.0 , "endTime" : -1.0 , "place" : "110 Laurier Avenue" , "activity" : "Apply For Health Card And Change Address" , "status" : "completed"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 19 , "startTime" : 12.0 , "endTime" : 13.0 , "place" : "Unknown" , "activity" : "Lunch" , "status" : "completed"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 19 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "101 Clarence St." , "activity" : "Party" , "status" : "completed"}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 6 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Email" , "activity" : "Benefit Enrolment" , "status" : "completed"}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 7 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Work" , "activity" : "Demo" , "status" : "completed"}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 12 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Gatineau Park" , "activity" : "Party" , "status" : "completed"}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 16 , "startTime" : 12.0 , "endTime" : -1.0 , "place" : "48 Lynn, Gatineau " , "activity" : "BBQ" , "status" : "completed"}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 18 , "startTime" : 13.15 , "endTime" : 14.15 , "place" : "Home" , "activity" : "Car Practice" , "status" : "completed"}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 20 , "startTime" : 17.3 , "endTime" : -1.0 , "place" : "Home" , "activity" : "Car Practice" , "status" : "completed"}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 21 , "startTime" : 12.2 , "endTime" : -1.0 , "place" : "1570 WALKLEY" , "activity" : "Road Test" , "status" : "completed"}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 21 , "startTime" : 11.2 , "endTime" : -1.0 , "place" : "Home" , "activity" : "Wait For Peimen" , "status" : "completed"}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 24 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Toronto" , "activity" : "Travel" , "status" : "completed"}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 25 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "home" , "activity" : "Paid July, Aug, Sept, Last Month ($2800)" , "status" : "completed"}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 28 , "startTime" : 11.0 , "endTime" : -1.0 , "place" : "Scotia Bank" , "activity" : "Appointment With Nicky" , "status" : "completed"}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 7 , "startTime" : 11.0 , "endTime" : -1.0 , "place" : "3755 Riverside Drive" , "activity" : "Interview With Yvon, IBM" , "status" : "completed"}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 12 , "startTime" : 15.0 , "endTime" : 18.0 , "place" : "201 Queen St" , "activity" : "Escapte Manor" , "status" : "completed"}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 21 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "litmos.com" , "activity" : "Complete Privacy Trainning" , "status" : "completed"}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 27 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "Whisper" , "activity" : "Party" , "status" : "completed"}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 27 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Kfang" , "activity" : "Change Contacts" , "status" : "completed"}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 30 , "startTime" : 9.3 , "endTime" : 16.0 , "place" : "250 Somerset St E" , "activity" : "Hiking" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 2 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "301 Elgin" , "activity" : "Language And Cultural Extrange" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 3 , "startTime" : 18.3 , "endTime" : -1.0 , "place" : "1277 Wellington" , "activity" : "Art Gallery Crawl" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 4 , "startTime" : 18.0 , "endTime" : -1.0 , "place" : "740 Stiles" , "activity" : "Alshley's Birthday" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 5 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "1989 Prince of Wales" , "activity" : "Serbian Festival" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 5 , "startTime" : 11.0 , "endTime" : -1.0 , "place" : "Home" , "activity" : "Meet Up For Hot Ballon" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 6 , "startTime" : 9.3 , "endTime" : -1.0 , "place" : "OOC" , "activity" : "Hike Lac Brown." , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 8 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Gee Gees" , "activity" : "Register Events" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 8 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "OSSC Basketball " , "activity" : "Rosters" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 9 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "OSSC Basketball " , "activity" : "Contact Team" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 9 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "301 Elgin" , "activity" : "Language And Cultural Extrange" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 12 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "OSSC" , "activity" : "Schedule Available" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 12 , "startTime" : 18.0 , "endTime" : -1.0 , "place" : "Home" , "activity" : "Take off to Sue's Cottage" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 13 , "startTime" : 18.0 , "endTime" : -1.0 , "place" : "1690 Montreal Road" , "activity" : "Malaysian Restarurant" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 16 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "OSSC Basketball " , "activity" : "Basketball Starts" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 16 , "startTime" : 21.0 , "endTime" : -1.0 , "place" : "362 Mariposa Ave (Ashbury)" , "activity" : "Team 9 VS. Team 8" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 18 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "OSSC Social" , "activity" : "All Sorts of Sports Starts" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 18 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "501 Old St. Patrick St. (De LaSalle)" , "activity" : "All Sorts" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 19 , "startTime" : 10.3 , "endTime" : -1.0 , "place" : "Toronto Pearson" , "activity" : "See Parents" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 19 , "startTime" : 6.3 , "endTime" : -1.0 , "place" : "265 Catherine" , "activity" : "Bus To Toronto" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 19 , "startTime" : 18.0 , "endTime" : -1.0 , "place" : "Yorkdale" , "activity" : "Carpool Back To Ottawa" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 20 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Gatineau Park" , "activity" : "Hiking" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 21 , "startTime" : 20.0 , "endTime" : 21.0 , "place" : "Montpetit Martial Art Room" , "activity" : "Yoga" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 23 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "525 Legget Dr" , "activity" : "Cisco" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 23 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "OSSC" , "activity" : "Register Wine Tour For 26th" , "status" : "completed"}
+{ "year" : 2015 , "month" : 9 , "dateNumb" : 30 , "startTime" : 20.3 , "endTime" : -1.0 , "place" : "430 McArthur Ave" , "activity" : "Basketball" , "status" : "completed"}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 4 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Home" , "activity" : "Change Eye Contacts" , "status" : "completed"}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 5 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Bank" , "activity" : "103.75 GST Deposit" , "status" : "completed"}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 8 , "startTime" : 10.0 , "endTime" : 15.0 , "place" : "800 King Edward" , "activity" : "Job Fair For Ceridian" , "status" : "completed"}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 17 , "startTime" : 12.0 , "endTime" : 18.0 , "place" : "Hintonburg Park" , "activity" : "Ottawa Brewery Market" , "status" : "completed"}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 17 , "startTime" : 13.0 , "endTime" : 14.0 , "place" : "490 Rochester (Nutty The Greek Bakeshop)" , "activity" : "Cupcakes And Greek Treats" , "status" : "completed"}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 17 , "startTime" : 18.0 , "endTime" : -1.0 , "place" : "395 Wellington (Library and Archives Canada)" , "activity" : "Art in Fashion 613" , "status" : "completed"}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 17 , "startTime" : 18.3 , "endTime" : -1.0 , "place" : "325 Rideau (Bytowne)" , "activity" : "Watch a movie" , "status" : "completed"}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 17 , "startTime" : 22.0 , "endTime" : -1.0 , "place" : "603 Cumberland (Cafe Nostalgica)" , "activity" : "Organic House Music" , "status" : "completed"}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 21 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "129 A rue Kent" , "activity" : "Movie" , "status" : "completed"}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 21 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "240 Sparks" , "activity" : "Language Exchange" , "status" : "completed"}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 22 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "BerryMan Pub (478 Bank)" , "activity" : "Pub Then Museum of Nature" , "status" : "completed"}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 25 , "startTime" : 8.3 , "endTime" : -1.0 , "place" : "Montpetit Lobby" , "activity" : "Lusk Caves Exploration" , "status" : "completed"}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 4 , "startTime" : 7.55 , "endTime" : 8.2 , "place" : "No.14 to 430 McArthur" , "activity" : "V.S. Team 1 Basketcase" , "status" : "completed"}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 4 , "startTime" : 7.0 , "endTime" : -1.0 , "place" : "301 Elgin" , "activity" : "Language Exchange" , "status" : "completed"}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 8 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "Coconut Lagoon (835 St. Laurent Blvd)" , "activity" : "South Indian Restaurant" , "status" : "completed"}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 20 , "startTime" : 18.0 , "endTime" : -1.0 , "place" : "Masonic Hall, 430 Churchill Ave" , "activity" : "RSVP Ceridianâs Ottawa Holiday Party, $15" , "status" : "completed"}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 21 , "startTime" : 7.5 , "endTime" : -1.0 , "place" : "Ottawa Airport" , "activity" : "Pick Up Dad" , "status" : "completed"}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 22 , "startTime" : 7.3 , "endTime" : -1.0 , "place" : "Ottawa Airport" , "activity" : "Dad's Flight To China" , "status" : "completed"}
+{ "year" : 2015 , "month" : 11 , "dateNumb" : 23 , "startTime" : 22.0 , "endTime" : -1.0 , "place" : "Royal Oak on Laurier" , "activity" : "Register Remote Canada Cabin" , "status" : "completed"}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 4 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Godaddy" , "activity" : "Renew Domain" , "status" : "completed"}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 5 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Ottawa U" , "activity" : "Husky Sledding" , "status" : "completed"}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 16 , "startTime" : 13.0 , "endTime" : -1.0 , "place" : "Scotia Bank" , "activity" : "Credit Card Appointment" , "status" : "completed"}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 18 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Office" , "activity" : "Greek Lunch & Gift Swap" , "status" : "completed"}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 19 , "startTime" : 4.0 , "endTime" : -1.0 , "place" : "Ottawa U Montpitit" , "activity" : "Matagami First Nation Camp" , "status" : "completed"}
+{ "year" : 2015 , "month" : 12 , "dateNumb" : 24 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "Ottawa Airport" , "activity" : "Flight To Fredericton" , "status" : "pending"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 1 , "startTime" : 20.0 , "endTime" : -1.0 , "place" : "Fredericton Airport" , "activity" : "Flight To Ottawa" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 5 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Bank" , "activity" : "103.75 GST Deposit" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 10 , "startTime" : 10.0 , "endTime" : 11.0 , "place" : "1000 Exhibition Way" , "activity" : "Skating" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 11 , "startTime" : 20.0 , "endTime" : 22.0 , "place" : "250 Holland (Fisher Park Community Centre)" , "activity" : "Badminton" , "status" : "pending"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 12 , "startTime" : 20.0 , "endTime" : 22.0 , "place" : "363 Lorry Greenberg (Greenboro Community Centre)" , "activity" : "Basketball" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 12 , "startTime" : 17.4 , "endTime" : -1.0 , "place" : "480 Nelson" , "activity" : "Isabel 519-865-2788" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 12 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "152 Lees Ave" , "activity" : "See The Room" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 13 , "startTime" : 19.3 , "endTime" : -1.0 , "place" : "514 Rideau St" , "activity" : "Tessa 613-202-0354 " , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 13 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "340 St. Patrick" , "activity" : "Lemieux 613-789-7090" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 13 , "startTime" : 18.45 , "endTime" : -1.0 , "place" : "393 Nelson" , "activity" : "Leah" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 13 , "startTime" : 20.3 , "endTime" : -1.0 , "place" : "225 Lisgar" , "activity" : "Jessica 514-677-5377" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 14 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "MSDN" , "activity" : "9H9BH-TNRB9-KRWTF-TKKBT-3V36X" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 14 , "startTime" : 18.3 , "endTime" : -1.0 , "place" : "Lansdowne Cineplex" , "activity" : "Star Wars" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 15 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "99 Sweetland Avenue" , "activity" : "Sam 613.402.2466" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 15 , "startTime" : 20.0 , "endTime" : -1.0 , "place" : "2037 st laurent boulevard" , "activity" : "Jhen" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 15 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "135 Stewart street" , "activity" : "Victoria" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 15 , "startTime" : 17.3 , "endTime" : -1.0 , "place" : "75 Daly Avenue" , "activity" : "text Omar 613-265-1234" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 16 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "426 cambridge" , "activity" : "Gang Wei 613.850.0123" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 16 , "startTime" : 10.3 , "endTime" : -1.0 , "place" : "410 Nelson" , "activity" : "Matt" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 17 , "startTime" : 10.3 , "endTime" : -1.0 , "place" : "25 Renfrew Avenue" , "activity" : "Maria-Helena 819.775.0602" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 17 , "startTime" : 19.3 , "endTime" : -1.0 , "place" : "1024 Wellington" , "activity" : "Lindsay" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 17 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "277 Nelson" , "activity" : "Joe" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 17 , "startTime" : 16.0 , "endTime" : -1.0 , "place" : "410 Nelson" , "activity" : "One more look" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 20 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "240 Sparks - Babel " , "activity" : "Life Insurance, RRSP, Mortgage" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 22 , "startTime" : 17.0 , "endTime" : 19.0 , "place" : "149 Somerset Street West" , "activity" : "OOC: Army Officer Mess" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 23 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "55 Colonel By Drive (Shaw)" , "activity" : "Noodle Fest" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 23 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "410 Nelson" , "activity" : "Get The Keys And Pay The Rent" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 26 , "startTime" : 20.0 , "endTime" : -1.0 , "place" : "Home" , "activity" : "Life Insurance, RRSP, Mortgage" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 27 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "McClaren's" , "activity" : "Babel" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 29 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Museum of History" , "activity" : "Beer Festifel ($25)" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 29 , "startTime" : 20.0 , "endTime" : -1.0 , "place" : "Museum Of Nature" , "activity" : "Nature Nocturne ($25)" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 29 , "startTime" : 17.3 , "endTime" : -1.0 , "place" : "Avis" , "activity" : "Pick Up The Car" , "status" : "completed"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 30 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "410 Nelson" , "activity" : "Move" , "status" : "completed"}
+{ "year" : 2016 , "month" : 2 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Scotia Bank" , "activity" : "1-800-263-0997 Insurance (53195)" , "status" : "completed"}
+{ "year" : 2016 , "month" : 2 , "dateNumb" : 1 , "startTime" : 17.3 , "endTime" : -1.0 , "place" : "Avis" , "activity" : "Make Accident Claim" , "status" : "completed"}
+{ "year" : 2016 , "month" : 2 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "YOW" , "activity" : "(613) 248-2000 Inquire Storage" , "status" : "completed"}
+{ "year" : 2016 , "month" : 2 , "dateNumb" : 5 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Mobile" , "activity" : "Call Yangtze For Banquet" , "status" : "completed"}
+{ "year" : 2016 , "month" : 2 , "dateNumb" : 6 , "startTime" : 8.0 , "endTime" : -1.0 , "place" : "YOW" , "activity" : "Mom's Flight" , "status" : "completed"}
+{ "year" : 2016 , "month" : 2 , "dateNumb" : 7 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "Sandy Hill Community" , "activity" : "OOC: Wakefield International Film Festival" , "status" : "completed"}
+{ "year" : 2016 , "month" : 2 , "dateNumb" : 9 , "startTime" : 7.3 , "endTime" : -1.0 , "place" : "YOW" , "activity" : "Mom's Flight" , "status" : "completed"}
+{ "year" : 2016 , "month" : 2 , "dateNumb" : 13 , "startTime" : 11.0 , "endTime" : -1.0 , "place" : "Rachel's" , "activity" : "$1650 and Pick Up The Pkg etc." , "status" : "completed"}
+{ "year" : 2016 , "month" : 2 , "dateNumb" : 26 , "startTime" : 17.3 , "endTime" : -1.0 , "place" : "345 Slater Street" , "activity" : "Pick Up The Car" , "status" : "pending"}
+{ "year" : 2016 , "month" : 2 , "dateNumb" : 26 , "startTime" : 18.3 , "endTime" : -1.0 , "place" : "967 Montee Dalton, Gatineau" , "activity" : "Le Rituel Restaurant Cabane" , "status" : "pending"}
+{ "year" : 2016 , "month" : 2 , "dateNumb" : 26 , "startTime" : 19.3 , "endTime" : 22.3 , "place" : "292 Elgin" , "activity" : "Hooley's Pub Private Karaoke" , "status" : "pending"}
+{ "year" : 2016 , "month" : 2 , "dateNumb" : 27 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "1292 Wellington Street West" , "activity" : "La Tropiqua Message 15 min $7" , "status" : "pending"}
+{ "year" : 2016 , "month" : 3 , "dateNumb" : 10 , "startTime" : 21.0 , "endTime" : -1.0 , "place" : "274 Loretta Ave S" , "activity" : "$495 Karlee" , "status" : "completed"}
+{ "year" : 2016 , "month" : 3 , "dateNumb" : 10 , "startTime" : 20.0 , "endTime" : -1.0 , "place" : "389 Cooper" , "activity" : "Dave" , "status" : "completed"}
+{ "year" : 2016 , "month" : 3 , "dateNumb" : 11 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Avis" , "activity" : "Pick Up The Car" , "status" : "completed"}
+{ "year" : 2016 , "month" : 3 , "dateNumb" : 11 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "424 Preston" , "activity" : "See The Room (Ice)" , "status" : "completed"}
+{ "year" : 2016 , "month" : 3 , "dateNumb" : 12 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "161 Flora Street" , "activity" : "$430.00 (May 1st)" , "status" : "completed"}
+{ "year" : 2016 , "month" : 3 , "dateNumb" : 12 , "startTime" : 16.5 , "endTime" : -1.0 , "place" : "425 McLeod" , "activity" : "$425.00" , "status" : "completed"}
+{ "year" : 2016 , "month" : 3 , "dateNumb" : 16 , "startTime" : 17.3 , "endTime" : -1.0 , "place" : "8 Christie St." , "activity" : "$420 May 1st Dorothy" , "status" : "pending"}
+{ "year" : 2016 , "month" : 3 , "dateNumb" : 16 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Office 2013 Pro" , "activity" : "9H9BH-TNRB9-KRWTF-TKKBT-3V36X" , "status" : "pending"}
+{ "year" : 2016 , "month" : 3 , "dateNumb" : 20 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Home" , "activity" : "Dispose of Contacts (6 months)" , "status" : "completed"}
+{ "year" : 2016 , "month" : 3 , "dateNumb" : 24 , "startTime" : 18.0 , "endTime" : -1.0 , "place" : "Museum of History" , "activity" : "With Shiho" , "status" : "completed"}
+{ "year" : 2016 , "month" : 3 , "dateNumb" : 31 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Archive" , "activity" : "485999 5429744" , "status" : "pending"}
+{ "year" : 2016 , "month" : 4 , "dateNumb" : 1 , "startTime" : 20.0 , "endTime" : -1.0 , "place" : "3541 Rue Aylmer 101" , "activity" : "Check In (438) 825-3405, Arithra " , "status" : "completed"}
+{ "year" : 2016 , "month" : 4 , "dateNumb" : 1 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "Petro Canada Rideau/King Edward" , "activity" : "Carpool To Montreal" , "status" : "completed"}
+{ "year" : 2016 , "month" : 4 , "dateNumb" : 2 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "99, Avenue Viger Ouest, Montreal, H2Z 1E9" , "activity" : "Maple Syrup Trip" , "status" : "completed"}
+{ "year" : 2016 , "month" : 4 , "dateNumb" : 3 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "Namur (Harvey's)" , "activity" : "Carpool To Ottawa" , "status" : "completed"}
+{ "year" : 2016 , "month" : 4 , "dateNumb" : 5 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Bank" , "activity" : "103.75 GST Deposit" , "status" : "completed"}
+{ "year" : 2016 , "month" : 4 , "dateNumb" : 8 , "startTime" : 16.0 , "endTime" : -1.0 , "place" : "Avis" , "activity" : "Pick up the car" , "status" : "completed"}
+{ "year" : 2016 , "month" : 4 , "dateNumb" : 25 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Reminder" , "activity" : "Pack And Send Suitcases" , "status" : "completed"}
+{ "year" : 2016 , "month" : 4 , "dateNumb" : 26 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "SPA" , "activity" : "Rachelle's Birthday" , "status" : "completed"}
+{ "year" : 2016 , "month" : 4 , "dateNumb" : 26 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Reminder" , "activity" : "Pack and Send Luggages to Toronto" , "status" : "completed"}
+{ "year" : 2016 , "month" : 4 , "dateNumb" : 27 , "startTime" : 21.0 , "endTime" : -1.0 , "place" : "Taberate lobby" , "activity" : "Register for Whale Watching" , "status" : "completed"}
+{ "year" : 2016 , "month" : 4 , "dateNumb" : 27 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Reminder" , "activity" : "Get IELTS Info" , "status" : "completed"}
+{ "year" : 2016 , "month" : 4 , "dateNumb" : 29 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Reminder" , "activity" : "Cashout For Last Month's Rent" , "status" : "completed"}
+{ "year" : 2016 , "month" : 4 , "dateNumb" : 30 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Barbara's House" , "activity" : "Party" , "status" : "completed"}
+{ "year" : 2016 , "month" : 4 , "dateNumb" : 30 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Reminder" , "activity" : "Text To Confirm Carpool" , "status" : "completed"}
+{ "year" : 2016 , "month" : 5 , "dateNumb" : 6 , "startTime" : 18.0 , "endTime" : 21.0 , "place" : "455 Spadina Av, Unit 401" , "activity" : "IELTS 911" , "status" : "completed"}
+{ "year" : 2016 , "month" : 5 , "dateNumb" : 6 , "startTime" : 18.0 , "endTime" : -1.0 , "place" : "1800 Sheppard Ave (Fairview Mall)" , "activity" : "Movie" , "status" : "completed"}
+{ "year" : 2016 , "month" : 5 , "dateNumb" : 8 , "startTime" : 11.0 , "endTime" : -1.0 , "place" : "1 Gloucester suite 101(2nd floor)" , "activity" : "Worship " , "status" : "pending"}
+{ "year" : 2016 , "month" : 5 , "dateNumb" : 21 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "455 Spadina Ave Unit 401" , "activity" : "IELTS Test" , "status" : "pending"}
+{ "year" : 2016 , "month" : 7 , "dateNumb" : 8 , "startTime" : 9.0 , "endTime" : 17.0 , "place" : "901 Dixon Road" , "activity" : "Click and Grow Rich Training" , "status" : "pending"}
+{ "year" : 2016 , "month" : 8 , "dateNumb" : 31 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Address" , "activity" : "Mail Forwarding Ends" , "status" : "pending"}
+{ "year" : 2016 , "month" : 9 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Home" , "activity" : "Dispose of Contacts (6 months from March 1st)" , "status" : "pending"}
+{ "year" : 2017 , "month" : 1 , "dateNumb" : 29 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Areo Plan" , "activity" : "Due Date To Redeem Points" , "status" : "pending"}
+{ "year" : 2017 , "month" : 4 , "dateNumb" : 19 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Reminder" , "activity" : "Mom's Birthday" , "status" : "pending"}

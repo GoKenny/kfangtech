@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta charset="utf-8">
+	<meta name="author" content="Kenny Fang">
+	<meta name="description" content="Personal Library For JavaScripting">
+	
+
+	<script src="../libraries/jquery-1.11.1.js"></script>
+	
+	<!-- 1. Import the library -->
+	<script src="../libraries/jquery-ui.min-1.11.2.js"></script>
+	
+	<!-- 2. My JavaScript and CSS -->
+	<script type="text/javascript" src="kfangLab.js"></script>
+	<link rel="stylesheet" type="text/css" href="kfangLab.css">
+	
+	<title>Arrow Test</title>
+</head>
+
+<body>
+
+	<br>
+	<br>
+
+	<svg class="arrowContainer">
+
+		<!-- 1. Arrow Tip -->
+		<marker id="theArrowTipMarker" markerWidth="13" markerHeight="13" refX="2" refY="6" orient="auto">
+		      <path d="M2,1 L2,10 L10,6 L2,2" style="fill: #C6D9F1;"/>
+		</marker>
+	
+		<!-- 2. Approw Line -->
+		<path d="M0,10 L88,10" class="theArrowLine" />
+    
+	</svg>
+	
+</body>
+
+</html>

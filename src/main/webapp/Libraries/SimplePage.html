@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv='Cache-Control' content='no-cache, no-store, must-revalidate'>
+<meta http-equiv='Pragma' content='no-cache'>
+<meta http-equiv='Expires' content='0'>
+  <link rel="shortcut icon" href="img/androa.jpg" />
+
+<title>HTML Test</title>
+
+<style type="text/css">
+
+	.unbStyle{
+		width: 200px;
+		min-height: 25px;
+		padding: 20px 20px;
+		height: auto;
+		background: orange;
+		display: block;
+		color: black;
+		font-size: 12px;
+		text-decoration: none;
+	}
+	
+	.thinkpadStyle{
+		margin: 0px auto 0;
+		display: inline-block;
+		padding: 15px 30px;
+		text-decoration: none;
+		background: #9C3022;
+		color: white;
+	}
+	
+	.layer1 .layer2 {
+		font-family: 'segoe print';
+		font-size: 7pt;
+		color: blue;
+		border: 2px solid orange;
+		width: 120px;
+	}
+	
+
+</style>
+
+</head>
+
+<body>
+	
+	
+	<br>
+	<br>
+	
+	<div style="background: linear-gradient(to right, silver , grey, silver, grey); width: 140px;" > 
+		gradient background 
+	</div>
+	
+	<br>
+	<br>
+	
+	<div class= layer1>
+		<div class=layer2 >
+			style by multiple layers			
+		</div>
+	</div>
+
+	<br>
+	<br>
+
+	<b> Add One Bill</b>
+	<br>
+	<br>
+	
+	
+	<!-- Form -->
+	<form action=AddOneBill method=get>
+
+		Date: <input type=text name=date>  Amount: $<input type=text name=moneyAmount >   <input type=submit value=submit >
+   
+    <br>	
+    <br>
+	<select name=something>
+		<option value=tea>Tea</option>
+		<option value=coffee>Coffee</option>
+	</select>
+	
+	<br><br>
+	
+	<select multiple>
+		<option value=1> 1 </option>
+		<option value=2> 2 </option>
+		<option value=3> 3 </option>
+		<option value=4> 4 </option>
+	</select>
+	
+	
+	<input type="file" name="filename" size="20">
+	
+	<br><br>
+	
+	</form>
+	
+	<!-- *********************Padding****************** -->
+	<br>
+	<a href="http://google.ca" style="padding: 7px 20px; background: orange;text-decoration: none; "> something</a>
+	<br>
+	<br>
+	<a href="http://www.unb.ca/fredericton/jp/swe/" class=unbStyle>Bachelor of Science in Software Engineering</a>
+	<br>
+	<a href="http://shop.lenovo.com/ca/en/laptops/thinkpad" class=thinkpadStyle>Thinkpad</a>
+	
+	<br>
+	<br>
+	
+	<!-- Text In Image -->
+	<div style="height: 250px; width:400px; position: relative; float: right; background: grey; ">
+		<img  src="img/androa.jpg" style="height: 200px; width: 300px;" /> <a href=# style="position: absolute; left: 110px; top: 100px;">Text In Picture</a>
+	</div>
+	
+	<br>
+	<br>
+	
+	<!-- Image With Texts-->
+	line 1
+	<img width=40 height=80 src="img/androa.jpg"align=left >
+	<br>line 2
+	<br>line 3
+	
+	<div class=something style="visibility: visible;">
+			can be hidden <b>bold</b><br> <a>a</a>
+			<table>
+				<tr>
+					<td>table</td>
+				</tr>
+			</table>
+		</div>
+	
+	<br>
+	<br>
+	 Notes:
+    <br>1. For Academic Use
+    <br>2. Can Not Use Sevlet
+    <br>3. Meant &nbsp;&nbsp;&nbsp;&nbsp;To&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Be&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simple
+    <br>
+    <br>
+    <br>
+    
+    <table border=1  style='border-collapse:collapse; border:none;'>
+		<tbody>
+
+			<tr>
+				<th colspan="6">Schedule</th>
+			</tr>
+
+			<tr>
+				<td>1</td>  <td>Java 1</td>   <td>Selected</td>  <td rowspan=2>Course Info</td>
+			</tr>
+
+			<tr>
+				<td>2</td> <td>Java 2</td> <td>Selected</td> 
+			</tr>
+			
+			<tr>
+				<th colspan=4  align=left>  <del>Schedule Schedule Schedule</del> </th>
+			</tr>
+			
+			<tr> 
+				<th colspan=4>  <hr> </th> 
+			</tr>
+
+		</tbody>
+	</table>
+	
+	<br>
+	<textarea >
+	Something
+	</textarea>
+	
+	<br>
+	<br>
+	
+	Unordered List
+	<ul>
+	<li>Coffee</li>
+    <li>Milk</li>
+    <li>Tea</li>
+     </ul>
+
+
+Ordered List
+<ol>
+<li>Coffee</li>
+<li>Milk</li>
+<li>Tea</li>
+</ol>
+
+Description List
+<dl>
+<dt>Coffee</dt>
+<dd>- black hot drink</dd>
+<dt>Milk</dt>
+<dd>- white cold drink</dd>
+</dl>
+
+OptionGroup<br>
+<select>
+  <optgroup label='Swedish Cars' disabled>
+    <option value=volvo>Volvo</option>
+    <option value=saab>Saab</option>
+  </optgroup>
+  <optgroup label='German Cars'>
+    <option value=mercedes>Mercedes</option>
+    <option value=BMW>BMW</option>
+    <option value=audi>Audi</option>
+  </optgroup>
+</select>
+
+
+iframe<br>
+<iframe src=http://www.w3schools.com name=kuinaiFrame></iframe>
+<br>
+<p><a href=http://www.w3schools.com target=kuinaiFrame>Change To Google.com</a></p>
+
+
+    <br> <br><a href = Home.html> Home</a><br>
+</body>
+
+</html>

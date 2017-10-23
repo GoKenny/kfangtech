@@ -1,0 +1,10 @@
+
+Eclipse Color Theme
+	1. install: http://marketplace.eclipse.org/content/eclipse-color-theme#.U5eLHHB7IoU
+	2. Preference -> General -> Appearance -> Color Theme 
+
+Moonrise Theme
+
+Juno Dark
+	1. Drop the jar to "dropins" folder
+	2. Preference -> General -> Appearance 

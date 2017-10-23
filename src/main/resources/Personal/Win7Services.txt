@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Topic Name="Intro">
+	win7不是很占资源，这为“老爷机”们唤发了青春，但谁不想更节省点资源呢？
+	微软是出了名的老好人，你用的到的，你用不到的服务，默认全为你24小时开着，对于个人用户来说，没用的服务，我们就是要关上它，让性能，易用与美貌集win7于一身吧。
+	以下是，win7中，可以安全关掉的服务，vista也适合，点开始，运行中输入services.msc回车，即可打开，按照里面的提示，自己来禁用自己没用的服务，注意，以下服务不是所有都对你没用，所以看仔细再关上它们，祝大家使用win7，一切顺利。
+</Topic>
+
+<Topic Name="Disable">
+	Adaptive brightness
+	监视周围的光线状况来调节屏幕明暗，如果该服务被禁用，屏幕亮度将不会自动适应周围光线状况。该服务的默认运行方式是手动，如果你没有使用触摸屏一类的智能调节屏幕亮度的设备，该功能就可以放心禁用。
+
+	Application Layer Gateway Service
+	Windows
+	XP/Vista中也有该服务，作用也差不多，是系统自带防火墙和开启ICS共享上网的依赖服务，如果装有第三方防火墙且不需要用ICS方式共享上网，完全可以禁用掉。
+
+	Application Management
+	该服务默认的运行方式为手动，该功能主要适用于大型企业环境下的集中管理，因此家庭用户可以放心禁用该服务。
+
+	BitLocker Drive Encryption
+	Service
+	向用户接口提供BitLocker客户端服务并且自动对数据卷解锁。该服务的默认运行方式是手动，如果你没有使用BitLocker设备，该功能就可以放心禁用。
+
+	Bluetooth Support Service
+	如果你没有使用蓝牙设备，该功能就可以放心禁用。
+
+	Certificate Propagation
+	为智能卡提供证书。该服务的默认运行方式是手动。如果你没有使用智能卡，那么可以放心禁用该服务。
+
+	CNG Key Isolation
+	那么这个服务将被使用，建议不使用自动有线网络配置和无线网络的可以关掉。
+
+	Computer Browser
+	不过如果你没有使用局域网或者你根本就不想使用局域网，该功能就可以放心禁用，禁用后任然可以使用
+
+	Diagnostic Policy
+	Service
+	Diagnostic
+	只有1%的情况下它会帮忙修复Internet断线的问题，可以关掉。
+
+	Diagnostic Service Host
+	这就是帮上面Diagnostic Policy Service做具体事情的服务，会随着上面的服务启动，可以一起关掉。
+
+	Diagnostic System Host
+	基本和Diagnostic Policy
+	Service/Diagnostic Service Host是同类，可以一起关掉。
+
+	Distributed Link Tracking Client:
+	这个功能一般都用不上，完全可以放心禁用。
+
+	Fax
+	利用计算机或网络上的可用传真资源发送和接收传真。不用我说了吧，很明显就能看出来是和传真有关的。手动或禁用
+
+	Function Discovery Provider
+	Host
+	功能发现提供程序的主机进程。PnP-X和SSDP相关，如果无相关设备就关了吧。
+
+	Function
+	Discovery Resource Publication
+	PnP-X和SSDP相关，如果无相关设备就关了吧。
+
+	HomeGroup Listener
+	为家庭群组提供接收服务，该服务的默认运行方式是手动，如果你不使用家庭群组来共享图片视频及文档,那么该服务可以禁用。
+
+	HomeGroup Provider
+	为家庭群组提供网络服务，该服务的默认运行方式是自动，如果你不使用家庭群组来共享图片视频及文档,那么该服务可以禁用。
+
+	Human Interface Device Access
+	如果你不想你机器或笔记本键盘上面的那些特别的附加按键起作用、不用游戏手柄之类可以关掉这个服务。
+
+	Internet Connection Sharing (ICS)
+	如果你不打算让这台计算机充当ICS主机，那么该服务可以禁用，否则需要启用。
+
+	IP Helper
+	说白了就是让IPv4和IPv6相互兼容，现在的情况下不是特别需要，其实设置成Disabled 也无妨。
+
+	IPsec Policy Agent
+	某些公司的网络环境要求必须打开，它提供一个TCP/IP网络上客户端和服务器之间端到端的安全连接。其他的情况建议设置成禁用。
+
+	KtmRm for Distributed Transaction
+	Coordinator
+	对开发人员来说是比较有用，对于一般的用户或者非开发人员来说，设置成手动。
+
+	Microsoft iSCSI
+	Initiator Service
+	如果本机没有iSCSI设备也不需要连接和访问远程iSCSI设备，设置成禁用。
+
+	Microsoft
+	Software Shadow Copy Provider
+	卷影拷贝，如果不需要就可以设为禁用。
+
+	Net.Tcp 端口共享服务
+	一般用户和非开发人员，还是Disabled就行了。
+
+	Netlogon
+	登陆域会用到它。工作组环境可以设为禁用。
+
+	Offline Files
+	脱机文件服务，使用这个功能系统会将网络上的共享内容在本地进行缓存，可以关掉。
+
+	Parental Controls
+	父母控制服务，用于IE上网设置里的，如果是自己用电脑，就关掉它。
+
+	Peer Name Resolution Protocol/ Peer Networking Grouping /
+	Peer Networking
+	Identity Manager
+	如果你不尝试WCF的P2P功能或开发，那么连同相关的两个服务都可以关掉。
+
+	PnP-X IP Bus Enumerator
+	目前还用不上，关了它！
+
+	PNRP Machine Name Publication Service
+	一般不需要它。默认即可。
+
+	Portable Device Enumerator
+	Service
+	用来让Windows
+	Media Player和移动媒体播放器比如MP3进行数据和时钟同步。如不需要同步建议关闭。
+
+	Print Spooler
+	将文件加载到内存供稍后打印。打印服务，不用多说了，有（包括虚拟的）就开，没有就关。
+
+	Problem Reports and Solutions
+	Control Panel Support
+	开了它基本也解决不了你计算机出的问题。禁用吧。
+
+	Program Compatibility Assistant Service
+	如果你使用到Program
+	Compatibility Assistant或者需要将你的程序设置成兼容模式运行，比如运行在Win98 或 Windows
+	2000的方式下，就修改成自动，强烈建议设置为自动，如果没有这样的程序，就关掉它。
+
+	Quality Windows Audio
+	Video Experience
+	个人感觉这个不起什么作用，支持这样技术的网络服务也不多。还是系统资源比较重要，关了它。
+
+	Remote Desktop Configuration/ Remote Desktop Services/
+	Remote Desktop Services UserMode Port
+	Redirector
+	系统自带的远程桌面服务，如果不用它，就连同和它相关的两个服务一起关掉
+
+
+
+	Remote Registry
+	家庭个人用户最好禁用此服务，公司管理就需要打开了。
+
+	Routing and Remote Access
+	在局域网以及广域网环境中为企业提供路由服务。提供路由服务的。不用就关。
+
+	Secondary Logon
+	允许一台机器同时有两个用户登录，个人应用基本不需要。
+
+	Security Center
+	监视系统安全设置和配置。不想听它提示，就关上它。
+
+
+	Server
+	如果不需要在网络上共享什么东西就可以关掉。
+
+	Shell Hardware Detection
+	如果你不喜欢自动播放功能，那么设置成手动或禁用，这样你新插入一个U盘，可能系统没有任何提示。
+
+	Smart Card/ Smart
+	Card Removal Policy
+	如果你没有使用Smart
+	Card，建议设置成禁用。
+
+	SNMP Trap
+	允许你的机器处理简单网络管理协议，很多网管协议是基于SNMP的。不是网管的话建议关闭。
+
+	SSDP Discovery
+	搜索使用了SSDP发现协议的一些设备，比如一些非即插即用的设备，如果没有相关设备，可以关了它。
+
+	Tablet PC Input
+	Service
+	启用 Tablet PC
+	笔和墨迹功能，非Table
+	PC及不使用手写板就可以关掉它。
+
+	TCP/IP NetBIOS Helper
+	使得你可以在计算机之间进行文件和打印机共享、网络登录。不需要可关闭。
+
+	Telephony
+	Adsl拨号就要用到这个服务，如果是路由器上网，就可以关了它。
+
+	Thread Ordering Server
+	提供特别的线程排序和调度服务，如果用不上，可以设置成手动，但不建议设置成自动。
+
+	TPM
+	Base Services
+	可以设置成手动,如果你没有使用带TPM模块的计算机,可以禁用掉。
+
+	Virtual Disk
+	提供用于磁盘、卷、文件系统和存储阵列的管理服务。提供存储设备软件卷和硬件卷的管理，不要将其设置成禁用 。
+
+	WebClient
+	简单的说如果你不需要Web目录或类似功能，就可以关掉它。
+
+	Windows Backup
+	提供 Windows
+	备份和还原功能。Windows备份和版本恢复功能，一直都不好使，可以关掉。
+
+	Windows Biometric Service
+	如果你没有使用生物识别设备，如指纹识别系统,该功能就可以放心禁用，否则保持默认。
+
+	Windows CardSpace
+	像Smart
+	Card一样的个人标识管理，.NET Framework 3.0提供的一个WCF编程模型。一般用户可以关闭。
+
+	Windows Connect Now - Config Registrar
+	无线网络要用的东西，如果没有，就关上它。
+
+	Windows Defender
+	可以加强安全，防范木马和一些恶意程序，最主要的是免费。不需要可以关闭。
+
+
+	Windows Error
+	Reporting Service
+	没人喜欢错误，对你和微软而言，错误报告传送过去都没什么用。关了它。
+
+	Windows Firewall
+	Windows 防火墙不用多说什么了。如果不需要就禁用。
+
+	Windows Image Acquisition (WIA)
+	专门为扫描仪和数码相机等提供图像捕获和获取功能。有就开着，没有就关。
+
+	Windows Media Center
+	Service Launcher/ Windows Media Center Receiver
+	Service / Windows Media Center Scheduler Service
+	通过网络为Windows Media Extender（像XBox）等传送多媒体文件，建议禁止，除非你需要这个功能。
+
+	Windows Modules Installer
+	如果你不使用Windows Updates，那么可以禁止这个服务。
+
+	Windows Time
+	和服务器同步时间的，一般我都关闭它。
+
+	Windows Update
+	这个功能取决于你了，它和Background Intelligent Transfer Service、Modules Installer服务关联。
+
+	WinHTTP Web Proxy
+	Auto-Discovery Service
+	该服务使应用程序支持WPAD协议的应用，因为大多数的情况下不会用到。建议关闭。
+
+	WWAN AutoConfig
+	如果你没有使用WWAN设备，该功能就可以放心禁用，否则保持默认。
+</Topic>
+
+
+<Topic Name="Don't Disable">
+	Background Intelligent Transfer Service
+	在后台传输客户端和服务器之间的数据。如果禁用了BITS，一些功能，如 Windows Update，就无法正常运行。该服务的默认运行方式是自动，这个服务的主要用途还是用于进行Windows Update或者自动更新，最好不要更改这个服务。
+
+	WLAN AutoConfig
+	不用无线网络可以关掉。
+</Topic>
+
+<Topic Name="Leave It Manual">
+	Block Level Backup Engine Service
+	估计是和备份恢复方面用的服务，无任何依赖关系，默认是手动，也从来没有看他启动过。就放那吧，不用管了。
+
+	Distributed Transaction Coordinator
+	很多应用以及SQL，Exchange
+	Biztalk等服务器软件都依赖这个服务，可以不启动它，但不要Disabled 它。
+
+	Extensible Authentication Protocol
+	不用802.1x认证、无线网络或VPN 可以不启动它，不要Disabled 它。
+
+	IKE and AuthIP IPsec Keying
+	Modules
+	不用VPN或用第三方VPN拨号的话可以禁用。
+
+	Link-Layer Topology Discovery Mapper
+	应该是支持LLTD (Link Layer Topology Discovery) 技术，可以精确地显示支持LLTD的设备在网络结构中的位置，比如Vista的无线地图 ，保持默认手动
+
+	Wired AutoConfig
+	此服务对以太网接口执行 IEEE 802.1X
+	身份验证。其实很多的时候，还是要自己设置的。默认即可。
+</Topic>
+
+
+<Topic Name="Not Sure">
+	Base Filtering Engine
+	同样为系统防火墙，VPN以及IPsec提供依赖服务，同时也是系统安全方面的服务，如果使用第三方VPN拨号软件并且不用系统的防火墙以及ICS共享上网，为了系统资源，关闭它吧，否则就别动它。
+</Topic>
+
+
+
+
+
+
+
+
+

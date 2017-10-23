@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script type='text/javascript' src='Canvas.js' > </script>
+
+<title>Canvas Lab</title>
+</head>
+
+<body>
+
+	By default, the ""canvas" element has no border and no content.
+	<br>
+	
+	<canvas id="myCanvas01" width="200" height="100" style="border:1px solid #000000;">
+		Your browser does not support the HTML5 canvas tag.
+	</canvas>
+	
+	<br><br>
+	
+	<div>
+		All drawing on the canvas must be done inside a JavaScript: <br>
+		<canvas id="myCanvas02" width="200" height="100" style="border:1px solid #000000;" onmousemove="cnvs_getCoordinates(event)"></canvas><br>
+		<a id=xycoordinates ></a> <br>
+	</div>
+	
+	<br>
+
+	
+	<button onclick="DrawRectangle()">Draw Rectangle</button> 
+	
+	<button onclick="DrawLine()">Draw Line</button> 
+	
+	<button onclick="DrawCircle()">Draw Circle</button> 
+	
+	<button onclick="DrawText()">Draw Text</button> 
+	
+	<button onclick="DrawGradient()">Draw Gradient</button> 
+	
+	<button onclick="DrawImage()">Draw Image</button> 
+	
+	
+	<br><br><br><br>
+	Be drawn to the canvas<br>
+	<img id="myImg" src="../img/androa.jpg" width="100" height="50">
+	<br><br>
+	
+	
+	For Correct Coordinates:<br>
+	<iframe src="Canvas.html" frameborder="0" style="border:0;overflow:hidden;width:400px;height:200px;"></iframe>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+</body>
+</html>

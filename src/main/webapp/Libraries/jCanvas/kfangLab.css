@@ -1,0 +1,30 @@
+
+
+body {
+	
+	background: black;
+}
+
+#theCanvas {
+	
+	
+	width: 300;;
+	height: 200px;
+	
+	background: orange;
+	
+}
+
+
+#myTriangleCanvas {
+	
+	width: 120px;
+	height: 90px;
+	
+	border: 1px solid white;
+	
+/* 	transform: rotate(30deg); */
+	
+/* 	background: #cdcdcd; */
+	
+}

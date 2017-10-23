@@ -1,0 +1,26 @@
+.hidden {
+	display: none;
+}
+
+/* Origninal */
+#origninalGraph_bulletGraphBox .actual .ui-slider-range {
+ 	background: black ;
+}
+
+#origninalGraph_bulletGraphBox .range_0 {
+	background: white !important;
+}
+#origninalGraph_bulletGraphBox .range_1 {
+	background: gray !important;
+}
+#origninalGraph_bulletGraphBox .range_2 {
+	background: silver !important;
+}
+
+.caption_bottom{
+/* 	display: none !important; */
+}
+
+.mark_bottom {
+/* 	display: none !important; */
+}

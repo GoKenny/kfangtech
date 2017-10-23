@@ -1,0 +1,45 @@
+#resizable {
+	width: 200px;
+	height: 150px;
+	padding: 5px;
+}
+
+.ui-icon, .ui-widget-content .ui-icon {
+	background-image: url(images/ui-icons_222222_256x240.png);
+}
+
+#theHandle {
+	
+	position: absolute;
+	width: 20px;
+	height: 5px;
+	border-top: 1px solid silver;
+	border-bottom: 1px solid silver;
+	margin: auto;
+	bottom: 0;
+	margin-bottom: -4px;
+	margin-left: 85px;
+	z-index: 1;
+}
+
+
+
+
+#theTable {
+	
+	margin-top: 30px;
+	
+	width: 620px;
+	font-size: 0.7em;
+	border-collapse: collapse;
+	border: 2px solid black;
+	background: #B9CDE5;
+	
+}
+
+td {
+  text-align: left;
+  padding: 5px;
+  border: 2px solid black;
+}
+

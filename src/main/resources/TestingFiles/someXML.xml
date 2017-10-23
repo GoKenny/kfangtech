@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<company>
+
+	<staff id="01">
+		<firstname>Lebron</firstname>
+		<lastname>James</lastname>
+		<nickname>King James</nickname>
+		<salary>10</salary>
+	</staff>
+	
+	<staff id="02">
+		<firstname>Kenny</firstname>
+		<lastname>Fang</lastname>
+		<nickname>Kfang</nickname>
+		<salary>2</salary>
+	</staff>
+	
+</company>

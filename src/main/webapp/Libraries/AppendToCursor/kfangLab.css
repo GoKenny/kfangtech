@@ -1,0 +1,29 @@
+
+
+.ui-widget{
+	font-size: 11pt;
+	margin-left: 20px;
+	
+	zoom: 0.95
+	
+}
+
+.ui-autocomplete {
+  font-size: 8pt;
+}
+
+.ui-corner-all {
+	border-radius: 0px;
+}
+
+.ui-menu-item .ui-state-focus {
+	background: white;
+	border-left: 0px;
+	border-right: 0px;
+}
+
+
+.kfangHighlight {
+	color: red;
+	font-weight: bold;
+}

@@ -1,0 +1,1012 @@
+/**
+ * 
+ * Author: Kenny Fang
+ * 
+ * Email: kuinai.fang@gmail.com
+ * LinkedIn: http://www.linkedin.com/profile/view?id=134048517
+ * 
+ * All Rights Reserved
+ * 
+ */
+
+
+@font-face {
+  font-family: 'segoe print';
+  src:  url('fonts/segoepr.ttf');
+}
+
+@font-face {
+  font-family: 'segoe script';
+  src:  url('fonts/segoesc.ttf');
+}
+
+@font-face {
+  font-family: 'comic sans ms';
+  src:  url('fonts/comic.ttf');
+}
+
+
+del {
+/* 	color: grey; */
+/* 	font-size: 0.85em; */
+}
+
+a:HOVER {
+	color: white;
+}
+
+td a {
+
+/* 	display: none; */
+}
+
+
+
+/* * Make Rows Unselectable */
+tr {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	
+	cursor: default;
+	
+/* 	background: rgba(255,255,255,0.5); */
+	
+}
+
+.buttonColor {
+	color: rgb(30, 193, 226); 
+}
+
+
+.dateContainer {
+	width: 70px;	
+}
+
+.timeContainer {
+	width: 100px;
+}
+
+.noSelect {
+	
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	
+	cursor: default;
+}
+
+.firstSection {
+	
+	min-height: 500px;
+}
+
+
+
+#instructionText {
+	
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	
+	display: none;
+	
+	font-size: smaller;
+	color: rgb(30, 193, 226); 
+	cursor: pointer;
+}
+
+#calendarLogo{
+	
+	float: left;
+	margin-left: 5px;
+	
+	height: 25px;
+	width: 25px;
+	background: url("../images/logo/calendarWhite.png") no-repeat;
+	background-size: contain;
+}
+
+#pageTitle {
+	float: left;
+	margin-left: 5px;
+	margin-top: 2px;
+}
+
+#linkTitle {
+	float: left;
+	margin-top: 2px;
+	margin-left: 5px;
+	text-decoration: underline;
+}
+
+.hintBox {
+	
+	position: absolute;
+	
+	text-align: left;
+	
+	margin-left: 530px;
+	margin-top: 45px;
+}
+
+#hintContent{
+	
+	display: none;
+
+	padding: 5px;
+	padding-top: 10px;
+	
+	width: 200px;
+	
+	color: white;
+	font-size: 8pt;
+	
+	background: rgba( 255, 255, 255, 0.5);
+}
+
+
+#hintOk{
+	
+	position: relative;
+	
+	margin-top: 12px;
+	margin-left: 155px;
+	
+	width: 42px;
+	height: 25px;
+	
+	cursor: pointer;
+}
+
+
+#theTitle {
+	
+	float: left;
+	margin-left: 20px;
+	margin-top: 2px;
+	
+	font-size: 1em;
+	font-family: "Segoe Script", "comic sans ms";
+	font-weight: bold;
+}
+
+#theMonth {
+	float: left;
+	margin-left: 10px;
+	
+	color: yellow;
+	font-size: 1.2em;
+	
+}
+
+#tableStyle {
+	
+	border-collapse: collapse;
+	
+	text-align: left;
+	
+	margin: auto;
+	font-family: "segoe print";
+	font-size: 0.75em;
+	color: white;
+}
+
+.titleContainer {
+	
+	width: 300px;
+	height: 20px;
+	
+	margin: auto;
+}
+
+.mobileBreak {
+	display: none;
+}
+
+#mobileLogo {
+	
+	display: none;
+}
+
+#tableMessage {
+	color: yellow;
+}
+
+#tableDiv {
+	margin-top: 10px;
+}
+
+
+
+#loadingGif {
+	
+	position: fixed;
+	
+	width: 40px;
+	height: 40px;
+	
+	z-index: 100;
+	
+	margin-top: 20%;
+	margin-left: 380px;
+	
+	background: url("../images/gif/loadFast.GIF");
+	background-size: 100% 100%;
+}
+
+.columnName {
+	position: absolute;
+	margin-top: -12px;
+/* 	color: transparent; */
+/* 	color: #8B4513; */
+	color: orange;
+}
+
+
+#manage {
+/* 	position: absolute; */
+	margin-bottom: 24px;
+	float: right;
+	cursor: pointer;
+}
+
+#manage:hover, #instructionText:hover, #checkTheMap:hover {
+	color: white;
+}
+
+.serviceText {
+	
+	width: 150px;
+	margin: auto;
+	
+	cursor: pointer;
+	color: rgb(30, 193, 226); 
+	
+	/** Make The Text Unselectable */
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+
+}
+
+#addOneEntry {
+	
+	font-size: 1em;
+	text-decoration: none;
+	outline: none;
+}
+
+
+.todayEntry {
+	background: grey;
+	font-weight: bold;
+}
+
+input {
+	font-family: "comic sans ms";
+	font-size: 7.5pt;
+	height: 25px;
+	border: 1px;
+	border-Style: solid;
+	border-color: white;
+}
+
+input:hover {
+	border-color: silver;
+}
+
+.entryID {
+	
+	display: none;
+	
+	color: orange;
+}
+
+.editText {
+	
+	padding-left: 5px;
+	cursor: pointer;
+}
+
+.removeText {
+	
+	padding-left: 10px;
+	cursor: pointer;
+}
+
+
+
+.LastAndNext{
+	
+	width: 75px;
+	padding: 8px;
+	
+	color: white; 
+	font-size: 1em;
+	font-family: "Segoe Print", "Comic Sans MS";
+	font-style: oblique;
+	
+	background: rgba(138,138,138,0.3);
+	cursor: pointer;
+	
+}
+
+#lastMonth {
+	float: left;
+	margin-top: 15px;
+	margin-left: 150px;
+}
+
+
+#nextMonth {
+	float: right;
+	margin-top: 15px;
+	margin-right: 150px;
+}
+
+#lastMonth:hover, #nextMonth:hover {
+	background: rgba(255, 255, 255, 0.3);
+}
+
+#map-canvas {
+	margin: auto;
+	width: 95%;
+	height: 0px;
+}
+
+.addOneActivityForm {
+	
+	display: none ; 
+	
+	color: white;
+	
+	font-family: "segoe print";
+	font-size: 0.8em;
+	
+	border: 1px dotted silver;   
+	width: 482px; 
+	margin: auto ; 
+	overflow: hidden;  
+	margin-top: 10px; 
+	
+	padding-bottom: 10px;
+}
+
+#theCalendarPicker {
+	
+	width: 300px; 
+	
+	font-family: "comic sans ms";
+	
+	font-size: 10px !important ;
+	
+	float: left; 
+	margin-top: 10px;
+	margin-left: 10px; 
+	border: 1px dotted silver;"
+
+	background: ; 
+}
+
+
+.calYear {
+	font-size: 14px !important ;
+}
+
+.calMonth{
+	font-size: 13px !important ;
+}
+
+.calDay{
+	font-size: 10px !important ;
+}
+
+.dayNumber {
+	font-size: 13px !important ;
+}
+
+.calDay .calElement {
+	font-size: 9px;
+	border: 1px solid #999999;
+}
+
+.textSpace {
+	
+	float: left;
+	width: 70px;
+	text-align: left;
+	margin-left:  10px;
+	margin-right: 10px;
+	
+	
+}
+
+.textStyle {
+	float:left;
+	margin-top: 10px;
+}
+
+.fromToContainer {
+	float: left;
+	width: 140px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+
+.inputStyle {
+	
+/* 	margin-left: 4px; */
+
+	color: white;
+	
+	width: 40px; 
+	height: 19px;
+	
+	padding: 0px;
+	padding-left: 3px; 
+	
+	background: grey ;
+}
+ 
+ 
+.inputStyle2 {
+	
+	width: 80px; 
+	height: 18px;
+	
+	padding: 0px;
+	padding-left: 3px; 
+	
+	font-size: 8pt;
+	
+}
+
+.dateContainer {
+    color: #00BFFF;
+}
+
+.timeContainer {
+    color: #66CDAA;
+}
+
+.placeContainer {
+	color: #9ACD32;
+}
+
+.eventContainer {
+	color: #F0E68C;
+}
+
+#theErrorMessage {
+	
+	display: none;
+	
+	position: absolute;
+	
+	color: yellow;
+	
+	font-size: 9px;
+	margin-top: 20px;
+	margin-left: 130px;
+}
+
+#addButton {
+	
+	position: absolute;
+	
+	
+	width: 70px;
+	height: 25px;
+	
+	margin-left: 5px;
+	
+	background: rgb(30, 193, 226); 
+	border-color: rgba(30, 193, 226, 0.7); 
+	
+	
+	font-size: 12px; 
+	font-weight: bold; 
+	font-family: "segoe script"; 
+	
+	cursor: pointer;
+	
+	margin-top: -22px;
+ 	margin-left: 380px;
+  	border-radius: 3px;
+  	
+	z-index: 100;
+}
+
+#insertResult {
+	
+	display: none;
+	
+	float: left;
+	margin-left: 285px;
+	margin-top: 178px;
+	color: rgb(30, 193, 226);
+	position: absolute;
+	font-size: 9px;
+}
+
+#timeErrorMessage {
+	
+	display: none ;
+	
+	width: 220px;
+	
+	color: red;
+	float: right;
+	font-size: 8px;
+}
+
+#checkTheMap {
+	margin-top: 20px;
+}
+
+#seeYourCurrentLocation {
+	
+	display: none;
+	
+	float: left;
+	margin-left: 90px;
+	font-size: 9pt;
+	padding-bottom: 5px;
+	cursor: pointer;
+	
+}
+
+#checkMySpending {
+	
+	color: rgb(30, 193, 226);
+	
+	float: left;
+	
+	text-decoration: underline;
+	
+	margin-left: 40px;
+	
+	cursor: pointer;
+}
+
+
+/***********Calendar Picker***********/
+.calElement {
+	background: black;
+}
+
+
+.calElement.today {
+
+	border: 2px solid white;
+}
+
+.calElement.selected {
+	
+	border: 1px solid yellow;
+	background-color: black;
+}
+
+
+span.calElement:hover {
+	
+  background-color: black;
+  border: 1px solid white;
+}
+
+
+.pickersContainer {
+	
+	float: left;
+	
+	margin-top: 8px;
+	
+	width: 155px;
+	height: 30px;
+	
+/* 	background: orange ; */
+}
+
+.inputContainer {
+	
+	float: left;
+	
+	text-align: left;
+	
+	width: 450px;
+	
+	margin-left: 18px;
+	margin-top: 15px;
+}
+
+/*********** Time Picker ***********/
+.xdsoft_datetimepicker {
+	
+	float: left;
+	margin-left: 13px;
+	
+	box-shadow: 0px 5px 15px -5px rgba(0, 0, 0, 0.506);
+	
+	background: black;
+	
+	border: 1px dotted silver;
+
+	color: black !important ;
+	font-family: "comic sans ms", "Helvetica", "Arial", sans-serif;
+	padding: 1px !important;
+	padding-left: 1px;
+}
+
+.xdsoft_datetimepicker .xdsoft_timepicker {
+	width: 58px;
+	float: left;
+	text-align: center;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+
+.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box {
+	height: 125px;
+	 height: 120px;
+}
+
+
+.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box >div >div {
+	color: #333333;
+}
+
+.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box >div >div.xdsoft_current {
+	background: #F5F5F5;
+	box-shadow: none ;
+	color: #333333;
+	font-weight: 100; !important ;
+}
+
+.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_prev {
+	display: none;
+}
+
+.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_next {
+	display: none;
+}
+
+/*********** Edit Dialog ***********/
+.dialogBackground {
+	
+	display: none;
+	
+	position: fixed; 
+	
+	width: 100%;
+	height: 100%;
+	
+	z-index: 100;
+	
+	background: white;
+	background: rgba(255, 255, 255, 0.3)
+/* 	opacity: 0.3; */
+}
+
+.ui-dialog {
+	
+	border-radius: 0px;	
+
+	font-size: 12px;
+	font-family: "segoe print";
+	
+	overflow: hidden;
+}
+
+.ui-dialog .ui-dialog-content {
+	
+	padding: 0px;
+	overflow: hidden;
+	max-height: 340px !important ;
+
+}
+
+.ui-dialog-titlebar {
+
+	background: black;
+	
+	border-radius: 0px;
+	
+	border-color: transparent;
+
+	background-image: none;
+	background-color: black;
+
+	font-size: 5pt;
+	  
+	padding: 0px !important ;
+}
+
+#di
+
+.ui-draggable .ui-dialog-titlebar {
+	cursor: move;
+/* 	border: none; */
+	
+}
+
+.ui-dialog-titlebar-close{
+	display: none;
+}
+
+.ui-page {
+	outline: none;
+}
+
+.editContents {
+	
+	background: ;
+	
+	margin: auto;
+	
+	min-width: 580px;
+	min-height: 200px;
+	
+}
+
+
+
+.editOneActivityForm {
+	
+	font-family: comic sans ms;
+		
+	width: 490px; 
+	margin-left: 20px; 
+	border: 1px dotted silver;   
+	
+	padding-bottom: 10px; 
+	
+	overflow: hidden;  
+	background:  ; 
+}
+
+
+#editErrorMessage {
+	
+	display: none;
+	
+	color: yellow;
+	
+	zoom: 0.7;
+}
+
+#editTimeErrorMessage {
+	
+	display: none;
+	
+	color: red;
+	position: absolute;
+	
+	font-size: 8px;
+	margin-left: 290px;
+	margin-top: 7px;
+}
+
+
+#datePicker {
+	
+	width: 300px; 
+	
+	font-size: 7px !important ;
+	
+	float: left; 
+	margin-left: 15px; 
+	margin-top: 10px;
+
+	border: 1px dotted silver;"
+
+	background: ; 
+}
+
+.editInputContainer {
+	
+	float: left; 
+	
+	width: 270px; 
+	
+	margin-top: 10px;
+	margin-left: 7px;
+	
+	text-align: left;
+	 
+	background: ;
+}
+
+.editStatusContainer {
+	
+	float: left;  
+	width: 100px; 
+	 
+	margin-left: 75px; 
+	margin-top: 45px; 
+	
+	text-align: left;
+	
+	background: ; 
+}
+
+#editButton {
+	
+	float: left;
+	
+	font-size: 8pt; 
+	font-weight: bold; 
+	font-family: "segoe script"; 
+	font-family: "segoe script";
+	
+	width: 70px;
+	height: 25px;
+	
+	margin-top: 16px;
+	margin-left: 45%;
+	
+	background: silver; 
+	border-color:grey; 
+	
+	cursor: pointer;
+	
+	background: silver;
+}
+
+
+#entryIDtoUpdate {
+	display: none;
+}
+
+.editText, .removeText {
+	display: none;
+}
+
+.removeConfirmMessage {
+	
+	font-size: 11pt;
+	margin-top: 15px;
+}
+
+#entryIdToRemove {
+	display: none;
+}
+
+.buttonPosition {
+	float: left;
+	margin-top: 30px;
+	margin-left: 210px;
+}
+
+.buttonStyle {
+	
+	font-family: "segoe print" !important ;
+	width: 60px;
+	height: 30px;
+	margin-left: 3px;
+
+	cursor: pointer;
+}
+
+
+@media all and (max-width:650px) {
+	
+	/* Show Dashed Line For Mobile	 */
+	.pendingEnties {
+		border-top: 1px silver dashed;
+	}
+	
+	.addOneActivityForm {
+		zoom: 0.72;
+	}
+	
+	.weekNumbers {
+		display: block;
+		
+	}
+
+	#loadingGif {
+		position: fixed;
+		margin-top: 10%;
+		margin-left: 40%;
+	}
+	
+	.imageContainer {
+		border: none;
+	}
+	
+	.dialogBackground {
+		background: rgba(255, 255, 255, 0.7);
+	}
+	
+	.hintBox {
+		position: fixed;
+		margin-left: 20%;
+		margin-top: 140px;
+		z-index: 10000;
+	}
+	
+	#instructionText {
+		color: black;
+	}
+	
+	#hintContent {
+		
+		font-size: 1em;
+		width: 200px;
+		background: black;
+	}
+	
+	
+	#theTitle {
+		margin-left: 10px;
+	}
+	
+	#mobileLogo {
+	
+		display: inline-block;
+		float: left;
+		margin-left: 110px;
+		color: red;
+		font-size: 0.7em;
+		font-style: italic;
+	}
+	
+	#tableStyle {
+		font-size: 0.9em;	
+	}
+	
+	.dateContainer {
+		width: 62px;
+		color: #00BFFF;
+	}
+	
+	.timeContainer {
+/* 		text-align: center; */
+		width: 50px;
+		color: #66CDAA;
+	}
+	
+	.placeContainer {
+   	 	color: #9ACD32;
+	}
+	
+	.eventContainer {
+    	color: #F0E68C;
+	}
+	
+	#lastMonth {
+		margin-left: 20px;
+	}
+	
+	#nextMonth {
+		margin-right: 20px;
+	}
+	
+	.columnName {
+		color: orange;
+	}
+	
+/* 	#manage { */
+/* 		margin-bottom: -10px; */
+/* 	} */
+	
+	td a {
+	
+		display: none;
+	}
+	
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<!--     <meta name="viewport" content="initial-scale=1.0, user-scalable=no" /> -->
+	<script src="../libraries/jquery-1.11.1.js"></script>
+	
+	<!-- 1. Import The Maps From Google -->
+<!-- 	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=true"></script> -->
+	<script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+	
+	<!-- 2. Give The #map-canvas a height, can not use inline style-->
+	<script type="text/javascript" src=GoogleMaps.js></script>
+	
+	<style type="text/css">
+		body {
+			margin: 0;
+			padding: 0
+		}
+		
+		#map-canvas {
+			margin: auto;
+			height: 400px;
+			width: 800px;
+		}
+	</style>
+	
+	<title>Google Maps Lab</title>
+
+</head>
+
+<body>
+
+<!-- 	<input id="showTheMap" type="button" value='Show The Map' > -->
+	<br>
+	<input id="addOneMarker" type="button" value='Add Another Marker' >
+
+	<!-- 3. This is the map -->
+	<div id="map-canvas"></div>
+
+</body>
+</html>

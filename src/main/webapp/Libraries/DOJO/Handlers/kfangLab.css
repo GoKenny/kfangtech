@@ -1,0 +1,34 @@
+
+
+#theContainer {
+	
+	
+	width: 500px;
+	height: 200px;
+	
+	margin: auto;
+	
+	background: orange;
+	
+}
+
+
+#theData{
+	
+	width: 350px;
+	height: 100px;
+	
+	margin: auto;
+	margin-top: 20px;
+	
+	background: green;
+	
+}
+
+.theButtons {
+	
+	margin-left: 20px;
+	
+	cursor: pointer;
+	
+}

@@ -1,0 +1,91 @@
+
+#theSVGcontainer {
+	
+	width: 850px;
+	height: 500px;
+	
+	background: orange;
+}
+
+#theSVGstyle {
+	
+	width: 100%;
+	height: 100%;
+	
+	background: white;
+}
+
+.link {
+	fill: none;
+	stroke: #666;
+	stroke-width: 1.5px;
+}
+
+#from {
+	fill: green;
+}
+
+.link.from {
+	stroke: green;
+}
+
+
+.link.dashTo {
+	stroke-dasharray: 0, 2 1;
+}
+
+
+#green, .green {
+	fill: green;
+	stroke: green;
+}
+
+
+#blue, .blue {
+	fill: #4A7EBB;
+	stroke: #4A7EBB;
+}
+
+
+rect {
+	fill: #00A4E4;
+	stroke: #333;
+	stroke-width: 1.5px;
+	cursor: pointer;
+}
+
+text {
+	font: 9px bold;
+	font-family: "arial narrow";
+	fill: black;
+	pointer-events: none;
+/* 	text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff; */
+}
+
+
+.selectedBackground {
+/* 	fill: #FAC090; */
+	fill: orange;
+}
+
+
+/* #licensing { */
+/* 	fill: green; */
+/* } */
+
+/* .link.licensing { */
+/* 	stroke: green; */
+/* } */
+/* .link.resolved { */
+/* 	stroke-dasharray: 0, 2 1; */
+/* } */
+
+/* #to path { */
+/* 	transform: rotate(12deg); */
+/* } */
+
+/* #from path { */
+/* 	transform: rotate(12deg); */
+/* } */
+
+

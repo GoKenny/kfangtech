@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" id="WebApp_ID" version="3.0">
+
+	<display-name>KfangWebapp</display-name>
+
+	<welcome-file-list>
+		<welcome-file>login.jsp</welcome-file>
+	</welcome-file-list>
+	<session-config>
+		<session-timeout>0</session-timeout>
+	</session-config>
+
+	<!-- GoKenny -->
+	<servlet-mapping>
+		<servlet-name>MySchedule</servlet-name>
+		<url-pattern>/MySchedule</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>MySchedule</servlet-name>
+		<jsp-file>/Schedule.jsp</jsp-file>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>MySpending</servlet-name>
+		<url-pattern>/MySpending</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>MySpending</servlet-name>
+		<jsp-file>/Spending.jsp</jsp-file>
+	</servlet>
+
+	<!-- Art of Aloe -->
+	<servlet-mapping>
+		<servlet-name>ArtOfAloeHome</servlet-name>
+		<url-pattern>/artofaloe</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>ArtOfAloeHome</servlet-name>
+		<jsp-file>/ArtOfAloe/home.jsp</jsp-file>
+	</servlet>
+
+	<!-- EyesOver -->
+	<servlet-mapping>
+		<servlet-name>eyesover</servlet-name>
+		<url-pattern>/eyesover/</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>eyesover</servlet-name>
+		<jsp-file>/eyesover/index.html</jsp-file>
+	</servlet>
+
+	<!-- ERD -->
+	<servlet-mapping>
+		<servlet-name>ceridian</servlet-name>
+		<url-pattern>/erd/</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>ceridian</servlet-name>
+		<jsp-file>/erd/prototype.html</jsp-file>
+	</servlet>
+
+
+	<!-- Aloe -->
+	<servlet-mapping>
+		<servlet-name>aloe</servlet-name>
+		<url-pattern>/aloe/</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>aloe</servlet-name>
+		<jsp-file>/aloe/home.jsp</jsp-file>
+	</servlet>
+
+	<!-- Error Page -->
+	<error-page>
+		<error-code>500</error-code>
+		<location>/Error.jsp</location>
+	</error-page>
+	<error-page>
+		<error-code>404</error-code>
+		<location>/Error.jsp</location>
+	</error-page>
+	<error-page>
+		<exception-type>java.lang.Exception</exception-type>
+		<location>/Error.jsp</location>
+	</error-page>
+  
+</web-app>

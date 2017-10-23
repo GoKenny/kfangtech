@@ -1,0 +1,39 @@
+*{
+	margin: auto;
+	padding: 0px;
+}
+
+
+
+.myInput{
+	width: 250px;
+}
+
+.suggestionBox {
+	
+	position: absolute;
+	
+	margin-left: 107px;
+	
+	border: 1px solid black;
+	
+	width: 250px;
+	height: auto;
+	
+	overflow: auto;
+	
+}
+
+.suggestionRestuls {
+	cursor: pointer;
+} 
+
+.suggestionRestuls:HOVER {
+	background: silver;
+} 
+
+.suggestionRestuls:FOCUS {
+	background: orange;
+} 
+
+

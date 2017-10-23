@@ -1,0 +1,3748 @@
+/**
+ * Customized CSS For The Landing Page
+ *
+ * Author: Kenny Fang
+ * 
+ */
+
+
+@font-face {
+  font-family: 'alanis hand';
+  src:  url('../fonts/EyesOver/AlanisHand.ttf');
+}
+
+
+@font-face {
+  font-family: 'channel tuning';
+  src:  url('../fonts/EyesOver/channel-tuning.regular.ttf');
+}
+
+@font-face {
+  font-family: 'museoLab300';
+  src:  url('../fonts/EyesOver/Museo_Slab_300-webfont.woff');
+}
+
+@font-face {
+  font-family: 'lato';
+  src:  url('../fonts/EyesOver/Lato-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'latoLight';
+  src:  url('../fonts/EyesOver/Lato-Light.ttf');
+}
+
+@font-face {
+  font-family: 'gill';
+  src:  url('../fonts/EyesOver/33535gillsansmt.woff');
+}
+
+
+* {
+/* 	font-family: "gill" !important ; */
+	font-family: "latoLight" !important;
+}
+
+.sphere {
+	
+	margin-top: 80px; 
+	margin-left: 30px;
+}
+
+::selection {
+    background:  #3299BB;
+    color: #fff;
+}
+::-moz-selection {
+    background:  #3299BB;
+    color: #fff;
+}
+
+.sticky-wrapper {
+background: none !important;
+}
+
+
+#landing {
+     background: url('../img/floating/background.jpg'); 
+     position: relative;
+     width: 100%;
+     height: 100%
+}
+
+#header2 {
+    height: 61px;
+    padding: 0; 
+    width: 100%; 
+    z-index: 99999;
+    -webkit-transition: none;
+    -moz-transition: none;
+    -o-transition: none;
+    -ms-transition: none;
+    transition: none;
+}
+
+.theProjectName {
+	
+	float: left;
+	
+	font-size: 40px;
+	
+	margin-top: 15px;
+	margin-left: 5%;
+	
+	color: white;
+	
+}
+
+#titleContainer {
+	
+	width: 80%;
+	margin: auto;
+	margin-top: 4.5em;	
+	
+	font-size: 8em;
+	color: #3299BB; 
+}
+
+.eyes {
+	
+	color: black;
+	font-family: "lato" !important ;
+	font-weight: 800;
+}
+
+.over {
+	
+	color: #2A819E;
+	font-weight: 100;
+}
+
+.subTitle {
+	
+	width: 80%;	
+	margin: auto;
+	margin-top: 3em;
+	
+	font-family: "gill" !important ;
+	font-size: 1.4em;
+	font-weight: 700;
+}
+
+.theTabsContainer {
+/* 	float: left; */
+	
+	margin-left: 320px;
+}
+
+@media screen and (max-width: 1000px ) {
+	
+	#header2 {
+	
+		display: none;
+	}
+
+	.theTabsContainer {
+		
+		float: right;
+		margin-left: 250px;
+	}
+	
+	.tabsFont {
+		font-size: 10px !important ;
+	}
+
+}
+
+@media screen and (max-width: 750px) {
+	
+	#titleContainer {
+		margin-top: 4em;
+		font-size: 7.5em;
+	}
+	
+}
+
+
+@media screen and (max-width: 700px ) {
+	
+	.sphere {
+		margin-top: 5px;
+	}
+	
+	#titleContainer {
+		margin-top: 4em;
+		font-size: 4em;
+	}
+	
+	.subTitle {
+		margin-top: 1.5em;
+		font-size: 1em;
+	}
+
+}
+
+@media screen and (max-width: 570px ) {
+	
+
+	.theTabsContainer {
+	
+/* 		margin-top: 10px; */
+		margin-left: 5px !important ;
+	}
+	
+	.tabsFont {
+		font-size: 15px !important ;
+	}
+	
+	.sphere {
+	
+		margin-top: 0px !important ;
+	}
+	
+	#titleContainer {
+	
+/* 		margin-top: 180px !important ; */
+/* 		width: 280px; */
+/* 		margin-left: 120px; */
+		
+	}
+	
+}
+
+@media screen and (max-width: 500px) {
+	
+	.subTitle {
+		font-size: 0.9em;
+	}
+}
+
+@media screen and (max-width: 400px) {
+	
+	#titleContainer {
+	
+		width: 100%;
+		font-size: 3.7em;
+	}
+	
+	.subTitle {
+		width: 100%;
+		margin-top: 2em;
+		font-size: 0.8em;
+	}
+}
+
+
+#land {
+	
+	color: white;
+	height: 800px;
+	
+/* 	background: url('../img/floating/background.png'); */
+	
+/* 	background-image: url("../img/EyesOver/background.png") !important ; */
+/* 	background: url("../img/EyesOver/Layers/background.png"); */
+/* 	background: url("http://t1.ftcdn.net/jpg/00/24/71/18/400_F_24711895_j4sXNbcdQjOawVcQ2Aq7LWroXGpU2yUb.jpg"); */
+
+/* 	background: url("../img/EyesOver/Layers/chess1.jpg"); */
+	
+/* 	background: url("../img/EyesOver/Layers/Crowd_Talking.jpg"); */
+
+/* 	background: url("../img/EyesOver/Layers/landingpage_chess.jpg"); */
+	
+/* 	background: url("../img/EyesOver/Layers/dark_cropped.jpg"); */
+/* 	background: url("../img/EyesOver/Landing6.png"); */
+	
+/* 	background: white; */
+	
+
+/* 	background-size: 100px 100px !important; */
+/* 	box-shadow: 0 0 150px rgba(91, 155, 213, 0.7) inset; */
+}
+
+
+.projectDescriptionContainer {
+	
+	width: 750px;
+	height: auto;
+	
+	margin: auto;
+	
+	text-align: center;
+	
+/* 	background: orange; */
+}
+
+#omidChartImage {
+	
+	display: ;
+	
+	position: ;
+	
+	margin-top: 50px;
+	margin-left: 150px;
+	
+	width: 275px;
+	height: 146px;
+	
+	background: url("../img/EyesOver/OmidChart.PNG");
+	background-size: 100% 100%;
+}
+
+.imagesContainer {
+	
+	width: 750px;
+	height: 350px;
+	
+	height: 200px;
+	
+	margin-top: 10px;
+	margin: auto;
+	
+/* 	background: orange; */
+}
+
+#chessImage {
+	
+	display:  ;
+	
+	position: absolute;
+	
+	margin-left: -250px;
+	top: 55px;
+	
+	width: 200px;
+	height: 150px;
+	
+/* 	background: url("../img/EyesOver/Layers/1.png"); */
+/* 	background: url("../img/EyesOver/Layers/chess.jpg"); */
+/* 	background: url("../img/EyesOver/dogIcon.PNG"); */
+	
+	background-size: 100% 100%;
+}
+
+
+#blueChatImage {
+	
+	display: none;
+	
+	position: absolute;
+	margin-left: 27px;
+	margin-top: 71px;
+	width: 238px;
+	height: 148px;
+	background: url("../img/EyesOver/Layers/1.png");
+	background-size: 100% 100%;
+}
+
+#orangeChatImage {
+	
+	display: none;
+	position: absolute;
+	margin-left: 55px;
+	margin-top: 9px;
+	width: 307px;
+	height: 158px;
+	background: url("../img/EyesOver/Layers/3.png");
+	background-size: 100% 100%;
+}
+
+#purpleChatImage {
+	
+	display: none;
+	position: absolute;
+	margin-left: 370px;
+	margin-top: 10px;
+	width: 350px;
+	height: 156px;
+	background: url("../img/EyesOver/Layers/4.png");
+	background-size: 100% 100%;
+}
+
+#yellowChatImage {
+	
+	display: none;
+	
+	position: absolute;
+	margin-left: 464px;
+	margin-top: 72px;
+	width: 275px;
+	height: 146px;
+	background: url("../img/EyesOver/Layers/2.png");
+	background-size: 100% 100%;
+}
+
+
+#boxImage {
+	
+	display: ;
+	
+	position: absolute;
+	margin-left: 153px;
+	margin-top: 31px;
+	
+/* 	margin-left: 90px; */
+/* 	margin-top: 0px; */
+	
+	width: 415px;
+	height: 320px;
+	
+/* 	width: 520px; */
+/* 	height: 280px; */
+	
+/* 	background: url("../img/EyesOver/Layers/6.png"); */
+	
+/* 	background: url("http://www.carebedvacancies.co.uk/portals/0/Graphics/Peoples%20thougts%20CBV.jpg"); */
+	
+	
+	background-size: 100% 100%;
+	z-index: 0;
+	
+/* 	opacity: 0.5; */
+/* 	border-radius: 30px; */
+	
+/* 	background-attachment: fixed; */
+/* 	background-size: contain  ;	 */
+/* 	background-repeat: no-repeat; */
+}
+
+.boxImageContainer {
+	
+	margin: auto;
+	
+/* 	width: 300px; */
+/* 	height: 250px; */
+	
+/* 	background: url("http://www.carebedvacancies.co.uk/portals/0/Graphics/Peoples%20thougts%20CBV.jpg"); */
+/* /* 	background-attachment: fixed; */ */
+/* 	background-size: 100% 100%  ;	 */
+/* 	background-repeat: no-repeat; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.flipBoardSection {
+	
+	background: #cdcdcd;
+	
+	box-shadow: 0 0 10px rgba(0,0,0,.5) inset;
+	
+	text-align: center; 
+	min-height: 400px;  
+	padding-top: 20px;
+}
+
+
+.theTitleContainer {
+
+	height: 250px ;
+	
+	width: 800px;
+	 
+	margin: auto;
+	 
+	
+/* 	background: silver; */
+}
+
+.theTitle {
+
+	margin-top: 30px;
+	
+	font-family: "latoLight" !important;
+	font-size: 35px;
+	
+}
+
+.titleString {
+	
+	width: 630px;
+	margin: auto;
+/* 	background: orange; */
+
+	font-size: 40px;
+	font-weight: 400;
+}
+
+
+
+.ballotContainer{
+	
+	width: 800px;
+	height: 200px;
+	
+	margin: auto;
+	margin-top: 40px;
+	
+/* 	background: yellow; */
+}
+
+.ballotImage {
+	
+	float: left;
+	
+	width: 140px;
+	height: 180px;
+	
+	background: url("../img/design2/vote.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+.divingLine {
+	
+	float: left;
+	width: 40px;
+	height: 200px;
+	
+	border-right: 1px solid #1371b1;	
+}
+
+.ballotDescription {
+	
+	float: right;
+	
+	margin-top: 30px;
+	
+	width: 580px;
+/* 	height: 140px; */
+
+	font-family: "gill";	
+	font-size: 21px;
+	line-height: 1.4;
+	font-weight: bold;
+	
+	text-align: justify;
+	
+/* 	background: blue; */
+}
+
+
+@media screen and (max-width: 850px) {
+	
+	.flipBoardSection {
+		height: 870px  ;
+	}
+	
+	.ballotContainer {
+		width: 650px;
+		height: 170px;
+	}
+	
+	
+	.ballotImage {
+		width: 120px;
+		height: 150px;
+	}
+	
+	.divingLine {
+		width: 30px;
+		height: 150px;
+	}
+	
+	.ballotDescription {
+		margin-top: 5px;
+		width: 470px;
+		font-size: 18px;
+		line-height: 1.5;
+	}
+	
+}
+
+
+@media screen and (max-width: 750px) {
+	
+	.titleString {
+	
+		width: 420px;
+		margin: auto;
+		font-size: 30px;
+	}
+	
+	.ballotContainer {
+		width: 550px;
+		height: 150px;
+	}
+	
+	.ballotImage {
+		width: 100px;
+		height: 130px;
+	}
+	
+	.divingLine {
+		width: 25px;
+		height: 130px;
+	}
+	
+	.ballotDescription {
+		margin-top: 23px;
+		width: 400px;
+		font-size: 15px;
+		line-height: 1.5;
+	}
+	
+}
+
+/** Nexus 4 Portrait */
+@media screen and (max-width: 400px) {
+	
+	.ballotContainer {
+		width: 310px;
+		height: 380px;
+		margin-top: 30px;
+	}
+	
+	.ballotImage {
+		float: none;
+		width: 90px;
+		height: 120px;
+		margin: auto;
+	}
+	
+	.divingLine {
+		width: 220px;
+		height: 20px;
+		float: none;
+		margin: auto;
+		border-right: none;
+		border-bottom: 1px solid #1371b1;
+	}
+	
+	.ballotDescription {
+		width: 83%;
+		margin: auto;
+		margin-top: 20px;
+		font-size: 0.4em;
+		line-height: 1.7;
+		float: none;
+	}
+	
+	
+	
+}
+
+
+
+
+#top_slider {
+	
+	display: ;
+	
+    margin: 17% 0 80px;
+}
+
+
+
+
+.navbar-brand {
+	color: #3299BB !important ;
+}
+
+
+.bxsliderr {
+	color: black;	
+}
+
+.fs_title {
+	
+	margin-top: 5px; 
+/* 	line-height: 0.5; */
+
+	font-family: "channel tuning";	
+	font-family: "open sans";
+	font-weight: bold;
+	font-size: 110px;
+	color: black;
+}
+
+.fs_description {
+
+	margin: auto;
+	margin-top: 50px;
+	
+	font-family: "open sans";
+	font-style: italic;	
+	font-size: 25px;
+	
+	color: black;
+}
+
+/* .fs_title:after { */
+/* 	display: none; */
+/* } */
+
+.welcome {
+	
+	margin-top: 70px;
+	
+	font-size: 45px;
+	font-family: 'latoLight' !important ;
+	line-height: 1.0;
+	
+	color: black !important ;
+	
+}
+
+.slogan {
+	
+	margin-top: 50px;
+	
+	font-size: 40px !important ;
+/* 	font-family: 'latoLight' !important ; */
+	font-weight: 700;
+	
+	padding-bottom: 100px;
+	line-height: 1.0;
+	
+	color: black !important ;
+}
+
+
+@media screen and (max-width: 700px) {
+	
+	.slogan {
+		
+		font-size: 35px !important ;
+		
+	}
+	
+}
+
+
+.leftSection {
+	
+	float: left;
+	
+	width: 25%;
+	height: 140px;
+	
+	padding-right: 40px;
+	
+/* 	background: orange; */
+}
+
+
+#title_about_description {
+	
+	padding-top: 70px;
+	
+	height: 1300px;
+	
+	background: #e3e3e3;
+	
+	background: url("../img/design2/blue-back.jpg");
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	
+}
+
+.welcomeSectionContainer {
+	
+	width: 80%;
+	
+	margin: auto;
+	margin-top: 70px;
+	
+	text-align: center;
+	line-height: 1.0;
+	
+/* 	background: rgba(0, 0, 0, 0.5); */
+}
+
+.welcomeTextContainer {
+	
+	font-size: 3.5em;
+}
+
+.sloganContainer {
+	
+	margin-top: 20px;
+
+/* 	font-family: "gill" !important; */
+	font-size: 1.7em;
+	font-weight: bold;
+}
+
+.theWelcomeDescription {
+	
+	margin: auto;
+	margin-top: 50px;
+	
+	padding: 30px;
+	
+	width: 750px;
+	height: 210px;
+	font-weight: 700;
+
+	text-align: justify;
+	
+	background: url("../img/design2/rect.png");
+	background-size: 100% 100%;
+}
+
+.descriptionLeft {
+	
+	float: left;
+	
+	width: 120px;
+}
+
+
+.descriptionRight {
+	
+	float: left;
+	margin-left: 50px;
+	margin-top: 10px;
+	
+	width: 480px;
+	
+	font-family: "gill" !important;
+	font-weight: 500;
+	
+	font-size: 20px;
+}
+
+
+
+.secondTitleContainer {
+	
+	width: 80%;
+	height: 150px;
+	
+	margin: auto;
+	margin-top: 70px;
+	text-align: center;
+	
+/* 	background: yellow; */
+}
+
+.solvingText {
+	
+	font-size: 3em;
+	
+}
+
+.weAreText {
+	
+	font-family: "gill" !important;
+	
+	margin-top: 30px;
+	
+	font-size: 1.4em;
+	font-weight: 800;
+	
+}
+
+
+
+.issuesLogoContainer {
+	
+	width: 1000px;
+	height: 400px;
+	
+	margin: auto;
+	margin-top: 70px;
+	
+/* 	background: green; */
+}
+
+.issueContainer {
+	
+	width: 280px;
+	height: 400px;
+	
+/* 	background: navy; */
+}
+
+.issueLogoFrame {
+	
+	width: 120px;
+	height: 130px;
+	
+	margin: auto;
+}
+
+
+
+#firstIssueLocation {
+	float: left;
+}
+
+#secondIssueLocation {
+	margin: auto;
+}
+
+#thirdIssueLocation {
+	float: right;	
+}
+
+
+
+#firstIssueLogo {
+	
+	background: url("../img/design2/issues.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat; 
+}
+
+#secondIssueLogo {
+	
+	width: 155px;
+	
+	background: url("../img/design2/costs.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat; 
+}
+
+#thirdIssueLogo {
+	
+	width: 155px;
+	
+	background: url("../img/design2/chat.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat; 
+}
+
+
+
+.theLine{
+	
+	margin-top: 30px;
+	width: 80%;
+	
+	border-color: #1371b1;
+}
+
+.issueTitle {
+	
+	width: 95%;
+	margin: auto;
+	margin-top: 20px;
+	
+	font-size: 32px;
+	
+	text-align: center;
+	
+/* 	background: silver; */
+}
+
+
+.issueDetails {
+	
+/* 	color: white; */
+	font-family: "gill" !important ;
+	font-weight: bold;
+	
+	margin-top: 20px;
+	
+	text-align: justify;
+}
+
+
+@media screen and (max-width: 1000px) {
+	
+	
+	.issuesLogoContainer {
+		width: 850px;
+		height: 350px;
+	}
+	
+	.issueContainer {
+		width: 240px;
+		height: 350px;
+	}
+	
+	
+}
+
+
+/** Landscape of Nexus 5 */
+@media screen and (max-width: 800px) {
+	
+	#title_about_description {
+		height: 1020px;
+	}
+	
+	.welcomeSectionContainer{
+	
+		margin-top: -10px;
+	}
+	
+	.welcomeTextContainer {
+		
+		font-size: 30px;
+	}
+	
+	.sloganContainer {
+	
+		font-size: 20px;
+	}
+	
+	
+	.theWelcomeDescription{
+	
+		width: 550px;
+		height: 190px;
+		
+		margin-top: 40px;
+	}
+	
+	.descriptionLeft {
+
+		margin-top: 10px;
+		width: 80px;
+	}
+	
+	
+	.descriptionRight {
+	
+		width: 370px;
+		
+		margin-left: 30px;
+		margin-top: 0px;
+		font-size: 15px;
+	}
+	
+	.secondTitleContainer {
+		width: 540px;
+		height: 120px;
+	}
+	
+	.solvingText {
+		font-size: 27px;
+	}
+	
+	.weAreText {
+	
+		font-size: 17px;
+	}
+	
+	
+	
+	.issuesLogoContainer {
+		width: 620px;
+	}
+	
+	.issueContainer {
+		width: 200px;
+	}
+	
+	.issueLogoFrame {
+		width: 80px;
+		height: 90px;
+	}
+	
+	.theLine {
+		margin-top: 20px;
+	}
+	
+	.issueTitle {
+		font-size: 23px;
+	}
+	
+	.issueDetails {
+		margin-top: 18px;
+		font-size: 13px;
+		font-weight: bold;
+	}
+	
+	#secondIssueLogo {
+		width: 115px;
+	}
+	
+	#thirdIssueLogo {
+		width: 115px;
+	}
+	
+}
+
+/** Landscape of iPhone 5 */
+@media screen and (max-width: 570px) {
+	
+	
+	#title_about_description {
+		
+		height: 920px;
+	}
+	
+	.theWelcomeDescription {
+		width: 300px ;
+		height: 300px ;
+		
+	}
+	
+	.welcomeSectionContainer {
+		
+		width: 450px;
+		margin-top: -50px;
+	}
+	
+	.welcomeTextContainer {
+	
+		font-size: 35px;
+	}
+	
+	.sloganContainer {
+	
+		margin-top: 17px;
+		font-size: 25px;
+	}
+	
+	
+	.theWelcomeDescription{
+	
+		width: 550px;
+		height: 190px;
+	}
+	
+	.descriptionLeft {
+
+		margin-top: 10px;
+		width: 80px;
+	}
+	
+	
+	.descriptionRight {
+	
+		width: 370px;
+		
+		margin-left: 30px;
+		margin-top: 0px;
+		font-size: 15px;
+	}
+	
+	
+	.issuesLogoContainer {
+		width: 540px;
+		height: 280px;
+	}
+	
+	.issueContainer {
+		width: 170px;
+		height: 280px;
+	}
+	
+	.issueLogoFrame {
+		width: 70px;
+		height: 80px;
+	}
+	
+	.theLine {
+		margin-top: 17px;
+	}
+	
+	.issueTitle {
+		font-size: 21px;
+	}
+	
+	.issueDetails {
+		margin-top: 17px;
+		font-size: 11px;
+	}
+	
+	
+	#secondIssueLogo, #thirdIssueLogo {
+		width: 100px;
+	}
+	
+}
+
+
+/** Portrait of Nexus 4 and iPhone 5 */
+@media screen and (max-width: 400px) {
+	
+	#title_about_description {
+		
+		min-height: 1650px;
+	}
+	
+	.welcomeSectionContainer {
+	
+		margin-top: -40px;
+		
+		width: 300px;
+	}
+	
+	
+	.welcomeTextContainer {
+	
+		font-size: 27px;
+	}
+	
+	
+	.sloganContainer {
+
+		font-size: 1em;
+	}
+	
+	
+	.theWelcomeDescription {
+	
+		width: 270px;
+		height: 410px;
+	
+		padding: 0px;
+		padding-top: 40px;
+		
+		
+		background: white;
+		
+		box-shadow: 0px 5px 20px 0px rgba(0,0,0,0.7);
+	}
+	
+	
+	.descriptionLeft {
+	
+		float: none;
+		margin-top: 20px;
+		width: 80px;
+		margin: auto;
+	}
+	
+	.descriptionRight {
+	
+		float: none;
+		width: 215px;
+
+		margin: auto;
+		margin-top: 20px;
+		font-size: 15px;
+	}
+	
+	
+	.secondTitleContainer {
+	
+		width: 310px;
+		height: 120px;
+		
+		margin-top: 70px;
+	}
+	
+	.solvingText {
+	
+		font-size: 1.3em;
+	}
+	
+	.weAreText {
+		font-size: 12px;
+	}
+	
+	
+	
+	.issuesLogoContainer {
+		width: 270px;
+		height: 900px;
+		
+		margin-top: 5px;
+	}
+	
+	.issueContainer {
+		width: 250px;
+		height: 280px;
+	}
+	
+	#firstIssueLocation, #thirdIssueLocation, #secondIssueLocation{
+		float: none;
+		margin: auto;
+	}
+	
+	#thirdIssueLocation {
+	
+		margin-top: 35px;
+	}
+	
+	
+	
+	.issueLogoFrame {
+		width: 80px;
+		height: 90px;
+	}
+	
+	.issueTitle {
+		font-size: 27px;
+/* 		padding-top: 5px; */
+	}
+	
+	.issueDetails {
+		margin-top: 17px;
+		font-size: 12px;
+	}
+	
+	#secondIssueLocation {
+		margin-top: 10px;
+	}
+	
+	.theLampLocation {
+		margin-top: 70px !important;		
+	}
+	
+}
+
+
+
+/* @media screen and (max-width: 1270px) { */
+	
+/* 	.leftSection { */
+	
+/* 		margin-top: 50px; */
+	
+/* 		width: 15%; */
+/* 	} */
+	
+	
+/* 	.rightSection { */
+		
+/* 		margin-top: 50px; */
+/* 		width: 15% !important ; */
+/* 	} */
+	
+/* } */
+
+/* @media screen and (max-width: 920px) { */
+	
+/* 	.leftSection { */
+/* 		display: none;	 */
+/* 	} */
+	
+	
+/* 	.rightSection { */
+/* 		display: none;	 */
+/* 	} */
+	
+/* } */
+
+
+@media screen and (max-width: 550px) {
+	
+	
+	
+/* 	.descriptionLeft { */
+/* 		float: none !important ; */
+/* 		margin: auto; */
+/* 		width: 35% !important; */
+/* 	} */
+	
+/* 	.descriptionRight { */
+/* 		float: none !important; */
+		
+/* 		padding-top: 20px; */
+		
+/* 		width: 280px !important; */
+/* 		margin: auto; */
+/* 	} */
+	
+}
+
+
+
+
+
+hr {
+	
+	border-top: 1px solid grey;
+	
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+
+.rightSection {
+	
+	float: right;
+	
+	width: 25%;
+	height: 140px;
+	
+	padding-left: 40px;
+}
+
+
+.flipBoardContainer {
+	
+	margin: auto;
+	margin-top: 50px;
+	
+	width: 1300px;
+	height: 250px;
+}
+
+
+@media screen and (max-width: 1350px ) {
+	
+	
+	.flipBoardSection {
+	
+		height: 850px;
+	}
+	
+	
+	.flipBoardContainer {
+		
+		margin: auto;
+		margin-top: 50px;
+		
+		width: 670px;
+		height: 250px;
+	}
+	
+}
+
+@media screen and (max-width: 500px ) {
+	
+	.flipBoardSection {
+		height: 1400px;
+	}
+	
+	.titleString{
+	
+		width: 320px;
+	
+		font-size: 23px;
+	}
+	
+	
+	.flipBoardContainer {
+		width: 280px !important ;
+	}
+	
+}
+
+@media screen and (max-width: 400px) {
+	
+	.titleString {
+		width: 98%;
+		font-size: 0.5em;
+		font-weight: 800;
+	}
+	
+}
+
+
+.theFlip {
+	
+	float: left;
+	
+	margin-top: 20px;
+	margin-left: 20px;
+	
+	
+	font-family: "gill" !important ;
+	
+	width: 300px;
+	height: 200px;
+	
+	font-size: 15px;
+	
+	background: #cdcdcd;;
+	
+	border-radius: 5px;
+}
+
+
+.front {
+	
+/* 	transform: rotate(30deg); */
+	
+/* 	margin-top: 20px; */
+	padding: 2px 5px 0 5px;
+	
+	width: 300px;
+	height: 200px;
+	
+	background: white;
+	
+/* 	border-radius: 5px; */
+	border-radius: 5px 5px 5px 5px;
+	
+	text-align: center;
+}
+
+
+
+.triangleBackground {
+	
+	position: absolute;
+	width: 17px;
+	height: 37px;
+	
+	margin-top: -2px;
+	margin-left: 280px;
+	
+	background: #cdcdcd;
+	
+}
+
+
+.myTriangleCanvas {
+	
+	position: absolute;
+	
+	margin-left: 107px;
+	margin-top: -3px;
+	
+	width: 58px;
+	height: 50px;
+	
+/* 	border: 1px solid black; */
+	
+	
+/* 	transform: rotate(30deg); */
+/* 	background: #cdcdcd; */
+	
+}
+
+
+
+.back {
+	
+/* 	margin-top: 20px; */
+
+/* 	text-align: justify; */
+
+	padding-top: 50px;
+	
+	padding: 30px 25px 0 25px;
+	
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 1.3;
+	
+	width: 300px;
+	height: 200px;
+	
+	background: white;
+	
+	border-radius: 5px;
+}
+
+#measureBack {
+	
+	font-size: 18px;
+	padding-top: 40px;
+	
+}
+
+#discoverBack {
+	
+	padding-top: 30px;
+}
+
+#reportBack {
+	padding-top: 20px;
+	font-size: 17px;
+}
+
+.theLogoContainer {
+	
+	width: 100px;
+	height: 100px;
+	
+	margin: auto;
+	margin-top: 20px;
+	
+}
+
+/** iPhone 5 Landscape */
+@media screen and (max-width: 700px) {
+	
+	.flipBoardContainer {
+	
+/* 		background: black; */
+		width: 550px;
+		height: 450px;
+	}
+	
+	
+	.theFlip {
+		
+		width: 250px;
+		height: 180px;
+	}
+	
+	.front {
+		
+		width: 250px;
+		height: 180px;
+	}
+	
+	.triangleBackground {
+		display: none;
+	}
+	
+	.myTriangleCanvas {
+		display: none;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	.back {
+		
+		padding-top: 20px;
+		
+		font-size: 17px;
+		
+		width: 250px;
+		height: 180px;
+	}
+	
+	
+	#observeBack{
+		padding-top: 30px;
+	}
+	
+	#measureBack {
+	
+		font-size: 16px;
+		padding-top: 35px;
+	}
+	
+	#discoverBack {
+		padding-top: 30px;
+	}
+	
+	#reportBack {
+		font-size: 14px;
+		padding-top: 25px;
+	}
+	
+}
+
+/*LandScape For iPhone 5 */
+@media screen and (max-width: 572px) {
+	
+/* 	#titleContainer { */
+/* 		margin-top: 180px !important; */
+/* 		width: 280px; */
+/* 		margin-left: 150px; */
+/* 	} */
+	
+}
+
+@media screen and (max-width: 500px ) {
+	
+
+	.theTabsContainer {
+	
+/* 		margin-top: 10px; */
+		margin-left: 5px !important ;
+	}
+	
+	.tabsFont {
+		font-size: 15px !important ;
+	}
+	
+	
+	.welcome {
+		font-size: 30px !important;
+	}
+	
+	.slogan {
+		font-size: 26px !important;
+	}
+	
+	
+	.sphere {
+	
+		margin-top: 100px !important ;
+	}
+	
+	#titleContainer {
+	
+		margin-top: 5.5em;
+/* 		width: 280px; */
+/* 		margin-left: 50px; */
+		
+	}
+	
+	.back {
+		padding: 20px 10px 0 10px;
+		font-size: 17px;
+	}
+	
+	#reportBack {
+		font-size: 16px;
+		padding-top: 21px;
+	}
+
+}
+
+@media screen and (max-width: 340px ) {
+	
+	.sphere {
+		margin-top: 8em !important;
+		margin-left: 5px;
+	}
+	
+	#titleContainer {
+	
+		padding: 0px;
+		width: 80%;
+		
+		margin: auto;
+		margin-top: 6.1em;
+		
+		font-size: 3.0em;
+	}
+	
+	.subTitle {
+		width: 95%;
+		
+	}
+	
+	.flipBoardContainer {
+		margin-top: 50px;
+	}
+	
+}
+
+
+#chartLogo {
+	
+/* 	background: url("../img/EyesOver/icon1.png"); */
+	
+	background: url("../img/design2/3.png");
+	
+	
+	background-size: 100% 100%; 
+}
+
+#trendChartLogo {
+	
+	background: url("../img/design2/icon2.png");
+	background-size: 100% 100%; 
+}
+
+#chatLogo {
+	
+	background: url("../img/EyesOver/icon3.png");
+	background-size: 100% 100%; 
+}
+
+
+
+#discoverLogo {
+	
+	background: url("../img/design2/1.png");
+	background-size: 100% 100%; 
+}
+
+
+#reportLogo {
+	
+	background: url("../img/design2/4.png");
+	background-size: 100% 100%; 
+}
+
+.boardTitle {
+	
+	font-family: "gill" !important;
+	
+	margin-top: 25px;
+	font-weight: 800;
+	
+	font-size: 25px;
+}
+
+.boardDescription {
+	
+	font-family: "gill" !important;
+	
+	margin-top: 20px;
+	font-size: 12px;
+}
+
+
+
+
+
+.sf-menu a:hover {
+    color: #3299BB;
+}
+
+.sf-menu > li > a:hover, .sf-menu > li.active > a {
+/*     border-bottom: 1px solid #e05053; */
+    border-bottom: 1px solid #428bca;
+}
+
+.socialico_top a.socialico-facebook:before, 
+.socialico_top a.socialico-twitter:before, 
+.socialico_top a.socialico-google:before, 
+.socialico_top a.socialico-linkedin:before, 
+.socialico_top a.socialico-youtube:before 
+{
+	
+	height: 42px;
+	width: 42px;
+	line-height: 42px;
+
+	background-color: transparent;
+	border: 2px solid black;
+	color: black;
+}
+
+.socialico_top a.socialico-facebook:hover:before {
+    border-color: #507CBE;
+    background-color: transparent;
+    color:#507CBE;
+}
+.socialico_top a.socialico-linkedin:hover:before {
+    background-color: transparent;
+    border-color: #0073B2;
+    color:#0073B2;
+}
+.socialico_top a.socialico-twitter:hover:before{
+    background-color: transparent;
+    border-color: #0073B2;
+    color:#428bca;
+}
+.socialico_top a.socialico-google:hover:before{
+    background-color: transparent;
+    border-color: #CB4437;
+    color:#CB4437;
+}
+
+.socialico_top a.socialico-youtube:hover:before {
+    background-color: transparent;
+    border-color: red;
+    color: red;
+}
+
+.mail_title_section:hover {
+	border: 2px solid #428bca !important ;
+	color: #428bca !important ;
+}
+
+#toTop {
+	background:	#428bca !important;
+}
+
+
+#downArrow {
+	
+	position: absolute;
+	
+	margin: auto;
+	
+	width: 42px;
+	height: 55px;
+	
+	left: 0;
+	right: 0;
+	bottom: 0;
+/* 	top: 0; */
+	
+	z-index: 100;
+	
+	background: url("../img/design2/downArrow.png");
+}
+
+
+.theFloatingBackground {
+	
+	position: absolute;
+	
+	background: url('../img/floating/background.jpg');  
+	background-repeat: no-repeat; 
+	background-size: cover;
+	
+	width: 140%;
+
+	top: -5%; 
+  	bottom: -35px;
+	left: -5%;
+}
+
+.pricing-table {
+	box-shadow: 0 0 0 2px #428bca !important;
+	background: #ffffff;
+}
+
+.pricing-table .plan-name p {
+	color:  #3299BB !important ;
+}
+
+
+.plan-name {
+	color:  #3299BB !important;
+}
+
+.container {
+	color: black;
+}
+
+.skillTitle {
+	
+	font-size: 50px !important ;
+}
+
+.percent {
+	color: white;
+}
+
+.col-sm-2 p {
+	
+	font-size: 20px;
+	font-weight: 600;
+}
+
+
+#theMenue li a {
+	
+	color: black;
+	
+/* 	width: 855px; */
+/* 	height: 60px; */
+/* 	margin: auto ; */
+	
+/* 	background: grey; */
+}
+
+.theNavTitle {
+	
+	
+	padding: 0px;
+	padding-top: 10px;	
+	color: white;
+	
+	font-size: 40px;
+	font-weight: bold;
+	line-height: 10px;
+	
+	font-family: "open sans";
+	
+}
+
+
+#theTabs {
+	
+	float: left; 
+	margin-left: 70px; 
+	width: 70%;
+}
+
+@media screen and (max-width: 880px ) {
+	
+	#theTabs {
+		width: 50%;
+	}
+}
+
+
+
+#title_about {
+	
+	text-align: center;
+	
+	background: #a7b094;
+	
+	padding-top: 20px !important;
+}
+
+
+.theSlogan {
+	
+	font-size: 10px;
+	font-style: italic;
+	position:  ;
+}
+
+
+
+
+#title_about .welcome:after {
+	
+	display: none;
+}
+
+@media screen and (max-width: 1200px) {
+    
+    .theSlogan {
+    	display: none;
+    }
+    
+}
+
+
+.sticky-wrapper {
+	background: grey !important ;
+	background: url("../img/EyesOver/Layers/background.png") !important ;
+	background: transparent !important ;
+}
+
+
+#box_wrap {
+	
+/* 	background: url("../img/EyesOver/slideshow_bg.png"); */
+}
+
+
+#header {
+	
+	position: fixed;
+	top: 0px;
+	
+	background-color: rgba(0,0,0,0.7) !important ;
+	color: white;
+}
+
+
+
+@media screen and (max-width: 950px) {
+	
+	#header {
+		display: none !important ;
+	}
+}
+
+@media screen and (max-width: 750px) {
+	
+	#header {
+		display: none;
+	}
+}
+
+
+#myOwnHeader {
+	
+	color: white;
+	
+	width: 100%;
+	height: 75px;
+	
+	position: fixed;
+	top: 0px;
+	
+	background: rgba(0,0,0, 0.4);
+	
+	z-index: 1000;
+}
+
+#titleLogo {
+	
+	width: 250px;
+	
+	height: 50px;
+	
+	background: url("../img/design2/logo.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	
+	
+}
+
+#headerTitle {
+	
+	float: left; 
+	
+	margin-left: 70px; 
+	margin-top: 10px; 
+	
+	font-size: 30px;
+	
+	font-weight: bold;
+}
+
+#tabsContainer {
+	
+	float: right;
+	
+	color: white;
+	
+	height: 100%;
+	
+	margin-right: 5%;
+	
+/* 	background: orange; */
+}
+
+.aTab {
+	
+	float: left;
+	
+	color: white;
+	text-align: center;
+	
+	padding: 25px;
+	padding-bottom: 27px;	
+	font-size: 20px;
+	
+/* 	background: gray; */
+}
+
+.aTab:HOVER {
+	
+	color: white;
+	border-bottom: 3px solid #3299BB;
+	
+}
+
+
+
+@media screen and (max-width: 1000px) {
+	
+	#tabsContainer {
+		margin-right: 0;
+	}
+	
+	#headerTitle {
+	
+		margin-left: 10px;
+	}
+	
+	.aTab {
+	
+		font-size: 17px;
+	}
+
+}
+
+@media screen and (max-width: 800px) {
+	
+	#myOwnHeader {
+		display: none;
+	}
+
+}
+
+
+
+
+
+
+
+
+
+.sf-menu a {
+	
+	font-family: 'Droid Sans', Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	padding: 0;
+	text-decoration: none;
+	zoom: 1;
+	color: white;
+}
+
+.pricing-table {
+	
+	min-height: 390px !important ;
+}
+
+
+
+.theSkillsContainer {
+	
+	padding: 0px;
+	
+	width:  980px;;
+	height: 700px;
+	
+/* 	background: orange; */
+	
+	margin: auto;	
+}
+
+
+
+.moreDescriptionContainer {
+	
+	display:  ;
+	
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+	
+/* 	border: 2px solid black; */
+/* 	border-radius: 100%; */
+	
+	
+	position: absolute;
+	margin-left: 372px;
+	margin-top: 45px;
+	
+	width: 100px;
+	height: 50px;
+/* 	height: 50px; */
+
+/* 	background: url("../img/EyesOver/Logo/downArrow.png"); */
+/* 	background-size: 100% 100%; */
+
+/* 	background: orange; */
+	
+	z-index: 1000;
+}
+
+.plusContainer {
+	
+	position: absolute;
+	
+	background: #3299BB;
+	background: silver;
+	
+	font-family: "serif";
+	
+	width: 25px;
+	margin-top: -13px;
+	margin-left: -12px;
+	
+	border: 2px solid black;
+	border-radius: 100%;
+	
+	cursor: pointer;
+	
+	z-index: 10;
+}
+
+
+.plusSpace {
+	margin-left: 5px;
+}
+
+.theFeatureDescription {
+	
+	display: none;
+	
+	position: absolute;
+	
+	margin-top: 0px;
+	margin-left: 0px;
+	
+	width: 250px;
+	
+	padding: 5px;
+	
+	
+	color: white;
+	background: rgba(0, 0, 0, 0.5);
+	
+	font-size: 11px;
+	font-weight: normal;
+	
+	z-index: 1;
+}
+
+
+
+
+
+
+#macImage {
+	
+	display: ;
+	
+	position: absolute;
+	
+	margin-top: 115px;
+	
+	width: 1000px;
+	height: 520px;
+	background: url("../img/design2/macbook.png");
+	background-size: 100% 100%;
+}
+
+
+#iphoneImage {
+	
+	display:  ;
+	
+	position: absolute;
+	
+	margin-left: 740px;
+	margin-top: 310px;
+	
+	width: 150px;
+	height: 310px;
+	
+	background: url("../img/EyesOver/Layers/iPhone.png");
+	background-size: 100% 100%;
+}
+
+
+.computersSection {
+
+	min-height: 400px;
+	background: url("../img/design2/blue-back.jpg"); 
+	
+	background-attachment: fixed;
+	background-repeat: no-repeat; 
+	
+	background-size: cover;
+}
+
+
+
+.theDesk {
+	
+	position: absolute;
+	
+	margin-top: 480px;
+	
+	width: 100%;
+	height: 750px;
+	
+	background: url("../img/design2/dark blue.jpg"); 
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+
+.deskTextContainer {
+	
+	width: 850px;
+	height: 370px;
+	
+	margin: auto;
+	
+	padding-top: 100px;
+	text-align: center;
+	font-size: 35px;
+	line-height: 1.5;
+	
+	background: url("../img/design2/green-rect.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+.secondIssueContainer {
+	
+	margin-top: 240px;
+}
+
+#theFirstIssueLogo {
+	
+	width: 135px;
+	
+	background: url("../img/design2/chat1.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+#theThirdIssueLogo {
+	
+	width: 130px;
+	
+	background: url("../img/design2/measure.png");
+	background-size: 85% 85%;
+	background-position-y: 20px;
+	background-repeat: no-repeat;
+}
+
+#theSecondIssueLogo {
+	
+	width: 130px;
+	
+	background: url("../img/design2/lamp.png");
+	background-size: 80% 100%;
+	background-repeat: no-repeat;
+}
+
+
+.fontColor {
+	color: white;
+}
+
+.theLineColor {
+	border-color: white;
+}
+
+.fontSize {
+	font-size: 24px;
+}
+
+.fontWeight {
+	font-weight: normal;	
+}
+
+
+@media screen and (max-width: 1050px) {
+	
+	.theSkillsContainer {
+		width: 500px;
+	}
+	
+	#macImage {
+	
+		width: 500px;
+		height: 270px;
+		margin-left: 0px;
+	}
+	
+}
+
+@media screen and (max-width: 800px) {
+	
+.theDesk {
+	height: 500px;
+}
+	
+	
+.secondIssueContainer {
+	margin-top: 120px;
+}
+
+.theDesk {
+	height: 550px;
+}
+
+
+#theFirstIssueLogo {
+	width: 100px;
+}
+
+#theSecondIssueLogo {
+	width: 95px;
+}
+
+#theThirdIssueLogo {
+	width: 95px;
+	background-position-y: 5px;
+	background-size: 90% 90%;
+}
+
+.fontSize {
+	font-size: 17px;
+}
+
+	
+}
+
+
+
+
+
+@media screen and (max-width: 500px) {
+	
+	#dashboard {
+		height: 400px;
+	}
+	
+	.theSkillsContainer {
+		width: 300px;
+	}
+	
+	#macImage {
+	
+		width: 310px;
+		height: 150px;
+	}
+	
+	#iphoneImage {
+		
+		margin-left: 280px;
+		margin-top: 100px;
+		
+		width: 50px;
+		height: 100px;
+	}
+	
+	.theDesk {
+		margin-top: 340px !important ;
+	}
+	
+}
+
+
+@media screen and (max-width: 500px) {
+	
+	.secondIssueContainer {
+		margin-top: 50px;
+	}
+	
+}
+
+
+.moreLogoContainer {
+
+	width: 900px;;
+	height: 140px;
+
+	margin: auto;
+	margin-top: 200px;
+}
+
+
+/* @media screen and (max-width: 1100px) { */
+	
+/* 	.moreLogoContainer { */
+		
+/* 		margin-top: 100px; */
+/* 		width: 500px;; */
+/* 		height: 370px; */
+/* 	} */
+/* } */
+
+
+.logoContainer {
+	
+	float: left;
+	
+	margin-left: 70px;
+	
+	text-align: center;
+	
+	width: 150px;
+	height: 150px;
+}
+
+.logoFrame {
+	
+	width: 80px;
+	height: 80px;
+	
+	margin: auto;
+	
+/* 	background: silver; */
+}
+
+.logoTitle {
+	
+	margin-top: 10px;
+	
+	font-family: "gill" !important;
+	
+	font-weight: 800;
+}
+
+#mobileLogo {
+	
+/* 	background: url("../img/EyesOver/icon1.png"); */
+	
+	background: url("../img/design2/8.png");
+	
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+#graphViewLogo {
+	
+/* 	background: url("../img/EyesOver/Logo/graphView.png"); */
+
+	background: url("../img/design2/6.png");
+	
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+#mapViewLogo {
+	
+/* 	background: url("../img/EyesOver/Logo/mapView.png"); */
+	
+	
+	background: url("../img/design2/7.png");
+	
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+#dashboardLogo {
+	
+/* 	background: url("../img/EyesOver/Logo/mapView.png"); */
+	
+	background: url("../img/design2/5.png");
+	
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+
+#newsBlogsLogo {
+	
+	background: url("../img/EyesOver/Logo/newsBlogs.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+
+#trendLogo {
+	
+	background: url("../img/EyesOver/Logo/trends.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+
+
+@media screen and (max-width: 920px) {
+	
+	.moreLogoContainer {
+	
+		width: 450px;
+		height: 350px;
+		margin-top: 80px;
+		
+	}
+	
+	.logoContainer {
+	
+		margin-left: 50px;
+	}
+	
+	.deskTextContainer {
+	
+		width: 650px;
+		height: 320px;
+		padding-top: 80px;
+		
+		font-size: 25px;
+		font-weight: bold;
+		line-height: 1.7;
+	}
+	
+}
+
+
+@media screen and (max-width: 750px) {
+	
+	
+	.moreLogoContainer {
+		
+		margin-top: 50px;
+		width: 300px;;
+		height: 570px;
+	}
+	
+}
+
+
+@media screen and (max-width: 670px) {
+	
+	.logoFrame {
+	
+		width: 65px;
+		height: 65px;
+	}
+	
+	.logoTitle {
+
+		font-size: 13px;
+	}
+	
+	.deskTextContainer {
+	
+		width: 450px;
+		height: 250px;
+		padding-top: 80px;
+		font-size: 18px;
+	}
+	
+}
+
+
+@media screen and (max-width: 400px) {
+	
+	.theDesk {
+		height: 1000px;
+	}
+	
+	.moreLogoContainer {
+	
+		width: 220px;
+		height: 580px;
+	}
+	
+	.logoContainer {
+
+		margin-left: 40px;
+	}
+	
+	
+	.deskTextContainer {
+	
+		width: 300px;
+		height: 190px;
+		padding-top: 50px;
+		font-size: 13px;
+		line-height: 2;
+	}
+	
+}
+
+.marketReport {
+	
+	padding-top: 50px;
+	
+	margin-top: 500px;
+	background: url("../img/design2/blue-back.jpg");
+	
+	background-size: 100% 100%;
+	
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.marketTitle {
+	
+	width: 580px;
+	
+	margin: auto;
+	margin-top: 45px;
+	
+	text-align: center;
+	
+	font-family: "latoLight" !important;
+	font-size: 40px;
+	font-weight: 700;
+	
+	line-height: 1.0;
+}
+
+
+.marketChartImageContainer {
+	
+	width: 820px;
+	height: 400px;
+	
+	margin: auto;
+}
+
+
+.theMarketChart {
+	
+	width: 750px;
+	height: 80%;
+	
+	margin-top: 10px;
+	margin: auto;
+	
+	background: silver;
+	
+	background: url("../img/design2/arrows.png");
+	
+	background-size: 100% 100%; 
+	
+}
+
+.chartDescriptions {
+	
+/* 	display: none; */
+	
+	position: absolute;
+	
+	width: 850px;
+	
+	height: 340px;
+	
+/* 	background: rgba(0,0,0, 0.4); */
+	
+}
+
+.verticalText {
+	
+	float: left;
+
+	width: 305px;
+	
+	transform: rotate(270deg);
+	transform-origin: left top 0;
+	
+	margin-top: 305px;
+	margin-left: 120px;
+	
+	font-size: 30px;
+	font-weight: bold;
+	line-height: 1.0;
+	
+/* 	background: orange; */
+}
+
+.theGovernment {
+	
+	margin-left: 220px;
+	margin-top: 43px;
+	font-size: 23px;
+	font-weight: bold;
+	line-height: 1.0;
+	
+/* 	background: silver; */
+}
+
+.theParties {
+	
+	margin-left: 220px;
+	margin-top: 46px;
+	font-size: 23px;
+	font-weight: bold;
+	line-height: 1.0;
+	
+/* 	background: silver; */
+}
+
+.theCandidates {
+	
+	margin-left: 218px;
+	margin-top: 44px;
+	font-size: 23px;
+	font-weight: bold;
+	line-height: 1.0;
+	
+/* 	background: rgba(0, 100, 0, 0.5); */
+}
+
+
+
+@media screen and (max-width: 1000px) {
+	
+	
+	.marketTitle {
+	
+		width: 500px;
+		margin-top: 20px;
+		font-size: 33px;
+	}
+	
+	.marketChartImageContainer {
+	
+		width: 650px;
+	}
+	
+	.theMarketChart {
+	
+		width: 650px;
+		height: 70%;
+	}
+	
+	.chartDescriptions {
+		width: 650px;
+	
+	}
+	
+	
+	.theGovernment {
+	
+		margin-left: 170px;
+		font-size: 17px;
+	}
+	
+	.theParties {
+	
+		margin-left: 170px;
+		font-size: 17px;
+	}
+	
+	.theCandidates {
+	
+		margin-left: 170px;
+		font-size: 17px;
+	}
+	
+}
+
+@media screen and (max-width: 820px) {
+	
+	
+	.marketTitle {
+	
+		font-size: 35px;
+	}
+	
+	.marketChartImageContainer {
+	
+		width: 450px;
+	}
+	.theMarketChart {
+	
+		width: 450px;
+		height: 55%;
+	}
+	
+	.chartDescriptions {
+	
+		width: 450px;
+		height: 250px;
+	}
+	
+	
+	
+	.theGovernment {
+	
+		margin-left: 130px;
+		font-size: 14px;
+		margin-top: 32px;
+	}
+	
+	.theParties {
+	
+		margin-left: 130px;
+		font-size: 14px;
+		margin-top: 35px;
+	}
+	
+	.theCandidates {
+	
+		margin-left: 130px;
+		font-size: 14px;
+		margin-top: 35px;
+	}
+	
+}
+
+
+@media screen and (max-width: 750px) {
+	
+	.marketReport {
+		margin-top: 330px;
+	}
+	
+}
+
+
+/* LandScape For Nexus 5 */
+@media screen and (max-width: 650px) {
+	
+	
+	.theDescription {
+		height: 100px !important ;
+	}
+	
+	.marketTitle {
+		font-size: 22px;
+		margin-top: 10px;
+	}
+	
+	.marketChartImageContainer {
+	
+		width: 580px;
+	}
+	
+	.theMarketChart {
+	
+		width: 500px;
+		height: 50%;
+	}
+	
+	
+	.theGovernment {
+	
+		margin-left: 155px;
+		font-size: 12px;
+		margin-top: 30px;
+	}
+	
+	.theParties {
+	
+		margin-left: 155px;
+		font-size: 12px;
+		margin-top: 35px;
+	}
+	
+	.theCandidates {
+	
+		margin-left: 155px;
+		font-size: 12px;
+		margin-top: 35px;
+	}
+	
+	
+	
+	
+	
+}
+
+
+@media screen and (max-width: 595px) {
+	
+	.marketTitle {
+	
+		width: 400px;
+		font-size: 25px;
+		font-weight: 200;
+	}
+	
+	.marketChartImageContainer {
+	
+		width: 350px;
+		height: 260px;
+	}
+
+	.theMarketChart {
+		
+		width: 420px;
+		height: 70%;
+	}
+	
+	.chartDescriptions {
+		width: 340px;
+	
+	}
+	
+	
+	
+	.theGovernment {
+	
+		margin-left: 90px;
+		font-size: 12px;
+		margin-top: 28px;
+	}
+	
+	.theParties {
+	
+		margin-left: 90px;
+		font-size: 12px;
+		margin-top: 25px;
+	}
+	
+	.theCandidates {
+	
+		margin-left: 90px;
+		font-size: 12px;
+		margin-top: 28px;
+	}
+	
+	
+}
+
+
+@media screen and (max-width: 500px) {
+	
+	.theDescription {
+		height: 100px !important ;
+	}
+	
+	.marketTitle {
+	
+		width: 200px;
+		margin-top: 5px;
+		
+		font-size: 14px;
+	}
+	
+	.marketChartImageContainer {
+	
+		width: 320px !important;
+		height: 260px;
+	}
+
+	.theMarketChart {
+		
+		width: 320px;
+		height: 58%;
+	}
+	
+	.chartDescriptions {
+		width: 340px;
+	
+	}
+	
+	.info_block {
+	
+		margin-top: 50px;
+		width: 246px;
+	}
+	
+	.marketReport {
+		margin-top: 470px;
+	}
+	
+	
+	.chartDescriptions {
+		width: 300px;
+	}
+	
+	.theGovernment {
+	
+		margin-left: 70px;
+		font-size: 10px;
+		margin-top: 23px;
+	}
+	
+	.theParties {
+	
+		margin-left: 70px;
+		font-size: 10px;
+		margin-top: 23px;
+	}
+	
+	.theCandidates {
+	
+		margin-left: 70px;
+		font-size: 10px;
+		margin-top: 23px;
+	}
+	
+	
+}
+
+@media screen and (max-width: 400px) {
+	
+	.marketReport {
+		margin-top: 900px;
+	}
+	
+	.leftSection {
+		display: none;
+	}
+	
+	.rightSection {
+		display: none;
+	}
+	
+	.marketTitle {
+	
+		width: 250px;
+		margin-top: 5px;
+		font-size: 17px;
+		font-weight: bold;
+		line-height: 1.5;
+	}
+	
+	
+	.block-header {
+		font-size: 28px !important;
+	}
+
+	.carousel-readmore-first {
+		margin-top: 60px;
+		font-size: 14px !important ;
+	}
+	
+}
+
+
+/* #testimonials { */
+	
+/* 	color: black; */
+	
+/* 	background: url("../img/design2/Untitled-1.png"); */
+/* 	background-size: 100% 100% !important ; */
+/* 	background-repeat: no-repeat; */
+	
+/* } */
+
+
+
+#clients {
+	
+	height: 400px;
+
+	background: url("../img/design2/Untitled-1.png");
+	background-size: 100% 100% !important;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+
+.dividingLine {
+	
+	position: absolute;
+	
+	width: 1%;
+	height: 270px;
+	
+	margin-left: 50%;
+	margin-top: 5%;
+	
+	border-right: 1px solid #42434F;
+	
+/* 	background: black; */
+}
+
+
+.leftClientSection {
+	
+	float: left;
+	
+	width: 50%;
+	
+	height: 400px;
+	
+/* 	border-right: 1px solid grey; */
+/* 	background: rgba(0,0,0,0.4);	 */
+}
+
+.pastClientTitle {
+	
+	width: 50%;
+	margin: 50px auto;
+
+	text-align: center;
+	color: white;
+	font-size: 1.7em;
+	font-weight: 800;
+	
+/* 	background: orange;  */
+}
+
+.clientImageContainer {
+	
+	width: 70%;
+	height: 140px;
+	
+	margin: 20px auto;
+	
+/* 	background: white; */
+}
+
+#pcImage {
+	
+	width: 200px;
+	height: 150px;
+	
+	margin: auto;
+	
+	background: url("../img/design2/PC.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.clientName {
+
+	width: 70%;
+	height: 27px;
+	
+	margin: 40px auto;
+
+	color: black; 
+	text-align: center;
+	
+	font-family: "gill" !important;
+	font-size: 20px; 
+	font-weight: 700;
+
+	line-height: 1.0; 
+}
+
+
+
+
+@media screen and (max-width: 580px) {
+	
+	.dividingLine {
+		width: 1%;
+		margin-left: 52%;
+		margin-top: 7%;
+	}
+	
+}
+
+
+@media screen and (max-width: 400px) {
+	
+	.pastClientTitle {
+		width: 80%;
+		font-size: 1.4em;
+		margin-bottom: 30px;
+	}
+	
+	.clientImageContainer {
+		height: 70px;
+	}
+	
+	#pcImage {
+		width: 120px;
+		height: 100px;
+	}
+	
+	.clientName {
+		width: 95%;
+		font-size: 0.9em;
+	}
+	
+	#clients {
+		height: 320px;
+		background: url("../img/design2/Untitled-1.png");
+		background-size: 100% 100% !important;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+	}
+	
+	
+}
+
+
+.rightClientSection {
+	
+	float: left;
+	
+	width: 49%;
+	
+	height: 400px;
+}
+
+
+@-moz-keyframes fadeInUp {
+	0% {
+		opacity: 0;
+		-moz-transform: translateY(20px);
+	}
+	
+	100% {
+		opacity: 1;
+		-moz-transform: translateY(0);
+	}
+}
+
+@-o-keyframes fadeInUp {
+	0% {
+		opacity: 0;
+		-o-transform: translateY(20px);
+	}
+	
+	100% {
+		opacity: 1;
+		-o-transform: translateY(0);
+	}
+}
+
+@keyframes fadeInUp {
+	0% {
+		opacity: 0;
+		transform: translateY(20px);
+	}
+	
+	100% {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+
+.fadeInUp {
+	-webkit-animation-name: fadeInUp;
+	-moz-animation-name: fadeInUp;
+	-o-animation-name: fadeInUp;
+	animation-name: fadeInUp;
+}
+
+@media screen and (max-width: 400px) {
+
+#clientName {
+	width: 260px;
+	height: 45px;
+	font-size: 19px !important;
+}
+	
+}
+
+#contactSection {
+	
+	height: 800px;
+	
+	padding-top: 30px;
+	
+	color: white;
+	
+	background: url("../img/design2/dark blue.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.subscribeTitle {
+	
+	
+	width: 650px;
+	height: 50px;
+	
+	margin: auto;
+	margin-top: 50px;
+	
+	text-align: center;
+	font-size: 35px;
+	font-weight: bold;
+	
+	border-bottom: 1px solid white;
+}
+
+.subscribeDetails {
+	
+	width: 650px;
+	height: 70px;
+	
+	margin: auto;
+	margin-top: 30px;
+	
+	padding: 0 50px 0 50px;
+	
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	line-height: 1.0;
+}
+
+.emailContainer {
+	
+	width: 580px;
+	height: 70px;
+	
+	margin: auto;
+	margin-top: 30px;
+	
+	text-align: center;
+	font-weight: bold;
+}
+
+.inputContainer {
+	
+	float: left;
+	
+	width: 450px;
+	height: 40px;
+}
+
+.inputStyle {
+	
+	width: 100%;
+	height: 100%;
+	
+	color: white;
+	
+	border-radius: 10px;
+	text-align: center;
+	background: #2D4952;
+	
+	border: none;
+}
+
+.submitContainer {
+	
+	float: left;
+	
+	margin-left: 30px;
+	
+	width: 100px;
+	height: 40px;
+}
+
+.submitStyle {
+	
+	width: 100%;
+	height: 100%;
+	
+	color: white;
+	
+	border-radius: 10px;
+	text-align: center;
+/* 	background: #E3DB16; */
+	background: #D1CA14;
+	
+	border: none;
+}
+
+#messageContainer {
+	
+	float: left;
+	
+	height: 20px;
+	
+	padding-top: 5px;
+	padding: 3px 0 0 10px;
+	
+	font-size: 13px;
+}
+
+
+.contactUsContainer {
+	
+	width: 80%;
+	height: 300px;
+	
+	margin: auto;
+	margin-top: 100px;
+	
+	border-top: 1px solid white;
+}
+
+.reachUsText {
+	
+	font-size: 27px;
+	font-weight: bold;
+	
+	margin-left: 30px;
+	margin-top: 30px;
+}
+
+
+.addressContainer {
+	
+	width: 370px;
+	height: 65px;
+	
+	margin-left: 70px;
+	margin-top: 30px;
+}
+
+#emailSendingGif {
+	
+	display: none;
+	
+	position: absolute;
+	
+	width: 25px;
+	height: 25px;
+	
+	margin-top: 7px;
+	margin-left: 210px;
+	
+	background: url("../img/design2/loading.gif");
+	background-size: 100% 100%;
+}
+
+
+.addressLogo {
+	
+	float: left;
+	
+	width: 50px;
+	height: 100%;
+	
+	background: url("../img/design2/contactUs.png");
+	background-size: 60% 65%;
+	background-position: 10px;
+	background-repeat: no-repeat;
+	
+/* 	border: 1px solid white; */
+}
+
+.addressInfoContainer {
+	
+	float: left;
+	
+	font-weight: bold;
+	margin-left: 10px;
+}
+
+
+
+.emailInfoContainer {
+	width: 350px;
+	height: 50px;
+	
+	margin-left: 70px;
+	margin-top: 30px;
+}
+
+.emailLogo {
+	
+	float: left;
+	
+	width: 50px;
+	height: 100%;
+	
+	background: url("../img/design2/contactEmail.png");
+	background-size: 70% 70%;
+	background-position: 7px;
+	background-repeat: no-repeat;
+	
+/* 	border: 1px solid white; */
+}
+
+.emailDataContainer {
+	float: left;
+	margin-left: 10px;
+	margin-top: 13px;
+	font-weight: bold;
+}
+
+@media screen and (max-width: 700px) {
+	
+.subscribeTitle {
+	width: 510px;
+	height: 50px;
+	margin-top: 30px;
+	font-size: 25px;
+}
+
+.subscribeDetails {
+	width: 490px;
+	height: 50px;
+	margin-top: 20px;
+	font-size: 17px;
+}
+
+
+
+.emailContainer {
+	width: 480px;
+}
+
+.inputContainer {
+	width: 380px;
+	height: 32px;
+}
+
+.submitContainer {
+	margin-left: 20px;
+	width: 70px;
+	height: 32px;
+	font-size: 11px;
+}
+
+.contactUsContainer {
+	margin-top: 20px;
+}
+
+.reachUsText {
+	font-size: 20px;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+
+.addressContainer {
+	width: 310px;
+	height: 55px;
+	margin-left: 40px;
+	margin-top: 20px;
+}
+
+.addressLogo {
+	width: 40px;
+}
+
+.addressInfoContainer {
+	font-size: 12px;
+}
+
+.emailInfoContainer {
+	width: 230px;
+	height: 40px;
+	margin-left: 40px;
+	margin-top: 20px;
+}
+
+.emailLogo {
+	width: 40px;
+}
+
+.emailDataContainer {
+	margin-top: 8px;
+	font-size: 13px;
+}
+
+}
+
+@media screen and (max-width: 500px) {
+	
+.subscribeTitle {
+	width: 380px;
+	height: 40px;
+	margin-top: 20px;
+	font-size: 18px;
+}	
+
+.subscribeDetails {
+	width: 390px;
+	height: 50px;
+	padding: 0 20px 0 20px;
+	margin-top: 20px;
+	font-size: 13px;
+}
+
+.emailContainer {
+	width: 370px;
+}
+
+.inputContainer {
+	width: 280px;
+}
+
+.submitContainer {
+	margin-left: 10px;
+}
+
+
+}
+
+@media screen and (max-width: 400px) {
+
+	#contactSection {
+		height: 500px;
+	}
+		
+	.subscribeTitle {
+		width: 300px;
+		margin-top: 45px;
+		font-size: 1.4em;
+	}	
+		
+	.subscribeDetails {
+		width: 300px;
+		height: 30px;
+		padding: 0 10px 0 10px;
+		margin-top: 20px;
+		font-size: 11px;
+	}
+	
+	#emailSendingGif {
+		width: 20px;
+		height: 20px;
+		margin-top: 5px;
+		margin-left: 130px;
+	}
+		
+	.emailContainer {
+		width: 280px;
+		margin-top: 10px;
+	}	
+		
+	.submitContainer {
+		margin-left: 110px;
+		margin-top: 5px;
+	}
+		
+	#messageContainer {
+		margin-left: -190px;
+		font-size: 9px;
+	}
+		
+		
+	.contactUsContainer {
+		width: 95%;
+		height: 200px;
+	}	
+	
+	.reachUsText {
+		font-size: 17px;
+	}
+	
+	.addressContainer {
+		width: 280px;
+		height: 40px;
+		margin-left: 25px;
+		margin-top: 20px;
+	}
+	
+	
+	.addressLogo {
+		width: 30px;
+	}
+	
+	.addressInfoContainer {
+		margin-top: -10px;
+		font-size: 10px;
+	}
+	
+	.emailInfoContainer {
+		width: 230px;
+		height: 35px;
+		margin-left: 25px;
+		margin-top: 20px;
+		font-size: 12px;
+	}
+	
+	.emailLogo {
+		width: 30px;
+		background-size: 82% 70%;
+		background-position: 5px;
+	}
+
+
+	
+	
+}
+
+
+

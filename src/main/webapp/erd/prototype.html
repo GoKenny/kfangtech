@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+
+<!-- jQuery -->
+<script src="js/libraries/jquery-1.11.1.js"></script>
+
+<!-- jQuery-UI -->
+<script src="js/libraries/jquery-ui-1.11.4.custom/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="js/libraries/jquery-ui.css">
+
+<!-- jQuery Connect -->
+<script src="js/libraries/jQueryConnect/jquery.connect.js"></script>
+
+
+<!-- 2. My JavaScript and CSS -->
+<script type="text/javascript" src="js/prototype.js"></script>
+<link rel="stylesheet" type="text/css" href="css/prototype.css">
+
+<!-- 3. The Converted Employee JSON From XML -->
+<script type="text/javascript" src="dataSource/employee.js"></script>
+
+<title>Ceridian ER-Diagram Test</title>
+</head>
+
+<body>
+
+	<!-- ************************************* Table Details Dialog ***************************************** -->
+	<div id="tableDetailsDialog" title="Table Sample">
+	
+ 	 	<div> Description: the detailed description will go to here </div> 
+ 	 	
+<!--  	 	<div style="min-width: 500px; min-height: 300px; background: grey;"> -->
+ 	 	
+	 	 	<table style="border-collapse: collapse; min-width: 500px; margin-top: 10px;" border="1" >
+	 	 		<tr style="font-weight: bold; background: #B9CDE5" > <td>Display Name</td> 	<td>Column Name</td> <td>Description</td> <td>Type</td> <td>Related Entities</td> </tr>
+	 	 		<tr> <td>Employee ID</td> 	<td>employeeId</td> <td>some descriptions go here</td> <td>int</td> 			<td>Related Entities</td> </tr>
+	 	 		<tr> <td>First Name</td> 	<td>FirstName</td> 	<td>some descriptions go here</td> <td>nvarchar[128]</td> 	<td>Related Entities </td> </tr>
+	 	 		<tr> <td>Last Name</td> 	<td>LastName</td> 	<td>some descriptions go here</td> <td>nvarchar[128]</td> 	<td>Related Entities </td> </tr>
+	 	 		<tr> <td>Tax Payer Number</td> 	<td>TaxPayerId</td> 	<td>some descriptions go here</td> <td>nvarchar[40]</td> 	<td>Related Entities </td> </tr>
+	 	 		<tr> <td> Other   </td> 		<td> Other  </td> 		<td> Other  </td> 						<td> Other </td> 			<td> Other   </td> </tr>
+	 	 		<tr> <td> Other   </td> 		<td> Other  </td> 		<td> Other  </td> 						<td> Other </td> 			<td> Other   </td> </tr>
+	 	 		<tr> <td> Other   </td> 		<td> Other  </td> 		<td> Other  </td> 						<td> Other </td> 			<td> Other   </td> </tr>
+	 	 		<tr> <td> Other   </td> 		<td> Other  </td> 		<td> Other  </td> 						<td> Other </td> 			<td> Other   </td> </tr>
+	 	 		<tr> <td> ... </td> 		<td> ... </td> 		<td> ... </td> 						<td> ... </td> 			<td> ... </td> </tr>
+	 	 	</table>
+<!--  	 	</div> -->
+
+	</div>
+
+
+	<div id="titleContainer">Prototype For Topic Builder</div>
+
+	<br>
+
+	<!-- ************************************* Center Everything For Now ***************************************** -->
+	<div id="digramWindow">
+
+		<div id="stagesTitle">Project Stages</div>
+		<ol id="stageDetails">
+			<li id="currentStage">Design & Develop The Client-Side Interfaces</li>
+			<li>Connect Interfaces With Server To Populate Data From XML File (AJAX Suggested)</li>
+		</ol>
+		
+		<div id="useCaseExmampleTitle">Use Case Example</div>
+		<ul id="useCaseExmampleDetails">
+			<li>Get the related tables for the topic of "Terminated Employees</li>
+		</ul>
+
+		To download the design, please click <a href="Design.pptx">here</a>
+		
+		<br>
+
+		<!-- Center The Diagram Frame -->
+		<div id="erDiagramFrame">
+
+			<!-- ************************** First Column ************************** -->
+			<div id="1-Column" class="tablesColumn" style="display: block;" >
+			
+				<div class="sectionTitle"  >
+					Base Table
+				</div>
+
+				<div class="theSearchContainer">
+					search/filter: <input class="theInputStyle" type="text" placeholder="contain keyword" value="Employee" />
+				</div>
+
+				<!-- 1. The Table -->
+				<div id="mainTable" class="tableFrame">
+
+					<!-- 2. Table Name -->
+					<div class="rightArrow"> </div> 
+					<div id="employeeTable" class="tableName">
+						Employee   
+					</div>
+
+					<!-- 3. Hidden Table Details -->
+					<div class="tableDetails">
+
+						<!-- Primary Key -->
+						<div  class="row primary">
+							<div  id="m4" class="fieldName">ID</div>
+							<div  id="m5" class="fieldType">Integer</div>
+						</div>
+
+						<!-- Different Rows -->
+						<div  class="row">
+							<div class="fieldName">Name</div>
+							<div class="fieldType">String</div>
+						</div>
+
+						<div class="row">
+							<div class="fieldName">Age</div>
+							<div class="fieldType">Integer</div>
+						</div>
+
+						<div class="row">
+							<div class="fieldName foreignKey">(fk) ContactID</div>
+							<div class="fieldType">Integer</div>
+						</div>
+
+						<div class="row">
+							<div class="fieldName foreignKey">(fk) DepartmentID</div>
+							<div class="fieldType">Integer</div>
+						</div>
+
+						<div class="row">
+							<div class="fieldName">Other</div>
+							<div class="fieldType">String</div>
+						</div>
+						<div class="row">
+							<div class="fieldName">Other</div>
+							<div class="fieldType">String</div>
+						</div>
+						<div class="row">
+							<div class="fieldName">Other</div>
+							<div class="fieldType">String</div>
+						</div>
+						<div class="row">
+							<div class="fieldName">Other</div>
+							<div class="fieldType">String</div>
+						</div>
+						<div class="row">
+							<div class="fieldName">Other</div>
+							<div class="fieldType">String</div>
+						</div>
+						<div class="row">
+							<div class="fieldName">Other</div>
+							<div class="fieldType">String</div>
+						</div>
+
+					</div>
+
+				</div>
+				
+				
+				
+			</div>
+			<!--************************** End of First Column ************************** -->
+
+		</div>
+		<!-- End of Center The Diagram Frame -->
+
+		<!--************************** Current Version ************************** -->
+		<div id="currentVersionContainer">
+			<hr id="theHorizontalLine">
+			<div id="currentVersionTitle">Current Version:</div>
+			<div id="currentVersionScrennshot"></div>
+		</div>
+
+	</div>
+	<!-- ************************************* End Of Center Everything For Now ***************************************** -->
+
+</body>
+</html>

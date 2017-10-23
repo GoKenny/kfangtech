@@ -1,0 +1,407 @@
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : 1.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : 1.0 , "endTime" : 1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : 1.0 , "endTime" : 1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : 1.0 , "endTime" : 1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 1 , "startTime" : 1.0 , "endTime" : 1.0 , "place" : "UNB" , "activity" : "testing" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 6 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "First day of classes" , "status" : "pending"}
+{ "year" : 2013 , "month" : 1 , "dateNumb" : 6 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "First day of classes" , "status" : "pending"}
+{ "year" : 2013 , "month" : 6 , "dateNumb" : 30 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "U.N.B." , "activity" : "Pay Co-op Fees" , "status" : "pending"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 0 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Blackmores Watch Store" , "activity" : "Repair The Watch Belt" , "status" : "pending"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 0 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "BMO" , "activity" : "Deposit Cash & Exchange Quarters" , "status" : "pending"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Canada" , "activity" : "Canada Day" , "status" : "pending"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 2 , "startTime" : 9.0 , "endTime" : 17.0 , "place" : "BlackBerry Office" , "activity" : "Back to work" , "status" : "pending"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 2 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Sobeys" , "activity" : "Get some groceries" , "status" : "pending"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 4 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "BlackBerry Office" , "activity" : "Ice cream day" , "status" : "pending"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 8 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "U.N.B email" , "activity" : "Last day for application" , "status" : "pending"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 9 , "startTime" : 13.0 , "endTime" : -1.0 , "place" : "Marshall da??Avray Hall room 244" , "activity" : "Interview With Mr. Bev" , "status" : "pending"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 12 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Empire Theatre" , "activity" : "Date Night" , "status" : "pending"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 15 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Office" , "activity" : "Reply The Email" , "status" : "pending"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 18 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Aitken Pool" , "activity" : "swim" , "status" : "pending"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 19 , "startTime" : 13.0 , "endTime" : -1.0 , "place" : "Marshall d''Avray Hall 124" , "activity" : "Do Paper Work With Susan" , "status" : "pending"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 20 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Home" , "activity" : "Prepare TD1 & Questions For Monday" , "status" : "pending"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 22 , "startTime" : 13.0 , "endTime" : -1.0 , "place" : "Marshall d''Avray Hall room 244." , "activity" : "Meeting With Bev" , "status" : "pending"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 22 , "startTime" : 9.3 , "endTime" : -1.0 , "place" : "BlackBerry Office" , "activity" : "Co-op Visit" , "status" : "pending"}
+{ "year" : 2013 , "month" : 7 , "dateNumb" : 23 , "startTime" : 13.0 , "endTime" : -1.0 , "place" : "Marshall d Avray Hall room 244." , "activity" : "Meeting With Bev" , "status" : "pending"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Taobao" , "activity" : "Order Shipment For Products" , "status" : "pending"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 6 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "BlackBerry Office" , "activity" : "Submit Evaluation Form" , "status" : "pending"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 14 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Marshall da??Avray Hall room 244." , "activity" : "Meeting" , "status" : "pending"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 15 , "startTime" : 12.2 , "endTime" : -1.0 , "place" : "Light House" , "activity" : "Have Lunch" , "status" : "pending"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 16 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Isaac Way" , "activity" : "Have Lunch" , "status" : "pending"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 17 , "startTime" : 14.0 , "endTime" : 17.0 , "place" : "Apartment" , "activity" : "Study The Bible" , "status" : "pending"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 17 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Apartment" , "activity" : "Refine My Webapp" , "status" : "pending"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 18 , "startTime" : 14.0 , "endTime" : 17.0 , "place" : "My Apartment" , "activity" : "Study The Bible" , "status" : "pending"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 18 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Apartment" , "activity" : "Work On The ''Technical Report''" , "status" : "pending"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 19 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Email" , "activity" : "Setup Appointment With Tim For Laptop" , "status" : "pending"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 19 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Email" , "activity" : "Reply Andrew For Course Selections" , "status" : "pending"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 19 , "startTime" : 12.0 , "endTime" : 14.3 , "place" : "Downtown" , "activity" : "Have Lunch" , "status" : "pending"}
+{ "year" : 2013 , "month" : 8 , "dateNumb" : 27 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Office" , "activity" : "Ask Ian For Student Evaluation Form" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 0 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Regent Mall" , "activity" : "Buy Gift Card at ''Dynamite''" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 0 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "BMO" , "activity" : "Continue Student Plan With ID" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 0 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Post Office" , "activity" : "Send A Mail To New York" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 0 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "BMO" , "activity" : "Ask For Transfer Banking Info & Tuition Cheque" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 0 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Email" , "activity" : "Send An Email To Andrew About Course Selections" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 2 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Email finserv@unb.ca" , "activity" : "Ask For The Extra International Student Insurance" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 3 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "BMO" , "activity" : "Continue Student Plan & Ask For Transfer Info" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 3 , "startTime" : 12.0 , "endTime" : -1.0 , "place" : "Downtown" , "activity" : "BMO & Lunch" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 3 , "startTime" : 9.3 , "endTime" : -1.0 , "place" : "U.N.B. Financial Service" , "activity" : "Query The International Insurance" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 4 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "U.N.B." , "activity" : "Print Out My Course Schedule" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 5 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "Unknown" , "activity" : "Have First INFO4900 Meeting" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 5 , "startTime" : 9.0 , "endTime" : -1.0 , "place" : "Car Insurance" , "activity" : "Check The Insurance For Peter" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 6 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "WebAdviser" , "activity" : "Fill In Online Time Sheet" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 6 , "startTime" : 2.3 , "endTime" : -1.0 , "place" : "Marshall da??Avray Hall room 244." , "activity" : "Have Meeting" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 6 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Email" , "activity" : "Email Rick About The Washer & Dryer" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 7 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Message" , "activity" : "Ask For OB Textbook" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 9 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Engineering Library" , "activity" : "Check Textbooks" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 9 , "startTime" : 12.3 , "endTime" : -1.0 , "place" : "Head Hall" , "activity" : "Meet up for the book" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 9 , "startTime" : 13.3 , "endTime" : -1.0 , "place" : "Cafe Shop" , "activity" : "Teach JavaScript" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 10 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "GWD 120" , "activity" : "Have IS Project Meeting" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 10 , "startTime" : 16.0 , "endTime" : -1.0 , "place" : "Marshall da??''Avray Hall room 244." , "activity" : "Have Meeting" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 10 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "ITC 319" , "activity" : "BackToSchool Meeting" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 11 , "startTime" : 9.0 , "endTime" : 17.0 , "place" : "SUB Ballroom" , "activity" : "Buy Textbook" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 11 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Marshall da??''Avray Hall" , "activity" : "Work" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 13 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Online Course" , "activity" : "Refine Interface & Dynamic Themes & Contents" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 14 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "My Account" , "activity" : "Submitted T2202A With Confirmation Code of 2235R7S" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 17 , "startTime" : 20.0 , "endTime" : -1.0 , "place" : "Library" , "activity" : "Meet up for INFO1003 assignment" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 17 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Student Affairs at C.C. Jones" , "activity" : "Drop off the tutor form" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 19 , "startTime" : 11.0 , "endTime" : -1.0 , "place" : "Apartment" , "activity" : "Finish INFO Assignments" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 19 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Mary''''s Vil" , "activity" : "Have Supper" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 19 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Email" , "activity" : "Ask Rick About The Washer & Dryer" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 20 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "www.wespeakstudent.com" , "activity" : "Opt Out Healthcare" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 20 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Email" , "activity" : "(Last Day) Submit Technical Reports" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 20 , "startTime" : 23.59 , "endTime" : -1.0 , "place" : "UNB Server" , "activity" : "INFO 3103 Assignment 1 Due" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 20 , "startTime" : 16.0 , "endTime" : -1.0 , "place" : "E level of Head Hall" , "activity" : "Submit INFO1003 Assignment 1" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 20 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Lab" , "activity" : "Read Case Study Before The Lab" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 20 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "WebAdviser" , "activity" : "Make Online Entries" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 20 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Holly''s Office" , "activity" : "Hand in Employer Evaluation Form" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 21 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "HIL Room 105" , "activity" : "Meeting For INFO 3103 Project" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 24 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "E level of Head Hall" , "activity" : "Submit INFO1003 Assignment 2" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 26 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "ITD414" , "activity" : "Meeting For Tutoring" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 26 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "ITD414" , "activity" : "Tutoring" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 27 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "INFO 3103" , "activity" : "Assignment02 Due" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 28 , "startTime" : 10.3 , "endTime" : -1.0 , "place" : "GWD 120" , "activity" : "Have Info 4900 Meeting" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 29 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Cafeteria" , "activity" : "Have Tutoring" , "status" : "pending"}
+{ "year" : 2013 , "month" : 9 , "dateNumb" : 30 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Taobao" , "activity" : "Pay For The Order" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 0 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Kfang Workshop" , "activity" : "Email Andrew About Course Selection" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 1 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "Fredericton" , "activity" : "Ride the Bicycle" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "ITD414" , "activity" : "No Lab" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 2 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "RSS2023" , "activity" : "Have Term Quiz #1" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 2 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "Tilley Lab" , "activity" : "Do The Paperwork" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 2 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "ADM2513" , "activity" : "Test#1: Chapters 1 2 3" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 2 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Info 1003" , "activity" : "Test#1" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 2 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Organizational Behaviour" , "activity" : "Due for class discussion quetions" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 3 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "U.N.B. HR" , "activity" : "Submit The Tax Form" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 3 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "Cafe Shop" , "activity" : "Tutoring" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 3 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "Head Hall 135" , "activity" : "Info 1003 Tutorial" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 4 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "WebAdviser" , "activity" : "Make Online Entries" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 4 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "GWD 120" , "activity" : "Info 4900 Meeting" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 4 , "startTime" : 10.3 , "endTime" : 11.3 , "place" : "Info 1003" , "activity" : "Test#1" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 4 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "INFO 3103" , "activity" : "Assignment02 Due" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 5 , "startTime" : 9.3 , "endTime" : 10.3 , "place" : "Kfang Workshop" , "activity" : "ADM Discussion Article" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 5 , "startTime" : 10.3 , "endTime" : 12.0 , "place" : "Kfang Workshop" , "activity" : "Upgrade My Webapp" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 5 , "startTime" : 16.0 , "endTime" : 0.0 , "place" : "Cafeteria" , "activity" : "Tutoring (Cancelled)" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 6 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "Mike''s House" , "activity" : "Thanksgiving Dinner" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 7 , "startTime" : 10.48 , "endTime" : -1.0 , "place" : "ADM2513" , "activity" : "Chapter 1 Discussion Article" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 10 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "Cafeteria" , "activity" : "Tutoring" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 11 , "startTime" : 9.0 , "endTime" : -1.0 , "place" : "ITD414" , "activity" : "Print Out RSS Assignment" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 11 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "ITC 414" , "activity" : "Info 3303 No Lab" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 11 , "startTime" : 11.3 , "endTime" : -1.0 , "place" : "RSS2023" , "activity" : "Due For Optional Assignment" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 13 , "startTime" : 16.0 , "endTime" : 18.0 , "place" : "SUB Ballroom" , "activity" : "Free Thanksgiving Dinner" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 14 , "startTime" : 12.0 , "endTime" : -1.0 , "place" : "Fredericton" , "activity" : "Lunch & Shopping" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 14 , "startTime" : 22.0 , "endTime" : -1.0 , "place" : "Peter" , "activity" : "The Money" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 15 , "startTime" : 16.0 , "endTime" : -1.0 , "place" : "Classroom" , "activity" : "Info 3303 Mid-Term (Chapter 1-6) 25%;" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 15 , "startTime" : 17.3 , "endTime" : -1.0 , "place" : "Tilley Lab" , "activity" : "Info 4900 Documentation Meeting" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 16 , "startTime" : 18.0 , "endTime" : -1.0 , "place" : "ITC" , "activity" : "Information System Management Speech" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 17 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Kfang Workshop" , "activity" : "Info 4900 Documentation Due" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 17 , "startTime" : 11.3 , "endTime" : 13.0 , "place" : "SUB Cafeteria" , "activity" : "Bible Study" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 17 , "startTime" : 17.3 , "endTime" : -1.0 , "place" : "Fredericton" , "activity" : "Birthday Dinner" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 18 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Financial Service" , "activity" : "Fill Out the International Health Insurance" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 18 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "WebAdviser" , "activity" : "Make Online Entries" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 21 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "Windows Lab" , "activity" : "Info 3103 Meeting" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 23 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "ADM2513" , "activity" : "Test#2: Chapter 4 5 6" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 23 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Kfang Workshop" , "activity" : "Money For Esme" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 24 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "Cafeteria" , "activity" : "Tutoring" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 25 , "startTime" : 10.3 , "endTime" : -1.0 , "place" : "Classroom" , "activity" : "Info 1003 test 2 (5 6 7)" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 25 , "startTime" : 11.3 , "endTime" : -1.0 , "place" : "Classroom" , "activity" : "RSS 2023 1st Observation Assignment Due" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 25 , "startTime" : 18.3 , "endTime" : -1.0 , "place" : "Evangel Church" , "activity" : "Pizza" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 25 , "startTime" : 8.3 , "endTime" : -1.0 , "place" : "Class Room" , "activity" : "Info 3103 Mid-Term" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 26 , "startTime" : 2.4 , "endTime" : -1.0 , "place" : "SWE Lab" , "activity" : "Info 4900 Meeting" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 28 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Linux Lab" , "activity" : "Info 31 03 Meeting" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 28 , "startTime" : 9.3 , "endTime" : -1.0 , "place" : "Classroom" , "activity" : "Info 3303 Mid-Term (1 - 6)" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 29 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Superstore" , "activity" : "Pick up The Delivery" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 30 , "startTime" : 18.0 , "endTime" : 21.0 , "place" : "Alumni Memorial Building" , "activity" : "ISAO Halloween Party" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 30 , "startTime" : 8.0 , "endTime" : -1.0 , "place" : "Classroom" , "activity" : "Java EE Presentation" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 30 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "CETL" , "activity" : "Meeting With Partners" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 30 , "startTime" : 11.3 , "endTime" : -1.0 , "place" : "Classroom" , "activity" : "RSS 2023 test # 2" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 31 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "Fredericton" , "activity" : "Pick up The Delivery" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 31 , "startTime" : 11.45 , "endTime" : -1.0 , "place" : "SUB Cafeteria" , "activity" : "Bible Study" , "status" : "pending"}
+{ "year" : 2013 , "month" : 10 , "dateNumb" : 31 , "startTime" : 19.3 , "endTime" : -1.0 , "place" : "Cafeteria" , "activity" : "Tutoring" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 1 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Kfang Workshop" , "activity" : "Replay Gmails" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 1 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Kfang Workshop" , "activity" : "Fill in Online Time Sheet" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 1 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Kfang Workshop" , "activity" : "ADM 2513 Due For Discussion Question" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 1 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Kfang Workshop" , "activity" : "INFO 3103 Assignment 3 Due" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 2 , "startTime" : 22.0 , "endTime" : -1.0 , "place" : "Kfang Workshop" , "activity" : "List of hours short by week" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 2 , "startTime" : 22.0 , "endTime" : -1.0 , "place" : "Kfang Workshop" , "activity" : "Complete 6.0 and 6.2 Modules" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 3 , "startTime" : 19.3 , "endTime" : -1.0 , "place" : "Currie Center" , "activity" : "Basketball" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 6 , "startTime" : 2.3 , "endTime" : -1.0 , "place" : "Marshall d''Avray Hall" , "activity" : "Meeting With Bev and Richard" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 6 , "startTime" : 3.3 , "endTime" : -1.0 , "place" : "Marshall d''Avray Hall Rm 138" , "activity" : "Meeting With Heather and Bev" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 7 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Cafeteria" , "activity" : "Tutoring" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 8 , "startTime" : 16.0 , "endTime" : -1.0 , "place" : "CC Jones Room 113" , "activity" : "Consult For The U.S. VISA" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 12 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "CC Jones Room 113" , "activity" : "Apply For The U.S. visa" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 13 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "Classroom" , "activity" : "ADM2513 Test#3  (Chapter " , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 14 , "startTime" : 18.0 , "endTime" : -1.0 , "place" : "Superstore" , "activity" : "Take the bus to Halifax" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 14 , "startTime" : 13.0 , "endTime" : -1.0 , "place" : "GWD 120" , "activity" : "Info 3103 Meeting" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 15 , "startTime" : 13.0 , "endTime" : -1.0 , "place" : "U.S. Embassy" , "activity" : "Receive My visa" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 15 , "startTime" : 9.1 , "endTime" : -1.0 , "place" : "U.S. Embassy" , "activity" : "Interview for the visa" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 15 , "startTime" : 16.0 , "endTime" : -1.0 , "place" : "Kfang Workshop" , "activity" : "Online Time Sheet" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 15 , "startTime" : 11.3 , "endTime" : -1.0 , "place" : "RSS2023" , "activity" : "2nd Observation Assignment" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 16 , "startTime" : 15.15 , "endTime" : -1.0 , "place" : "Halifax Airport" , "activity" : "Take The Flight To New York" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 16 , "startTime" : 12.0 , "endTime" : -1.0 , "place" : "Web Advisor" , "activity" : "Add Time Entry" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 17 , "startTime" : 21.0 , "endTime" : -1.0 , "place" : "103 Canal Stree" , "activity" : "NY" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 18 , "startTime" : 10.3 , "endTime" : -1.0 , "place" : "Classroom" , "activity" : "Info 1003 Test 3" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 19 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Cincinnati" , "activity" : "Eat Dinner" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 23 , "startTime" : 13.0 , "endTime" : -1.0 , "place" : "Skype" , "activity" : "Info 3103 Meeting" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 27 , "startTime" : 8.3 , "endTime" : -1.0 , "place" : "Classroom" , "activity" : "Radian 6 Demo" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 28 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Cellphone" , "activity" : "Make Hotel Reservation in New York" , "status" : "pending"}
+{ "year" : 2013 , "month" : 11 , "dateNumb" : 29 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Web Adviser" , "activity" : "Online Time Sheet" , "status" : "pending"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 3 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "New York" , "activity" : "Fly to Fredericton" , "status" : "pending"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 4 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "Marshall A''davray" , "activity" : "Meeting" , "status" : "pending"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 5 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "Walmart" , "activity" : "Shopping" , "status" : "pending"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 5 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "Software Engineering Lab" , "activity" : "Info 4900 Meeting" , "status" : "pending"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 7 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Web Advisor" , "activity" : "Enter Entries for this week then next week ahead" , "status" : "pending"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 7 , "startTime" : 9.0 , "endTime" : -1.0 , "place" : "Head Hall Room 110" , "activity" : "Info 3303 Final" , "status" : "pending"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 11 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Urec room 4-02A rows 4&B 6-7" , "activity" : "Info 3103 Final" , "status" : "pending"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 12 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "South Gym rows A 10-14" , "activity" : "ADM 2513 Final" , "status" : "pending"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 15 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Web Advisor" , "activity" : "Enter Entries Until 3rd Jan" , "status" : "pending"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 16 , "startTime" : 9.0 , "endTime" : -1.0 , "place" : "Urec room 4-02A rows A&B 15-22" , "activity" : "RSS 2023 Final" , "status" : "pending"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 18 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "Head Hall room C11" , "activity" : "Info 1003 final" , "status" : "pending"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 20 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Kfang Workshop" , "activity" : "Clean the teeth & Cavity" , "status" : "pending"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 22 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Peter''s House" , "activity" : "Supper" , "status" : "pending"}
+{ "year" : 2013 , "month" : 12 , "dateNumb" : 23 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "Marshall A''davray" , "activity" : "Meeting" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 6 , "startTime" : 15.45 , "endTime" : -1.0 , "place" : "ITC" , "activity" : "Meeting With Trish" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 6 , "startTime" : 10.3 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "First Day of Classes" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 7 , "startTime" : 18.0 , "endTime" : -1.0 , "place" : "Sobeys" , "activity" : "Do The Groceries" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 10 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "Info 4900" , "activity" : "Meeting with Yevgen" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 10 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Web Advisor" , "activity" : "Online Time Sheet" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 10 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Info 4900" , "activity" : "Requirement Analysis Document" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 14 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "SUB" , "activity" : "Drop Off Books To Sell" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 14 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Info 4997" , "activity" : "Assignment 1: Code Academy" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 15 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "FWD120" , "activity" : "Info 4900 Meeting" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 15 , "startTime" : 9.0 , "endTime" : -1.0 , "place" : "SUB" , "activity" : "Buy Books" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 17 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "Last Day for Payment of Tuition Fees" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 17 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "SUB" , "activity" : "Pick up unsold books" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 17 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "UNB" , "activity" : "Last Day To Add/Drop Courses" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 18 , "startTime" : 4.0 , "endTime" : -1.0 , "place" : "INFO 3403" , "activity" : "Lab1: SQL queries" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 18 , "startTime" : 4.0 , "endTime" : -1.0 , "place" : "INFO 3403" , "activity" : "Assignment 1: Relational Algebra" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 20 , "startTime" : 12.0 , "endTime" : -1.0 , "place" : "Co-op" , "activity" : "Positions Online" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 20 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "SUB" , "activity" : "Pickup Payment" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 24 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "HTML" , "activity" : "Online Time Sheet" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 24 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Student Union" , "activity" : "Opt out Health Plans" , "status" : "pending"}
+{ "year" : 2014 , "month" : 1 , "dateNumb" : 30 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "GWD 120" , "activity" : "Info 4900 Meeting" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 3 , "startTime" : 11.3 , "endTime" : -1.0 , "place" : "Co-op" , "activity" : "Application Deadline" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 3 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "Tax Return Form" , "activity" : "Submit the Form" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 5 , "startTime" : 16.0 , "endTime" : -1.0 , "place" : "GWD 120" , "activity" : "Info 4900 Meeting" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 5 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Financial Services" , "activity" : "Query About Payments" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 5 , "startTime" : 17.0 , "endTime" : 18.3 , "place" : "Milhan Roo" , "activity" : "Harriet Irving Library" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 7 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Part-Time" , "activity" : "Online Time Sheet" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 7 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "GWD 120" , "activity" : "Meeting with Darrell" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 7 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Singer Hall" , "activity" : "Copy of the SIN card" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 10 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Co-op" , "activity" : "Interview Starts" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 10 , "startTime" : 23.59 , "endTime" : -1.0 , "place" : "CS3503" , "activity" : "Test 1 Due" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 11 , "startTime" : 16.0 , "endTime" : -1.0 , "place" : "Info 3403" , "activity" : "Assignment 1 Due" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 14 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "GWD 120" , "activity" : "Info 4900 Meeting" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 14 , "startTime" : 23.0 , "endTime" : -1.0 , "place" : "CS3997" , "activity" : "Assignment 2" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 18 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "CS 4995" , "activity" : "Lab 2 Due" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 21 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Part-time" , "activity" : "Online Time Sheet" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 21 , "startTime" : 10.3 , "endTime" : -1.0 , "place" : "ITC 307 (Co-op)" , "activity" : "Interview With UNB" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 21 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Financial Service" , "activity" : "Pay Tuition" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 24 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "CS 3503" , "activity" : "Group Assignment" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 24 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "Co-op" , "activity" : "Interview Ends" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 24 , "startTime" : 10.3 , "endTime" : -1.0 , "place" : "CS3503" , "activity" : "Group Assignment 1 Due" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 27 , "startTime" : 17.0 , "endTime" : -1.0 , "place" : "WCS 2021" , "activity" : "Phenomenon Assignment" , "status" : "pending"}
+{ "year" : 2014 , "month" : 2 , "dateNumb" : 28 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Part-time" , "activity" : "Clean Workstation" , "status" : "pending"}
+{ "year" : 2014 , "month" : 3 , "dateNumb" : 24 , "startTime" : 12.3 , "endTime" : -1.0 , "place" : "INFO3403" , "activity" : "Mid - Term" , "status" : "pending"}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 21 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Fredericton" , "activity" : "Josh's Birthday" , "status" : "pending"}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 22 , "startTime" : 13.3 , "endTime" : -1.0 , "place" : "Psychology" , "activity" : "Exam 2" , "status" : "pending"}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 23 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "Sports" , "activity" : "Exam 3" , "status" : "pending"}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 24 , "startTime" : 16.0 , "endTime" : -1.0 , "place" : "c-9" , "activity" : "information session" , "status" : "pending"}
+{ "year" : 2014 , "month" : 10 , "dateNumb" : 26 , "startTime" : 16.3 , "endTime" : 17.3 , "place" : "Fredericton" , "activity" : "Learn Driving" , "status" : "pending"}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Lobby of Head Hall" , "activity" : "Sign up for graduate photo" , "status" : "pending"}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 2 , "startTime" : 16.3 , "endTime" : 17.3 , "place" : "Fredericton" , "activity" : "Learn Driving (100)" , "status" : "pending"}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 5 , "startTime" : 14.0 , "endTime" : 16.0 , "place" : "Sub Ballroom" , "activity" : "Job Affair" , "status" : "pending"}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 5 , "startTime" : 17.3 , "endTime" : -1.0 , "place" : "SUB" , "activity" : "Awards Ceremony" , "status" : "pending"}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 7 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "SUB" , "activity" : "Make Up Student ID" , "status" : "pending"}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 10 , "startTime" : 12.0 , "endTime" : -1.0 , "place" : "Home" , "activity" : "Potantial Phone Call" , "status" : "pending"}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 12 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Home" , "activity" : "Email Sean" , "status" : "pending"}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 13 , "startTime" : 8.0 , "endTime" : -1.0 , "place" : "Fredericton" , "activity" : "Learn Driving" , "status" : "pending"}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 13 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "Sports" , "activity" : "Exam 4" , "status" : "pending"}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 14 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "C24" , "activity" : "Grad Pictures" , "status" : "pending"}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 14 , "startTime" : 13.3 , "endTime" : -1.0 , "place" : "Psychology" , "activity" : "Exam 3" , "status" : "pending"}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 18 , "startTime" : 8.0 , "endTime" : 9.0 , "place" : "Fredericton" , "activity" : "Learn Driving (100)" , "status" : "pending"}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 20 , "startTime" : 8.0 , "endTime" : 9.0 , "place" : "Fredericton" , "activity" : "Learn Driving" , "status" : "pending"}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 25 , "startTime" : 8.0 , "endTime" : 9.0 , "place" : "Fredericton" , "activity" : "Learn Driving" , "status" : "pending"}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 28 , "startTime" : 18.3 , "endTime" : -1.0 , "place" : "Home" , "activity" : "Show The Room" , "status" : "pending"}
+{ "year" : 2014 , "month" : 11 , "dateNumb" : 28 , "startTime" : 8.0 , "endTime" : -1.0 , "place" : "Online Shopping" , "activity" : "Black Friday" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Godaddy" , "activity" : "Buy The Domain Name" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 1 , "startTime" : 20.0 , "endTime" : -1.0 , "place" : "Home" , "activity" : "The Rent And Prepare For Car Training Fees" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 2 , "startTime" : 13.3 , "endTime" : -1.0 , "place" : "Phone" , "activity" : "Phone Interview With Amazon" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 2 , "startTime" : 7.3 , "endTime" : -1.0 , "place" : "Fredericton" , "activity" : "Learn Driving (100)" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 3 , "startTime" : 8.0 , "endTime" : -1.0 , "place" : "Fredericton" , "activity" : "Learn Driving" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 5 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Godday" , "activity" : "Bought Domain kfangtech.com" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 9 , "startTime" : 8.0 , "endTime" : -1.0 , "place" : "First Rate" , "activity" : "Learn Driving (100)" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 9 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Mobile" , "activity" : "Top Up The Balance" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 10 , "startTime" : 20.0 , "endTime" : -1.0 , "place" : "ATM" , "activity" : "Get Some Changes" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 10 , "startTime" : 20.0 , "endTime" : -1.0 , "place" : "ITC" , "activity" : "Print Resumes and References" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 10 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "Tilley 102" , "activity" : "Sports Psychologist Appointment" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 11 , "startTime" : 11.0 , "endTime" : -1.0 , "place" : "Aircraft DH3 at YFC" , "activity" : "Fly to Montreal (AC7669)" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 12 , "startTime" : 13.3 , "endTime" : 17.0 , "place" : "Intercontinental Montreal" , "activity" : "Interview With Amazon" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 13 , "startTime" : 8.0 , "endTime" : -1.0 , "place" : "Aircraft DH3 at YUL" , "activity" : "Fly to Fredericton (AC7666)" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 15 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "Currie Center" , "activity" : "Psychology Final" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 16 , "startTime" : 8.0 , "endTime" : -1.0 , "place" : "FirstRate" , "activity" : "Learn Driving" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 16 , "startTime" : 21.0 , "endTime" : -1.0 , "place" : "Home" , "activity" : "Show The Room" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 18 , "startTime" : 8.0 , "endTime" : -1.0 , "place" : "Mandarin Palace" , "activity" : "Order In Advance" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 18 , "startTime" : 11.3 , "endTime" : -1.0 , "place" : "Mandarin Palace" , "activity" : "Lunch" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 19 , "startTime" : 8.0 , "endTime" : -1.0 , "place" : "FirstRate" , "activity" : "Learn Driving" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 19 , "startTime" : 16.0 , "endTime" : -1.0 , "place" : "Service New Brunswick" , "activity" : "Pay The Road Test Fees" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 19 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "CC Jones" , "activity" : "Post Graduate Work Permit" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 19 , "startTime" : 16.3 , "endTime" : -1.0 , "place" : "Post Office" , "activity" : "Form of Tax Return" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 19 , "startTime" : 13.0 , "endTime" : -1.0 , "place" : "Eyesover" , "activity" : "(Clean Workspace)Last Day of Work" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 22 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Email" , "activity" : "Email Tania" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 22 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "Rob Morrison" , "activity" : "Phone Call" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 23 , "startTime" : 9.0 , "endTime" : -1.0 , "place" : "First Rate" , "activity" : "Road Test" , "status" : "pending"}
+{ "year" : 2014 , "month" : 12 , "dateNumb" : 29 , "startTime" : 11.0 , "endTime" : 11.3 , "place" : "John Riddle" , "activity" : "(Estern Time) Phone Chat" , "status" : "pending"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 1 , "startTime" : 6.0 , "endTime" : -1.0 , "place" : "YFC" , "activity" : "Fly To Ottawa" , "status" : "pending"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 2 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Ottawa" , "activity" : "Buy Bus Pass" , "status" : "pending"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 2 , "startTime" : 11.3 , "endTime" : -1.0 , "place" : "Virgin Mobile" , "activity" : "Upgrade Mobile" , "status" : "pending"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 5 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "LinkedIn" , "activity" : "Premium Account" , "status" : "pending"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 5 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "BMO" , "activity" : "GST / HST Credit of $80.09" , "status" : "pending"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 5 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "340 Albert Street, Suit 1210" , "activity" : "Meet With Joey" , "status" : "pending"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 5 , "startTime" : 16.3 , "endTime" : -1.0 , "place" : "Ottawa" , "activity" : "Take Passport Photo" , "status" : "pending"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 6 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "1740 Comstock Road" , "activity" : "Drop off application package" , "status" : "pending"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 7 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "490 Sussex Drive" , "activity" : "U.S. Business or Pleasure visa Interview" , "status" : "pending"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 8 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Skype & Mobile" , "activity" : "Interview With Fusion Alliance" , "status" : "pending"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 11 , "startTime" : 14.3 , "endTime" : -1.0 , "place" : "Parliament Hill" , "activity" : "Sightseeing" , "status" : "pending"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 13 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "170 Laurier Avenue West, Suite 902" , "activity" : "Meet With Marika" , "status" : "pending"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 14 , "startTime" : 10.0 , "endTime" : 12.0 , "place" : "Apartment" , "activity" : "IT Support Team" , "status" : "pending"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 24 , "startTime" : 21.0 , "endTime" : -1.0 , "place" : "Skype" , "activity" : "Video Chat" , "status" : "pending"}
+{ "year" : 2015 , "month" : 1 , "dateNumb" : 31 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Pub" , "activity" : "Watch UFC" , "status" : "pending"}
+{ "year" : 2015 , "month" : 2 , "dateNumb" : 5 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "LinkedIn" , "activity" : "Premium Account" , "status" : "pending"}
+{ "year" : 2015 , "month" : 2 , "dateNumb" : 10 , "startTime" : 12.3 , "endTime" : -1.0 , "place" : "Lync" , "activity" : "Meeting" , "status" : "pending"}
+{ "year" : 2015 , "month" : 2 , "dateNumb" : 11 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "Lync" , "activity" : "Meeting" , "status" : "pending"}
+{ "year" : 2015 , "month" : 2 , "dateNumb" : 12 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "TD" , "activity" : "Application" , "status" : "pending"}
+{ "year" : 2015 , "month" : 2 , "dateNumb" : 13 , "startTime" : 12.3 , "endTime" : -1.0 , "place" : "200 Isabella Street" , "activity" : "Monitor" , "status" : "pending"}
+{ "year" : 2015 , "month" : 2 , "dateNumb" : 18 , "startTime" : 10.0 , "endTime" : 11.0 , "place" : "Mobile" , "activity" : "Phone Chat With Stephen" , "status" : "pending"}
+{ "year" : 2015 , "month" : 2 , "dateNumb" : 22 , "startTime" : 8.0 , "endTime" : -1.0 , "place" : "Amazon" , "activity" : "Prime Due Date" , "status" : "pending"}
+{ "year" : 2015 , "month" : 2 , "dateNumb" : 23 , "startTime" : 13.0 , "endTime" : -1.0 , "place" : "D299 Loeb Building" , "activity" : "Final Exam" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 2 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Mobile" , "activity" : "Possible Call From John" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 4 , "startTime" : 18.3 , "endTime" : -1.0 , "place" : "603 Cumberland St" , "activity" : "Web Project Night" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 7 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "601 Sumerset St" , "activity" : "Weekend Coffee House" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 7 , "startTime" : 21.3 , "endTime" : -1.0 , "place" : "156 Sparks St" , "activity" : "KarmaCode Live" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 9 , "startTime" : 15.45 , "endTime" : -1.0 , "place" : "299 Bank Street" , "activity" : "Interview With Gymtrack" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 10 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "Skype" , "activity" : "Chat with Stephaniew" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 11 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "350 Sparks St, Suite 910" , "activity" : "Meet With Victoria" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 11 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "Mobile" , "activity" : "Chat With Carolyn For Web Developer" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 12 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Skype" , "activity" : "Chat With Lisa" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 12 , "startTime" : 11.3 , "endTime" : -1.0 , "place" : "Mobile" , "activity" : "Chat with Carolyn For Web Developer" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 13 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "Apartment" , "activity" : "Showing" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 13 , "startTime" : 11.15 , "endTime" : -1.0 , "place" : "770 Broadview, Suite 103" , "activity" : "Medical Exam" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 16 , "startTime" : 13.0 , "endTime" : 17.0 , "place" : "11 Colonel By Drive" , "activity" : "Job Fair" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 20 , "startTime" : 14.0 , "endTime" : 14.3 , "place" : "Phone" , "activity" : "Chat with Gilles Duchesne (Sr Developer)" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 20 , "startTime" : 9.3 , "endTime" : -1.0 , "place" : "Phone" , "activity" : "Speak to Tavarare About 2 Roles" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 23 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "350 Sparks Street, 910" , "activity" : "Meet With Alex" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 23 , "startTime" : 18.0 , "endTime" : -1.0 , "place" : "2477-C Kaladar Avenue" , "activity" : "Property Stars" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 24 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Mobile" , "activity" : "Interview with Angie about Java Developer" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 25 , "startTime" : 11.0 , "endTime" : 12.0 , "place" : "343 Preston Street, 10th Floor" , "activity" : "Technical Interview With Michael Petrescu" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 26 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Mobile" , "activity" : "Chat With Joshua" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 26 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "350 Sparks Street" , "activity" : "Meet With Alex" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 27 , "startTime" : 10.0 , "endTime" : 12.0 , "place" : "6 Gurdwara Cres, Suite 202" , "activity" : "Interview With MyGroceriesDeals" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 27 , "startTime" : 15.0 , "endTime" : 15.3 , "place" : "490, boul. Saint-Joseph Gatineau" , "activity" : "Interview With RR Donnelley (cancelled)" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 29 , "startTime" : 9.0 , "endTime" : -1.0 , "place" : "2725 Equus Way" , "activity" : "See The Room" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 29 , "startTime" : 11.0 , "endTime" : -1.0 , "place" : "3866 Albion Road" , "activity" : "See The Room" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 29 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "6 Southview Crescent" , "activity" : "See The Room" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 29 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "2713 Farriers Lane" , "activity" : "See The Room" , "status" : "pending"}
+{ "year" : 2015 , "month" : 3 , "dateNumb" : 30 , "startTime" : 6.3 , "endTime" : -1.0 , "place" : "Greyhound (123)" , "activity" : "Move to Toronto (28002176)" , "status" : "pending"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 2 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "BMO Account" , "activity" : "GST / HST Credit of $80.08" , "status" : "pending"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 4 , "startTime" : 15.3 , "endTime" : -1.0 , "place" : "Starbucks, 1350 Baseline" , "activity" : "Chat With Alex" , "status" : "pending"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 8 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Mazda Dealer (2575 Bank St)" , "activity" : "Learn About Financing" , "status" : "pending"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 9 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Canada Post (2515 Bank St)" , "activity" : "ID Verification" , "status" : "pending"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 11 , "startTime" : 9.3 , "endTime" : 15.3 , "place" : "Jim's Driving School (4-1729 Bank Street)" , "activity" : "Take In-Class Lessons" , "status" : "pending"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 12 , "startTime" : 20.3 , "endTime" : 21.37 , "place" : "Ottawa Airport" , "activity" : "Fly To Toronto" , "status" : "pending"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 12 , "startTime" : 9.3 , "endTime" : 15.3 , "place" : "Jim's Driving School" , "activity" : "Take In-Class Lessons" , "status" : "pending"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 12 , "startTime" : 22.0 , "endTime" : -1.0 , "place" : "Airport" , "activity" : "Taxi To Courtyard Hotel (475 Yonge St)" , "status" : "pending"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 13 , "startTime" : 8.45 , "endTime" : -1.0 , "place" : "Ceridian Office (4110 Yonge Street, 5th Floor)" , "activity" : "Breakfast" , "status" : "pending"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 17 , "startTime" : 8.1 , "endTime" : -1.0 , "place" : "Toronto Airport" , "activity" : "Fly To Ottawa" , "status" : "pending"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 18 , "startTime" : 9.3 , "endTime" : 15.3 , "place" : "Jim's Driving School" , "activity" : "Take In-Class Lessons" , "status" : "pending"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 19 , "startTime" : 20.3 , "endTime" : -1.0 , "place" : "airport" , "activity" : "Fly to Toronto" , "status" : "pending"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 19 , "startTime" : 9.3 , "endTime" : 15.3 , "place" : "Jim's Driving School" , "activity" : "Take In-Class Lessons" , "status" : "pending"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 23 , "startTime" : 11.3 , "endTime" : -1.0 , "place" : "Dragon Pearl Buffet" , "activity" : "Lunch With Toronto Team" , "status" : "pending"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 24 , "startTime" : 20.0 , "endTime" : -1.0 , "place" : "Airport" , "activity" : "Fly Back to Ottawa" , "status" : "pending"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 24 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "N/A" , "activity" : "Timesheet For MyDayforce" , "status" : "pending"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 24 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "N/A" , "activity" : "Reimbursement Question" , "status" : "pending"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 25 , "startTime" : 14.0 , "endTime" : -1.0 , "place" : "Mazda Dealer" , "activity" : "Speak witg Mike" , "status" : "pending"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 27 , "startTime" : 9.0 , "endTime" : -1.0 , "place" : "343 Preston, 10th Floor" , "activity" : "Work" , "status" : "pending"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 29 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "1(888)999-2321 or dial 611" , "activity" : "Troubleshoot the mobile signal" , "status" : "pending"}
+{ "year" : 2015 , "month" : 4 , "dateNumb" : 30 , "startTime" : 13.0 , "endTime" : 14.0 , "place" : "GTM" , "activity" : "MyDashboard Demo" , "status" : "pending"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "1-877-207-8833" , "activity" : "Call them if don't hear back" , "status" : "pending"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 2 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "Ottawa" , "activity" : "In-Car Practices" , "status" : "pending"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 2 , "startTime" : 13.0 , "endTime" : 14.0 , "place" : "1811 Bank Street" , "activity" : "Meet With Russell" , "status" : "pending"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 5 , "startTime" : 18.3 , "endTime" : 20.0 , "place" : "Home" , "activity" : "In-Car Practises" , "status" : "pending"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 8 , "startTime" : 11.3 , "endTime" : 12.0 , "place" : "Big Easy's" , "activity" : "Gilles' Birthday" , "status" : "pending"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 8 , "startTime" : 15.0 , "endTime" : 16.0 , "place" : "GTM" , "activity" : "DataDictionary Branstorming" , "status" : "pending"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 9 , "startTime" : 11.3 , "endTime" : -1.0 , "place" : "Toyota Dealer" , "activity" : "Deposit" , "status" : "pending"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 10 , "startTime" : 10.0 , "endTime" : 11.3 , "place" : "Home" , "activity" : "In-Car Practise" , "status" : "pending"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 12 , "startTime" : 18.0 , "endTime" : 19.0 , "place" : "Work" , "activity" : "In-Car Practice" , "status" : "pending"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 13 , "startTime" : 12.0 , "endTime" : -1.0 , "place" : "Work" , "activity" : "Lunch With The Team" , "status" : "pending"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 14 , "startTime" : 13.0 , "endTime" : 14.0 , "place" : "Work" , "activity" : "Scavenger Hunt" , "status" : "pending"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 14 , "startTime" : 17.0 , "endTime" : 18.0 , "place" : "Work" , "activity" : "In-Car Practise" , "status" : "pending"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 17 , "startTime" : 13.0 , "endTime" : 15.0 , "place" : "Home" , "activity" : "In-Car Practise" , "status" : "pending"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 22 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "250 Russell Avenue" , "activity" : "See The Room" , "status" : "pending"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 22 , "startTime" : 18.1 , "endTime" : -1.0 , "place" : "1785 Riverside Dr" , "activity" : "See The Room" , "status" : "pending"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 24 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "1785 Riverside" , "activity" : "Pay Rent" , "status" : "pending"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 25 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Mobile" , "activity" : "Call Fakery For Deposit" , "status" : "pending"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 27 , "startTime" : 14.0 , "endTime" : 15.0 , "place" : "GTM" , "activity" : "Getting \"Social\" @ Ceridian" , "status" : "pending"}
+{ "year" : 2015 , "month" : 5 , "dateNumb" : 30 , "startTime" : 15.0 , "endTime" : -1.0 , "place" : "1785 Riverside" , "activity" : "Move" , "status" : "pending"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 1 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Phone" , "activity" : "Call CIC To Change Address" , "status" : "pending"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 2 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Mobile" , "activity" : "Call Jim's Driving" , "status" : "pending"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 10 , "startTime" : 18.0 , "endTime" : -1.0 , "place" : "Home" , "activity" : "Practice Driving" , "status" : "pending"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 10 , "startTime" : 13.0 , "endTime" : 13.3 , "place" : "Work" , "activity" : "Diagramming Library For Data Dictionary" , "status" : "pending"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 12 , "startTime" : 20.0 , "endTime" : 23.0 , "place" : "400 A Dalhousie Street" , "activity" : "Party" , "status" : "pending"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 14 , "startTime" : 8.0 , "endTime" : 14.0 , "place" : "Mont Rigaud Ski Resort" , "activity" : "Rock Climbing And Rappelling" , "status" : "pending"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 14 , "startTime" : 10.0 , "endTime" : -1.0 , "place" : "527 Bank" , "activity" : "pick up the mails" , "status" : "pending"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 15 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Work" , "activity" : "Integration Buddy For Nardos Erque" , "status" : "pending"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 17 , "startTime" : 8.25 , "endTime" : -1.0 , "place" : "Drive Test Walkley" , "activity" : "G2 Road Test" , "status" : "pending"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 17 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Phone" , "activity" : "Call Ali For The Credit Card" , "status" : "pending"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 18 , "startTime" : 19.0 , "endTime" : 9.3 , "place" : "249 Richmond Road" , "activity" : "Party" , "status" : "pending"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 18 , "startTime" : 11.0 , "endTime" : -1.0 , "place" : "110 Laurier Avenue" , "activity" : "Apply For Health Card And Change Address" , "status" : "pending"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 19 , "startTime" : 12.0 , "endTime" : 13.0 , "place" : "Unknown" , "activity" : "Lunch" , "status" : "pending"}
+{ "year" : 2015 , "month" : 6 , "dateNumb" : 19 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "101 Clarence St." , "activity" : "Party" , "status" : "pending"}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 6 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Email" , "activity" : "Benefit Enrolment" , "status" : "pending"}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 7 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Work" , "activity" : "Demo" , "status" : "pending"}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 12 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Gatineau Park" , "activity" : "Party" , "status" : "pending"}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 16 , "startTime" : 12.0 , "endTime" : -1.0 , "place" : "48 Lynn, Gatineau " , "activity" : "BBQ" , "status" : "pending"}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 18 , "startTime" : 13.15 , "endTime" : 14.15 , "place" : "Home" , "activity" : "Car Practice" , "status" : "pending"}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 20 , "startTime" : 17.3 , "endTime" : -1.0 , "place" : "Home" , "activity" : "Car Practice" , "status" : "pending"}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 21 , "startTime" : 12.2 , "endTime" : -1.0 , "place" : "1570 WALKLEY" , "activity" : "Road Test" , "status" : "pending"}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 21 , "startTime" : 11.2 , "endTime" : -1.0 , "place" : "Home" , "activity" : "Wait For Peimen" , "status" : "pending"}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 24 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Toronto" , "activity" : "Travel" , "status" : "pending"}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 25 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "home" , "activity" : "Paid July, Aug, Sept, Last Month ($2800)" , "status" : "pending"}
+{ "year" : 2015 , "month" : 7 , "dateNumb" : 28 , "startTime" : 11.0 , "endTime" : -1.0 , "place" : "Scotia Bank" , "activity" : "Appointment With Nicky" , "status" : "pending"}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 7 , "startTime" : 11.0 , "endTime" : -1.0 , "place" : "3755 Riverside Drive" , "activity" : "Interview With Yvon, IBM" , "status" : "pending"}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 12 , "startTime" : 15.0 , "endTime" : 18.0 , "place" : "201 Queen St" , "activity" : "Escapte Manor" , "status" : "pending"}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 21 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "litmos.com" , "activity" : "Complete Privacy Trainning" , "status" : "pending"}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 27 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Kfang" , "activity" : "Change Contacts" , "status" : "pending"}
+{ "year" : 2015 , "month" : 8 , "dateNumb" : 27 , "startTime" : 19.0 , "endTime" : -1.0 , "place" : "Whisper" , "activity" : "Party" , "status" : "pending"}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 5 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Bank" , "activity" : "103.75 GST Deposit" , "status" : "pending"}
+{ "year" : 2015 , "month" : 10 , "dateNumb" : 20 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Home" , "activity" : "Change Contacts" , "status" : "pending"}
+{ "year" : 2016 , "month" : 1 , "dateNumb" : 5 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Bank" , "activity" : "103.75 GST Deposit" , "status" : "pending"}
+{ "year" : 2016 , "month" : 4 , "dateNumb" : 5 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Bank" , "activity" : "103.75 GST Deposit" , "status" : "pending"}
+{ "year" : 2016 , "month" : 7 , "dateNumb" : 25 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Contacts" , "activity" : "Discard The Contacts" , "status" : "pending"}
+{ "year" : 2016 , "month" : 8 , "dateNumb" : 26 , "startTime" : -1.0 , "endTime" : -1.0 , "place" : "Home" , "activity" : "Rachelle's Birthday" , "status" : "pending"}

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<script src='../libraries/jquery-1.11.1.js'></script>
+
+<!-- 1. Import JIT Library -->
+
+<!-- <link type="text/css" href="../libraries/Jit/Examples/css/Spacetree.css" rel="stylesheet" /> -->
+<script type="text/javascript" src="../libraries/Jit/jit.js"></script>
+
+<!-- 2. Import The JSON Data -->
+<script type="text/javascript" 	src="js/theOriginalJson.js"></script>
+<script type="text/javascript" 	src="js/kennyJSON.js"></script>
+
+<!-- 3. My Customizations -->
+<script type="text/javascript" 	src="js/kfangLab.js"></script>
+<link 	type="text/css" 		href="css/kfangLab.css" rel="stylesheet" />
+
+<title>Spacetree Test</title>
+</head>
+
+<body>
+
+	
+	<!--  Container -->
+	<div id="container">
+
+		<div id="log"></div>
+
+		<div id="swithContainer">
+
+			<h4>Tree Orientation</h4>
+			<table class="theTable" >
+				<tr>
+					<td><label for="r-left">Left </label></td>
+					<td><input type="radio" id="r-left" name="orientation" checked="checked" value="left" /></td>
+				</tr>
+				<tr>
+					<td><label for="r-top">Top </label></td>
+					<td><input type="radio" id="r-top" name="orientation" value="top" /></td>
+				</tr>
+				<tr>
+					<td><label for="r-bottom">Bottom </label></td>
+					<td><input type="radio" id="r-bottom" name="orientation" value="bottom" /></td>
+				</tr>
+				<tr>
+					<td><label for="r-right">Right </label></td>
+					<td><input type="radio" id="r-right" name="orientation" value="right" /></td>
+				</tr>
+			</table>
+
+
+			<div class="selectionMode" >
+				<h4>Selection Mode</h4>
+				<table class="theTable" >
+					<tr>
+						<td><label for="s-normal">Normal </label></td>
+						<td><input type="radio" id="s-normal" name="selection" checked="checked" value="normal" /></td>
+					</tr>
+					<tr>
+						<td><label for="s-root">Set as Root </label></td>
+						<td><input type="radio" id="s-root" name="selection" value="root" /></td>
+					</tr>
+				</table>
+			</div>
+
+		</div>
+		
+		<div id="diagramContainer">
+			<div id="theDiagram"></div>
+		</div>
+		
+	</div>
+	<!-- End of  Container -->
+	
+</body>
+</html>

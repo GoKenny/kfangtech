@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LifeCycle: mvn compile , will do validate. Mvn install , will do previous lifecycle like package … validate></LifeCycle:>
+1.validate: <-------necessary information is available
+2.compile: <-------compile source code
+3.test: <-------run unit test.
+4.package: <-------make package,such as a JAR,WAR. in Target folder
+5.integration-test: <-------deploy the package into an tomcat or jboss and run IT
+6.verify: <-------if package is valid
+7.install: <-------copy the package into the local repository
+8.deploy:<-------copies the generated package remote repository for sharing
+0.[mvn clean] <-------remove the target folder
+0.[mvn site] <-------generate the website
+0.[mvn eclipes:eclipse]
+
+<Topic: To Get Variable From Command Lines>
+     <something>${env.Name}</something>
+Command Lines
+              mvn package -Denv.Name=kfang
+Eclipse 
+              run as-> run configuration -> environment
+
+<Topic: Use Values From Other Tag>
+     <something>${project.groupId}</something>
+              
+<Topic: To Upload/Deploy To Cenral Repository>
+Jar will be like:                                  URL +      groupID  + artifactID+Version               
+  e.g.  http://nexus.rim.net/content/repositories/public/net/kuinai/fang/kfanglab-1.2.3.jar
+	<distributionManagement>
+		<repository>
+			<id>repo</id>
+			<name>Repository Name</name>
+			<url>http://nexus.rim.net/content/repositories/releases</url>
+		</repository>
+	</distributionManagement>              
+              
+<Topic To Download Dependecy/Jar From Central Repository>
+    <repositories>
+		<repository>
+			<id>rim internal releases</id>
+			<name>RIM Internal releases</name>
+			<url>http://nexus.rim.net/content/repositories/public</url>
+			<layout>default</layout>
+		</repository>
+	</repositories>
+
+<topic: Skip Test>
+      -Dmaven.test.skip=true
+
+<topic: Package Name>
+        artifactId-version.war
+              e.g. kfang-1.0.0.war
+
+<topic: Local Repository Location>
+.m2/
+
+<topic: Run Maven Build>
+1. right click POM ->Run as->Run Configuration
+2. Maven Buld
+3. Make sure "Base Directory" is pointing to this POM folder
+4. Select Evironment if need to pass value to the env.something
+
+<topic: Installing Maven Plugins for Eclipse>
+1.Help->Instal New Software
+2.Work with: {All Available Sites}
+3.search Maven
+4.Select "Maven Integration for Eclipse", Next
+
+<Topic: Installing Maven On Windows>
+1. Etract Binary Zip To              D:\Program Files\Maven
+2. Add System Variable: M2_HOME      D:\Program Files\Maven
+3. Add User variables:  M2           %M2_HOME%\bin
+4. Check Intallation By Typing: mvn -version
+
+<topic: Adding Resoruces to The Project>
+1.Create resources folder in test or main
+2.Put all the XML configuratioins files in the folder
+3.Right click project-> Properties-> Java Build Path
+4.Source tab-> Add Folder 
+5.In POM
+<build>
+	<resources>
+		<resource>
+			<directory>src/test/resources</directory>
+		</resource>
+	</resources>
+</build>
+So can "File file = new File("/Something");"
+
+<topic: Project Object Model ( POM ) directory Structure>
+src/main/java/...
+        /resources/...
+   /test/java/ ...
+        /resources/ ...
+
+
+<topic: Seting Up The Maven ProjectModel>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>kfang</groupId>
+	<artifactId>Kuinai</artifactId>
+	<packaging>jar</packaging>
+	<version>8999</version>
+
+	<properties to Define Your Own Local Variable>
+		<myName>Nine</myName>
+		<!-- somewhere in the POM ${mynNme} should be "Nine" -->
+	</properties>
+
+	<dependencies>
+
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>3.8.1</version>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>hibernate</groupId>
+			<artifactId>hibernate</artifactId>
+			<version>3.0.3</version>
+			<scope>compile</scope default>
+		</dependency>
+
+		<dependency to Use The Package I Made>
+			<groupId>com.javaworld.hotels</groupId>
+			<artifactId>HotelDatabase</artifactId>
+			<version>1.0.0</version>
+		</dependency>
+
+	</dependencies>
+
+	<build>
+
+		<plugins>
+
+			<plugin to Set Jar Output Folder>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-jar-plugin</artifactId>
+				<configuration>
+					<outputDirectory>Nine\....</outputDirectory>
+				</configuration>
+			</plugin>
+
+			<plugin to Package Including All Dependencies>
+				<artifactId>maven-assembly-plugin</artifactId>
+				<version>2.2</version>
+				<configuration>
+					<descriptorRefs>
+						<descriptorRef> jar-with-dependencies</descriptorRef>
+					</descriptorRefs>
+				</configuration>
+				<executions>
+					<execution>
+						<id>make-assembly</id>
+						<phase>package</phase>
+						<goals>
+							<goal>single</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+
+			<plugin Every 5 Seconds Check The Change In Source Into Built WAR>
+				<groupId>org.sortbay.jetty</groupId>
+				<artifactId>maven-jetty-plugin</artifactId>
+				<version>6.1.18</version>
+				<configuation>
+					<scanIntervalSeconds>5</scanIntervalSeconds>
+				</configuration>
+			</plugin>
+
+			<plugin May Want Other Version To Compile some Files>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>
+					2.0.2
+				</versioin>
+					<configuation>
+						<source>1.4 or 1.5</source>
+						<target>1.4 or 1.5</target>
+						same
+					</configuration>
+			</plugin>
+
+		</plugins>
+
+		<repositories>
+
+			<repository to Use Remote Repository>
+				<id>Rim Internal Releases</id>
+				<name>RIM Internal Releaseas</name>
+				<url>http://nexus.rim.net/content/repositories/public</url>
+				<layout>default</layout>
+			</repository>
+
+			<distributionManagement>
+				<repository>
+					<id>Remote</id>
+					<name>Remote Repository</name>
+					<url>http://something.com/something/something</url>
+				</repository>
+			</distributionManagement>
+
+		</repositories>
+
+		<profiles Only mvn - Pselenium to Run This Profile , mvn verify Won ' t Run This Profile>
+
+			<profile mvn - Pselenium verify>
+				<id>selenium</id>
+
+				<properties>
+					<cargo.port>8088</cargo.port>
+				</properties>
+
+				<build>
+
+					<plugins>
+
+						<plugin Use Failsafe Plugin to Run Selenium>
+							<groupId>org.apache.maven.plugins</groupId>
+							<artifactId>maven-failsafe-plugin</artifactId>
+
+							<executions>
+
+								<execution>
+									<id>integration-test</id>
+									<phase>integration-test</phase>
+									<configuration>
+										<excludes Exclude All the Java Class>
+											<exclude>**/selenium/*</exclude>
+										</excludes>
+									</configuration>
+									<goals>
+										<goal>integration-test</goal>
+									</goals>
+								</execution>
+
+								<execution>
+									<id>integration-test-selenium-opera</id>
+									<phase Only Run After This>integration-test</phase>
+									<goals>
+										<goal>integration-test</goal>
+									</goals>
+
+									<configuration>
+										<argLine>
+											-Dselenium.port=${selenium.port}
+											-Dselenium.browser=opera
+											-Dwebapp.url=http://${local_ip}:${cargo.port}/spatialfusionviewer/
+											-Dselenium.host=${selenium.host}
+											-Dcargo.home=${cargo.container.home}
+											-Dselenium.browserVersion=11.52
+										</argLine>
+										<includes But Include These Java Classes to Run>
+											<include>**/selenium/*ITCase.java</include>
+										</includes>
+									</configuration>
+								</execution>
+
+								<execution>
+									<id>integration-test-selenium-firefox</id>
+									<phase>integration-test</phase>
+									<goals>
+										<goal>integration-test</goal>
+									</goals>
+
+									<configuration>
+										<argLine>-Dselenium.port=${selenium.port}
+											-Dselenium.browser=firefox
+											-Dwebapp.url=http://${local_ip}:${cargo.port}/spatialfusionviewer/
+											-Dselenium.host=${selenium.host}
+											-Dcargo.home=${cargo.container.home}
+											-Dselenium.browserVersion=12.0
+										</argLine>
+										<includes>
+											<include>**/selenium/*ITCase.java</include>
+										</includes>
+									</configuration>
+								</execution>
+
+							</executions>
+						</plugin>
+
+						<plugin>
+							<groupId>org.codehaus.groovy.maven</groupId>
+							<artifactId>gmaven-plugin</artifactId>
+						</plugin>
+
+					</plugins>
+				</build>
+			</profile>
+
+		</profiles>
+
+</project>
+
+
+
+
+
+
+
+<Topic: Plugins in Selenium Profile That I am Not Sure></Topic:>
+<plugin ? Eclude Maybe>
+	<groupId>net.alchim31.maven</groupId>
+	<artifactId>yuicompressor-maven-plugin</artifactId>
+	<version>1.1</version>
+	<executions>
+		<execution>
+			<id>aggrCompress</id>
+			<goals>
+				<goal>compress</goal>
+			</goals>
+		</execution>
+	</executions>
+	<configuration>
+		<excludes>
+			<exclude>**/demo.js</exclude>
+			<exclude>**/*.pack.js</exclude>
+			<exclude>**/*-min.js</exclude>
+			<exclude>**/compressed.css</exclude>
+			<exclude>**/*.gif</exclude>
+			<exclude>**/*.png</exclude>
+			<exclude>**/examples/**/*.*</exclude>
+		</excludes>
+	</configuration>
+</plugin>
+
+<plugin ? Not Sure>
+	<groupId>org.codehaus.mojo</groupId>
+	<artifactId>sonar-maven-plugin</artifactId>
+	<executions>
+		<execution>
+			<phase>site</phase>
+			<id>sonar</id>
+			<goals>
+				<goal>sonar</goal>
+			</goals>
+		</execution>
+	</executions>
+</plugin>
+
+<plugin ? Not Sure>
+	<groupId>org.codehaus.cargo</groupId>
+	<artifactId>cargo-maven2-plugin</artifactId>
+</plugin>
+
